@@ -1,0 +1,2633 @@
+,first_team_score,game_date,game_line,second_team_name,second_team_score,total_line,second_team_full_name
+0,112,2015-10-28,-2.5, Minnesota,111,203.0,Minnesota Timberwolves
+1,132,2015-10-30,7.0, Sacramento,114,211.5,Sacramento Kings
+2,103,2015-11-01,4.0, Dallas,93,212.5,Dallas Mavericks
+3,120,2015-11-03,-2.5, Denver,109,203.5,Denver Nuggets
+4,104,2015-11-06,3.0, Brooklyn,98,207.5,Brooklyn Nets
+5,99,2015-11-08,5.5, New York,95,211.5,New York Knicks
+6,101,2015-11-10,11.0, Miami,88,200.0,Miami Heat
+7,101,2015-11-11,8.0, Orlando,99,201.5,Orlando Magic
+8,90,2015-11-13,7.5, Dallas,82,210.5,Dallas Mavericks
+9,97,2015-11-15,5.0, Detroit,85,200.5,Detroit Pistons
+10,120,2015-11-16,11.5, Phoenix,101,205.0,Phoenix Suns
+11,102,2015-11-20,7.0, Toronto,91,203.5,Toronto Raptors
+12,107,2015-11-22,2.5, Portland,93,204.5,Portland Trail Blazers
+13,111,2015-11-24,17.0, Golden State,77,215.0,Golden State Warriors
+14,108,2015-11-28,8.5, Portland,96,201.5,Portland Trail Blazers
+15,107,2015-11-29,10.0, Indiana,103,202.0,Indiana Pacers
+16,103,2015-12-01,1.0, Philadelphia,91,195.0,Philadelphia 76ers
+17,108,2015-12-02,10.0, Washington,104,204.0,Washington Wizards
+18,100,2015-12-04,11.0, Atlanta,87,206.5,Atlanta Hawks
+19,111,2015-12-06,9.5, Detroit,91,199.5,Detroit Pistons
+20,102,2015-12-07,11.5, Toronto,93,198.5,Toronto Raptors
+21,123,2015-12-09,7.5, Minnesota,122,204.0,Minnesota Timberwolves
+22,109,2015-12-11,15.0, San Antonio,87,193.5,San Antonio Spurs
+23,126,2015-12-12,12.0, Houston,97,212.0,Houston Rockets
+24,113,2015-12-15,3.5, Milwaukee,95,198.5,Milwaukee Bucks
+25,107,2015-12-17,6.5, Houston,87,215.0,Houston Rockets
+26,118,2015-12-19,16.5, Oklahoma City,78,207.5,Oklahoma City Thunder
+27,111,2015-12-22,5.0, Denver,107,204.5,Denver Nuggets
+28,120,2015-12-23,14.0, Oklahoma City,85,207.5,Oklahoma City Thunder
+29,94,2015-12-25,12.5, LA Clippers,84,207.5,Los Angeles Clippers
+30,112,2015-12-27,9.5, Memphis,96,195.0,Memphis Grizzlies
+31,108,2015-12-28,12.0, Charlotte,98,203.5,Charlotte Hornets
+32,112,2015-12-30,13.5, Boston,104,206.5,Boston Celtics
+33,93,2016-01-01,-2.5, Philadelphia,84,207.5,Philadelphia 76ers
+34,97,2016-01-03,1.0, Phoenix,77,209.0,Phoenix Suns
+35,109,2016-01-05,13.5, Golden State,88,211.5,Golden State Warriors
+36,118,2016-01-07,8.5, Sacramento,115,214.5,Sacramento Kings
+37,117,2016-01-08,15.0, Oklahoma City,113,212.0,Oklahoma City Thunder
+38,86,2016-01-10,3.5, Utah,74,191.0,Utah Jazz
+39,95,2016-01-12,2.0, New Orleans,91,203.5,New Orleans Pelicans
+40,116,2016-01-14,18.5, Golden State,98,216.0,Golden State Warriors
+41,109,2016-01-16,8.5, Utah,82,191.0,Utah Jazz
+42,112,2016-01-17,9.5, Houston,95,205.5,Houston Rockets
+43,112,2016-01-20,7.0, Sacramento,93,215.0,Sacramento Kings
+44,108,2016-01-22,16.0, San Antonio,95,198.5,San Antonio Spurs
+45,121,2016-01-23,11.5, Portland,103,209.5,Portland Trail Blazers
+46,92,2016-01-26,6.5, Dallas,90,201.0,Dallas Mavericks
+47,114,2016-01-28,8.5, Chicago,91,199.5,Chicago Bulls
+48,105,2016-01-29,14.0, LA Clippers,93,204.0,Los Angeles Clippers
+49,101,2016-01-31,4.0, Charlotte,82,201.0,Charlotte Hornets
+50,119,2016-02-02,4.5, Minnesota,115,206.0,Minnesota Timberwolves
+51,99,2016-02-04,9.5, New Orleans,96,210.0,New Orleans Pelicans
+52,106,2016-02-06,16.5, San Antonio,102,205.5,San Antonio Spurs
+53,89,2016-02-08,12.0, Indiana,87,207.0,Indiana Pacers
+54,120,2016-02-10,16.0, Cleveland,111,210.0,Cleveland Cavaliers
+55,119,2016-02-19,10.0, San Antonio,113,200.5,San Antonio Spurs
+56,126,2016-02-21,7.0, Chicago,115,210.0,Chicago Bulls
+57,108,2016-02-22,9.0, Milwaukee,101,210.5,Milwaukee Bucks
+58,128,2016-02-24,8.5, Memphis,119,207.0,Memphis Grizzlies
+59,112,2016-02-26,5.0, Memphis,95,213.0,Memphis Grizzlies
+60,107,2016-03-01,-1.0, Brooklyn,101,212.0,Brooklyn Nets
+61,117,2016-03-02,8.5, Denver,107,212.5,Denver Nuggets
+62,106,2016-03-04,11.0, Atlanta,77,203.5,Atlanta Hawks
+63,112,2016-03-06,17.5, Golden State,95,222.0,Golden State Warriors
+64,107,2016-03-08,4.0, Orlando,98,213.0,Orlando Magic
+65,120,2016-03-10,9.5, Cleveland,108,211.0,Cleveland Cavaliers
+66,90,2016-03-13,1.5, New York,87,209.5,New York Knicks
+67,106,2016-03-15,5.0, Sacramento,98,220.0,Sacramento Kings
+68,95,2016-03-18,-4.0, Phoenix,90,214.0,Phoenix Suns
+69,107,2016-03-22,3.5, Memphis,100,202.5,Memphis Grizzlies
+70,119,2016-03-23,5.5, Phoenix,107,214.0,Phoenix Suns
+71,116,2016-03-25,4.0, Denver,105,213.5,Denver Nuggets
+72,101,2016-03-27,9.0, Washington,88,213.5,Washington Wizards
+73,123,2016-03-28,13.5, Utah,75,189.0,Utah Jazz
+74,102,2016-03-30,10.5, Miami,100,208.0,Miami Heat
+75,107,2016-04-03,9.0, Boston,100,210.0,Boston Celtics
+76,103,2016-04-05,14.5, LA Clippers,81,208.0,Los Angeles Clippers
+77,91,2016-04-06,11.5, LA Clippers,81,203.0,Los Angeles Clippers
+78,110,2016-04-08,3.5, New Orleans,102,201.5,New Orleans Pelicans
+79,130,2016-04-10,14.5, Houston,110,213.0,Houston Rockets
+80,112,2016-04-11,15.5, Oklahoma City,79,216.5,Oklahoma City Thunder
+81,101,2016-04-13,4.0, Utah,96,196.5,Utah Jazz
+82,97,2015-10-27,-4.0, Cleveland,95,198.5,Cleveland Cavaliers
+83,115,2015-10-28,-5.0, Brooklyn,100,196.5,Brooklyn Nets
+84,98,2015-10-30,-2.5, Detroit,94,204.0,Detroit Pistons
+85,92,2015-11-01,-8.0, Orlando,87,199.0,Orlando Magic
+86,130,2015-11-03,-4.0, Charlotte,105,194.0,Charlotte Hornets
+87,104,2015-11-05,-1.0, Oklahoma City,98,211.5,Oklahoma City Thunder
+88,102,2015-11-07,-9.5, Minnesota,93,201.5,Minnesota Timberwolves
+89,111,2015-11-09,-10.5, Philadelphia,88,198.0,Philadelphia 76ers
+90,102,2015-11-13,-6.5, Charlotte,97,200.0,Charlotte Hornets
+91,96,2015-11-16,-6.5, Indiana,95,197.5,Indiana Pacers
+92,103,2015-11-18,3.0, Phoenix,97,203.0,Phoenix Suns
+93,106,2015-11-20,9.0, Golden State,94,208.5,Golden State Warriors
+94,93,2015-11-24,-2.5, Portland,88,201.5,Portland Trail Blazers
+95,104,2015-11-27,3.5, Indiana,92,199.5,Indiana Pacers
+96,92,2015-11-30,4.5, San Antonio,89,189.0,San Antonio Spurs
+97,99,2015-12-02,-9.5, Denver,90,197.0,Denver Nuggets
+98,102,2015-12-05,-5.5, Charlotte,96,195.5,Charlotte Hornets
+99,103,2015-12-07,-7.0, Phoenix,101,203.5,Phoenix Suns
+100,105,2015-12-09,3.5, Boston,100,200.5,Boston Celtics
+101,83,2015-12-10,1.5, LA Clippers,80,203.5,Los Angeles Clippers
+102,98,2015-12-12,-7.0, New Orleans,94,202.0,New Orleans Pelicans
+103,115,2015-12-14,-13.5, Philadelphia,96,195.0,Philadelphia 76ers
+104,98,2015-12-16,-4.5, Memphis,85,194.0,Memphis Grizzlies
+105,147,2015-12-18,-5.0, Detroit,144,197.0,Detroit Pistons
+106,107,2015-12-19,2.5, New York,91,194.5,New York Knicks
+107,105,2015-12-21,-10.5, Brooklyn,102,197.0,Brooklyn Nets
+108,105,2015-12-25,10.0, Oklahoma City,96,206.0,Oklahoma City Thunder
+109,118,2015-12-26,2.5, Dallas,111,200.5,Dallas Mavericks
+110,104,2015-12-28,-1.5, Toronto,97,198.0,Toronto Raptors
+111,102,2015-12-30,-3.0, Indiana,100,201.5,Indiana Pacers
+112,108,2016-01-01,-7.0, New York,81,199.0,New York Knicks
+113,115,2016-01-03,4.0, Toronto,113,195.5,Toronto Raptors
+114,117,2016-01-05,-8.5, Milwaukee,106,201.0,Milwaukee Bucks
+115,101,2016-01-07,-6.0, Boston,92,204.5,Boston Celtics
+116,120,2016-01-09,2.5, Atlanta,105,208.5,Atlanta Hawks
+117,114,2016-01-11,-8.5, Washington,100,208.0,Washington Wizards
+118,106,2016-01-12,-3.5, Milwaukee,101,203.0,Milwaukee Bucks
+119,115,2016-01-14,-8.5, Philadelphia,111,204.5,Philadelphia 76ers
+120,83,2016-01-15,-1.0, Dallas,77,201.0,Dallas Mavericks
+121,111,2016-01-18,3.0, Detroit,101,201.5,Detroit Pistons
+122,125,2016-01-20,6.0, Golden State,94,216.0,Golden State Warriors
+123,110,2016-01-22,3.5, Boston,101,208.5,Boston Celtics
+124,96,2016-01-23,10.5, Cleveland,83,202.0,Cleveland Cavaliers
+125,89,2016-01-25,-6.5, Miami,84,192.0,Miami Heat
+126,114,2016-01-28,-8.5, LA Lakers,91,199.5,Los Angeles Lakers
+127,120,2016-01-31,4.5, LA Clippers,93,202.5,Los Angeles Clippers
+128,105,2016-02-01,5.5, Utah,96,190.5,Utah Jazz
+129,107,2016-02-03,4.0, Sacramento,102,212.0,Sacramento Kings
+130,115,2016-02-05,3.0, Denver,110,207.0,Denver Nuggets
+131,112,2016-02-06,3.5, Minnesota,105,205.0,Minnesota Timberwolves
+132,108,2016-02-08,7.5, Charlotte,91,199.5,Charlotte Hornets
+133,113,2016-02-10,4.0, Atlanta,90,205.5,Atlanta Hawks
+134,106,2016-02-18,12.5, Cleveland,95,206.5,Cleveland Cavaliers
+135,116,2016-02-19,7.5, Toronto,106,200.0,Toronto Raptors
+136,126,2016-02-21,-7.0, LA Lakers,115,210.0,Los Angeles Lakers
+137,109,2016-02-24,1.5, Washington,104,211.0,Washington Wizards
+138,103,2016-02-26,7.5, Atlanta,88,208.5,Atlanta Hawks
+139,103,2016-02-27,4.5, Portland,95,209.5,Portland Trail Blazers
+140,129,2016-03-01,6.0, Miami,111,201.5,Miami Heat
+141,102,2016-03-02,5.0, Orlando,89,216.0,Orlando Magic
+142,108,2016-03-05,-1.5, Houston,100,216.5,Houston Rockets
+143,100,2016-03-07,-4.5, Milwaukee,90,212.0,Milwaukee Bucks
+144,109,2016-03-10,14.5, San Antonio,101,201.0,San Antonio Spurs
+145,118,2016-03-11,4.0, Miami,96,199.5,Miami Heat
+146,109,2016-03-14,9.5, Toronto,107,205.5,Toronto Raptors
+147,117,2016-03-16,5.0, Washington,96,213.5,Washington Wizards
+148,118,2016-03-17,-7.0, Brooklyn,102,213.0,Brooklyn Nets
+149,92,2016-03-19,-1.0, Utah,85,195.0,Utah Jazz
+150,109,2016-03-21,-8.0, Sacramento,102,219.5,Sacramento Kings
+151,115,2016-03-23,-9.5, New York,107,201.5,New York Knicks
+152,106,2016-03-24,-3.5, New York,94,205.0,New York Knicks
+153,111,2016-03-26,-7.0, Orlando,89,209.0,Orlando Magic
+154,102,2016-03-28,3.5, Atlanta,100,206.5,Atlanta Hawks
+155,98,2016-03-29,6.0, Indiana,96,204.5,Indiana Pacers
+156,103,2016-03-31,6.5, Houston,100,217.0,Houston Rockets
+157,94,2016-04-02,-3.0, Detroit,90,206.5,Detroit Pistons
+158,102,2016-04-03,1.5, Milwaukee,98,202.5,Milwaukee Bucks
+159,108,2016-04-05,-3.5, Memphis,92,200.5,Memphis Grizzlies
+160,106,2016-04-07,6.0, Miami,98,204.5,Miami Heat
+161,105,2016-04-09,7.0, Cleveland,102,204.5,Cleveland Cavaliers
+162,121,2016-04-11,-5.0, New Orleans,116,204.5,New Orleans Pelicans
+163,115,2016-04-13,-9.5, Philadelphia,105,210.0,Philadelphia 76ers
+164,112,2015-10-28,12.5, Boston,95,198.0,Boston Celtics
+165,99,2015-10-30,7.5, Utah,71,186.0,Utah Jazz
+166,107,2015-11-02,13.0, Cleveland,100,195.0,Cleveland Cavaliers
+167,91,2015-11-04,8.5, Milwaukee,87,195.0,Milwaukee Bucks
+168,108,2015-11-06,13.5, Cleveland,102,196.0,Cleveland Cavaliers
+169,105,2015-11-07,3.0, Orlando,97,191.5,Orlando Magic
+170,111,2015-11-09,10.5, Chicago,88,198.0,Chicago Bulls
+171,119,2015-11-11,9.5, Toronto,103,196.0,Toronto Raptors
+172,102,2015-11-13,13.0, Oklahoma City,85,206.5,Oklahoma City Thunder
+173,92,2015-11-14,16.0, San Antonio,83,194.0,San Antonio Spurs
+174,92,2015-11-16,8.0, Dallas,86,203.5,Dallas Mavericks
+175,112,2015-11-18,6.0, Indiana,85,190.5,Indiana Pacers
+176,113,2015-11-20,11.0, Charlotte,88,198.0,Charlotte Hornets
+177,96,2015-11-21,12.5, Miami,91,194.5,Miami Heat
+178,100,2015-11-23,7.5, Minnesota,95,200.5,Minnesota Timberwolves
+179,84,2015-11-25,12.0, Boston,80,201.5,Boston Celtics
+180,116,2015-11-27,11.5, Houston,114,200.5,Houston Rockets
+181,92,2015-11-29,13.0, Memphis,84,193.0,Memphis Grizzlies
+182,103,2015-12-01,-1.0, LA Lakers,91,195.0,Los Angeles Lakers
+183,99,2015-12-02,8.5, New York,87,191.0,New York Knicks
+184,108,2015-12-05,3.0, Denver,105,193.5,Denver Nuggets
+185,119,2015-12-07,10.0, San Antonio,68,189.0,San Antonio Spurs
+186,100,2015-12-10,6.5, Brooklyn,91,198.5,Brooklyn Nets
+187,107,2015-12-11,9.0, Detroit,95,192.5,Detroit Pistons
+188,96,2015-12-13,11.5, Toronto,76,192.5,Toronto Raptors
+189,115,2015-12-14,13.5, Chicago,96,195.0,Chicago Bulls
+190,127,2015-12-16,13.5, Atlanta,106,199.0,Atlanta Hawks
+191,107,2015-12-18,5.5, New York,97,196.0,New York Knicks
+192,108,2015-12-20,16.5, Cleveland,86,198.0,Cleveland Cavaliers
+193,104,2015-12-22,10.0, Memphis,90,193.5,Memphis Grizzlies
+194,113,2015-12-23,11.0, Milwaukee,100,196.0,Milwaukee Bucks
+195,111,2015-12-26,11.5, Phoenix,104,205.0,Phoenix Suns
+196,95,2015-12-28,8.5, Utah,91,195.0,Utah Jazz
+197,110,2015-12-30,10.5, Sacramento,105,215.5,Sacramento Kings
+198,93,2016-01-01,2.5, LA Lakers,84,207.5,Los Angeles Lakers
+199,130,2016-01-02,14.0, LA Clippers,99,203.5,Los Angeles Clippers
+200,109,2016-01-04,6.5, Minnesota,99,204.0,Minnesota Timberwolves
+201,126,2016-01-07,9.5, Atlanta,98,208.0,Atlanta Hawks
+202,108,2016-01-09,9.0, Toronto,95,202.0,Toronto Raptors
+203,95,2016-01-10,16.5, Cleveland,85,206.0,Cleveland Cavaliers
+204,115,2016-01-14,8.5, Chicago,111,204.5,Chicago Bulls
+205,114,2016-01-16,6.0, Portland,89,207.0,Portland Trail Blazers
+206,119,2016-01-18,10.0, New York,113,200.5,New York Knicks
+207,96,2016-01-20,7.0, Orlando,87,195.5,Orlando Magic
+208,112,2016-01-24,8.0, Boston,92,206.0,Boston Celtics
+209,113,2016-01-26,-2.0, Phoenix,103,204.5,Phoenix Suns
+210,110,2016-01-27,12.0, Detroit,97,207.0,Detroit Pistons
+211,108,2016-01-30,17.0, Golden State,105,218.0,Golden State Warriors
+212,124,2016-02-03,7.5, Atlanta,86,208.5,Atlanta Hawks
+213,106,2016-02-05,8.5, Washington,94,213.5,Washington Wizards
+214,103,2016-02-06,0.0, Brooklyn,98,205.5,Brooklyn Nets
+215,98,2016-02-08,9.0, LA Clippers,92,207.0,Los Angeles Clippers
+216,114,2016-02-10,5.5, Sacramento,110,220.0,Sacramento Kings
+217,121,2016-02-19,9.0, New Orleans,114,204.0,New Orleans Pelicans
+218,129,2016-02-21,9.0, Dallas,103,205.0,Dallas Mavericks
+219,124,2016-02-23,5.5, Orlando,115,208.5,Orlando Magic
+220,111,2016-02-24,11.5, Detroit,91,209.5,Detroit Pistons
+221,103,2016-02-26,7.5, Washington,94,216.5,Washington Wizards
+222,130,2016-02-28,9.0, Orlando,116,214.5,Orlando Magic
+223,116,2016-02-29,12.5, Washington,108,214.5,Washington Wizards
+224,119,2016-03-02,10.0, Charlotte,99,209.0,Charlotte Hornets
+225,112,2016-03-04,9.5, Miami,102,209.0,Miami Heat
+226,103,2016-03-06,14.0, Miami,98,210.5,Miami Heat
+227,118,2016-03-09,9.5, Houston,104,221.5,Houston Rockets
+228,95,2016-03-11,2.0, Brooklyn,89,209.0,Brooklyn Nets
+229,125,2016-03-12,11.0, Detroit,111,205.5,Detroit Pistons
+230,131,2016-03-15,7.0, Brooklyn,114,212.0,Brooklyn Nets
+231,99,2016-03-17,9.0, Washington,94,214.5,Washington Wizards
+232,111,2016-03-18,15.5, Oklahoma City,97,219.5,Oklahoma City Thunder
+233,120,2016-03-20,12.0, Boston,105,214.0,Boston Celtics
+234,91,2016-03-21,15.5, Indiana,75,211.5,Indiana Pacers
+235,104,2016-03-23,8.5, Denver,103,214.0,Denver Nuggets
+236,108,2016-03-26,15.0, Portland,105,219.0,Portland Trail Blazers
+237,117,2016-03-27,22.0, Golden State,105,225.0,Golden State Warriors
+238,100,2016-03-29,11.5, Charlotte,85,210.0,Charlotte Hornets
+239,100,2016-04-01,13.5, Charlotte,91,209.5,Charlotte Hornets
+240,115,2016-04-02,11.0, Indiana,102,201.5,Indiana Pacers
+241,107,2016-04-05,-2.5, New Orleans,93,206.5,New Orleans Pelicans
+242,109,2016-04-08,2.5, New York,102,203.0,New York Knicks
+243,109,2016-04-10,4.5, Milwaukee,108,205.5,Milwaukee Bucks
+244,122,2016-04-12,12.0, Toronto,98,204.5,Toronto Raptors
+245,115,2016-04-13,9.5, Chicago,105,210.0,Chicago Bulls
+246,112,2015-10-28,4.0, Oklahoma City,106,207.5,Oklahoma City Thunder
+247,102,2015-10-30,-14.0, Brooklyn,75,201.5,Brooklyn Nets
+248,95,2015-11-01,-5.5, Boston,87,202.5,Boston Celtics
+249,94,2015-11-02,-7.5, New York,84,203.0,New York Knicks
+250,102,2015-11-04,-4.0, Washington,99,201.0,Washington Wizards
+251,114,2015-11-07,-9.5, Charlotte,94,193.5,Charlotte Hornets
+252,106,2015-11-09,-8.0, Sacramento,88,203.0,Sacramento Kings
+253,113,2015-11-11,-6.5, Portland,101,205.5,Portland Trail Blazers
+254,92,2015-11-14,-16.0, Philadelphia,83,194.0,Philadelphia 76ers
+255,93,2015-11-16,-12.0, Portland,80,200.5,Portland Trail Blazers
+256,109,2015-11-18,-13.5, Denver,98,198.0,Denver Nuggets
+257,104,2015-11-20,-7.5, New Orleans,90,201.5,New Orleans Pelicans
+258,92,2015-11-21,-8.0, Memphis,82,190.0,Memphis Grizzlies
+259,98,2015-11-23,-9.5, Phoenix,84,196.5,Phoenix Suns
+260,88,2015-11-25,-10.0, Dallas,83,197.5,Dallas Mavericks
+261,91,2015-11-27,-7.5, Denver,80,195.0,Denver Nuggets
+262,108,2015-11-28,-7.0, Atlanta,88,193.0,Atlanta Hawks
+263,92,2015-11-30,-4.5, Chicago,89,189.0,Chicago Bulls
+264,95,2015-12-02,-12.0, Milwaukee,70,186.5,Milwaukee Bucks
+265,103,2015-12-03,-3.0, Memphis,83,183.5,Memphis Grizzlies
+266,108,2015-12-05,-8.5, Boston,105,192.0,Boston Celtics
+267,119,2015-12-07,-10.0, Philadelphia,68,189.0,Philadelphia 76ers
+268,97,2015-12-09,-6.0, Toronto,94,187.5,Toronto Raptors
+269,109,2015-12-11,-15.0, LA Lakers,87,193.5,Los Angeles Lakers
+270,103,2015-12-12,-3.0, Atlanta,78,190.5,Atlanta Hawks
+271,118,2015-12-14,-12.5, Utah,81,186.5,Utah Jazz
+272,114,2015-12-16,-13.0, Washington,95,198.0,Washington Wizards
+273,115,2015-12-18,-7.5, LA Clippers,107,195.5,Los Angeles Clippers
+274,106,2015-12-21,-9.0, Indiana,92,199.0,Indiana Pacers
+275,108,2015-12-23,-11.0, Minnesota,83,195.0,Minnesota Timberwolves
+276,88,2015-12-25,-7.0, Houston,84,204.5,Houston Rockets
+277,101,2015-12-26,-14.5, Denver,86,194.5,Denver Nuggets
+278,101,2015-12-28,-13.5, Minnesota,95,195.5,Minnesota Timberwolves
+279,112,2015-12-30,-14.5, Phoenix,79,198.5,Phoenix Suns
+280,121,2016-01-02,-11.0, Houston,103,201.5,Houston Rockets
+281,123,2016-01-04,-9.5, Milwaukee,98,192.0,Milwaukee Bucks
+282,123,2016-01-06,-13.5, Utah,98,183.5,Utah Jazz
+283,100,2016-01-08,-15.0, New York,99,196.5,New York Knicks
+284,106,2016-01-11,-14.5, Brooklyn,79,195.0,Brooklyn Nets
+285,109,2016-01-12,-7.0, Detroit,99,196.0,Detroit Pistons
+286,99,2016-01-14,-6.0, Cleveland,95,195.5,Cleveland Cavaliers
+287,112,2016-01-17,-12.5, Dallas,83,195.5,Dallas Mavericks
+288,117,2016-01-21,-16.0, Phoenix,89,200.0,Phoenix Suns
+289,108,2016-01-22,-16.0, LA Lakers,95,198.5,Los Angeles Lakers
+290,120,2016-01-25,4.5, Golden State,90,211.5,Golden State Warriors
+291,130,2016-01-27,-9.5, Houston,99,209.5,Houston Rockets
+292,117,2016-01-30,-1.5, Cleveland,103,202.5,Cleveland Cavaliers
+293,107,2016-02-01,-15.5, Orlando,92,202.5,Orlando Magic
+294,110,2016-02-03,-12.5, New Orleans,97,207.0,New Orleans Pelicans
+295,116,2016-02-05,-6.5, Dallas,90,198.0,Dallas Mavericks
+296,106,2016-02-06,-16.5, LA Lakers,102,205.5,Los Angeles Lakers
+297,119,2016-02-09,-6.5, Miami,101,196.0,Miami Heat
+298,98,2016-02-10,-8.5, Orlando,96,202.5,Orlando Magic
+299,105,2016-02-18,-1.0, LA Clippers,86,206.0,Los Angeles Clippers
+300,119,2016-02-19,-10.0, LA Lakers,113,200.5,Los Angeles Lakers
+301,118,2016-02-21,-14.0, Phoenix,111,204.0,Phoenix Suns
+302,108,2016-02-24,-8.0, Sacramento,92,219.0,Sacramento Kings
+303,96,2016-02-25,-3.0, Utah,78,193.5,Utah Jazz
+304,104,2016-02-27,-5.5, Houston,94,213.0,Houston Rockets
+305,97,2016-03-02,-11.0, Detroit,81,201.0,Detroit Pistons
+306,94,2016-03-03,-10.0, New Orleans,86,208.5,New Orleans Pelicans
+307,104,2016-03-05,-11.5, Sacramento,94,212.5,Sacramento Kings
+308,99,2016-03-07,-6.5, Indiana,91,195.0,Indiana Pacers
+309,116,2016-03-08,-9.5, Minnesota,91,206.5,Minnesota Timberwolves
+310,109,2016-03-10,-14.5, Chicago,101,201.0,Chicago Bulls
+311,93,2016-03-12,-9.0, Oklahoma City,85,211.5,Oklahoma City Thunder
+312,108,2016-03-15,-9.5, LA Clippers,87,201.0,Los Angeles Clippers
+313,118,2016-03-17,-11.5, Portland,110,204.5,Portland Trail Blazers
+314,87,2016-03-19,-4.5, Golden State,79,220.5,Golden State Warriors
+315,91,2016-03-21,-6.0, Charlotte,88,196.0,Charlotte Hornets
+316,112,2016-03-23,-10.5, Miami,88,196.5,Miami Heat
+317,110,2016-03-25,-13.0, Memphis,104,190.5,Memphis Grizzlies
+318,111,2016-03-26,12.5, Oklahoma City,92,207.5,Oklahoma City Thunder
+319,101,2016-03-28,-5.5, Memphis,87,193.0,Memphis Grizzlies
+320,100,2016-03-30,-19.0, New Orleans,92,196.0,New Orleans Pelicans
+321,102,2016-04-02,-13.5, Toronto,95,192.0,Toronto Raptors
+322,88,2016-04-05,-3.5, Utah,86,182.5,Utah Jazz
+323,112,2016-04-07,6.0, Golden State,101,208.5,Golden State Warriors
+324,102,2016-04-08,1.5, Denver,98,198.5,Denver Nuggets
+325,92,2016-04-10,-3.5, Golden State,86,206.0,Golden State Warriors
+326,102,2016-04-12,-13.0, Oklahoma City,98,202.5,Oklahoma City Thunder
+327,96,2016-04-13,5.0, Dallas,91,187.5,Dallas Mavericks
+328,106,2016-04-17,-16.5, Memphis,74,188.5,Memphis Grizzlies
+329,94,2016-04-19,-17.5, Memphis,68,186.0,Memphis Grizzlies
+330,96,2016-04-22,-12.0, Memphis,87,184.0,Memphis Grizzlies
+331,116,2016-04-24,-13.5, Memphis,95,181.5,Memphis Grizzlies
+332,124,2016-04-30,-6.5, Oklahoma City,92,200.0,Oklahoma City Thunder
+333,98,2016-05-02,-7.5, Oklahoma City,97,200.0,Oklahoma City Thunder
+334,100,2016-05-06,-2.5, Oklahoma City,96,200.0,Oklahoma City Thunder
+335,111,2016-05-08,2.0, Oklahoma City,97,199.0,Oklahoma City Thunder
+336,95,2016-05-10,-7.5, Oklahoma City,91,199.0,Oklahoma City Thunder
+337,113,2016-05-12,0.0, Oklahoma City,99,197.5,Oklahoma City Thunder
+338,105,2015-10-28,-10.5, Denver,85,212.0,Denver Nuggets
+339,112,2015-10-30,1.0, Golden State,92,216.5,Golden State Warriors
+340,109,2015-11-01,4.0, Miami,89,207.5,Miami Heat
+341,110,2015-11-02,4.5, Oklahoma City,105,217.5,Oklahoma City Thunder
+342,119,2015-11-04,-9.0, Orlando,114,207.5,Orlando Magic
+343,116,2015-11-06,-4.5, Sacramento,110,219.0,Sacramento Kings
+344,109,2015-11-07,5.5, LA Clippers,105,211.5,Los Angeles Clippers
+345,106,2015-11-11,-11.0, Brooklyn,98,208.0,Brooklyn Nets
+346,107,2015-11-13,-6.5, Denver,98,210.5,Denver Nuggets
+347,110,2015-11-14,-7.5, Dallas,98,207.5,Dallas Mavericks
+348,111,2015-11-16,-5.0, Boston,95,207.0,Boston Celtics
+349,108,2015-11-18,-7.0, Portland,103,210.5,Portland Trail Blazers
+350,96,2015-11-20,2.5, Memphis,84,199.5,Memphis Grizzlies
+351,107,2015-11-21,-4.5, New York,102,202.0,New York Knicks
+352,102,2015-11-25,-4.5, Memphis,93,198.5,Memphis Grizzlies
+353,116,2015-11-27,-11.5, Philadelphia,114,200.5,Philadelphia 76ers
+354,116,2015-11-29,-3.5, New York,111,199.0,New York Knicks
+355,116,2015-11-30,4.5, Detroit,105,198.0,Detroit Pistons
+356,108,2015-12-02,-3.5, New Orleans,101,214.5,New Orleans Pelicans
+357,100,2015-12-04,5.0, Dallas,96,212.0,Dallas Mavericks
+358,120,2015-12-05,-3.0, Sacramento,113,218.0,Sacramento Kings
+359,110,2015-12-08,-5.0, Brooklyn,105,207.0,Brooklyn Nets
+360,109,2015-12-09,4.5, Washington,103,214.0,Washington Wizards
+361,126,2015-12-12,-12.0, LA Lakers,97,212.0,Los Angeles Lakers
+362,114,2015-12-14,-4.5, Denver,108,209.5,Denver Nuggets
+363,107,2015-12-15,2.5, Sacramento,97,221.5,Sacramento Kings
+364,107,2015-12-17,-6.5, LA Lakers,87,215.0,Los Angeles Lakers
+365,107,2015-12-19,2.5, LA Clippers,97,213.0,Los Angeles Clippers
+366,102,2015-12-21,-3.5, Charlotte,95,208.0,Charlotte Hornets
+367,104,2015-12-23,1.5, Orlando,101,207.5,Orlando Magic
+368,88,2015-12-25,7.0, San Antonio,84,204.5,San Antonio Spurs
+369,110,2015-12-26,-1.5, New Orleans,108,209.0,New Orleans Pelicans
+370,121,2015-12-29,-3.5, Atlanta,115,208.0,Atlanta Hawks
+371,114,2015-12-31,-3.5, Golden State,110,211.0,Golden State Warriors
+372,121,2016-01-02,11.0, San Antonio,103,201.5,San Antonio Spurs
+373,93,2016-01-04,-3.5, Utah,91,198.0,Utah Jazz
+374,103,2016-01-07,-6.5, Utah,94,196.5,Utah Jazz
+375,107,2016-01-10,-2.5, Indiana,103,207.0,Indiana Pacers
+376,107,2016-01-12,-2.0, Memphis,91,196.0,Memphis Grizzlies
+377,107,2016-01-13,-7.5, Minnesota,104,207.0,Minnesota Timberwolves
+378,91,2016-01-15,2.0, Cleveland,77,205.0,Cleveland Cavaliers
+379,112,2016-01-17,-9.5, LA Lakers,95,205.5,Los Angeles Lakers
+380,140,2016-01-18,5.0, LA Clippers,132,209.5,Los Angeles Clippers
+381,123,2016-01-20,-3.0, Detroit,114,209.5,Detroit Pistons
+382,102,2016-01-22,-2.5, Milwaukee,98,211.0,Milwaukee Bucks
+383,115,2016-01-24,-4.0, Dallas,104,205.0,Dallas Mavericks
+384,112,2016-01-25,4.0, New Orleans,111,216.5,New Orleans Pelicans
+385,130,2016-01-27,9.5, San Antonio,99,209.5,San Antonio Spurs
+386,116,2016-01-29,8.0, Oklahoma City,108,223.0,Oklahoma City Thunder
+387,123,2016-01-30,-4.5, Washington,122,219.0,Washington Wizards
+388,115,2016-02-02,-4.5, Miami,102,211.0,Miami Heat
+389,111,2016-02-04,-7.5, Phoenix,105,217.5,Phoenix Suns
+390,96,2016-02-06,-5.0, Portland,79,219.0,Portland Trail Blazers
+391,123,2016-02-09,14.0, Golden State,110,229.0,Golden State Warriors
+392,116,2016-02-10,4.5, Portland,103,215.0,Portland Trail Blazers
+393,116,2016-02-19,-8.0, Phoenix,100,214.0,Phoenix Suns
+394,117,2016-02-23,4.5, Utah,114,203.0,Utah Jazz
+395,119,2016-02-25,4.0, Portland,105,218.5,Portland Trail Blazers
+396,104,2016-02-27,5.5, San Antonio,94,213.0,San Antonio Spurs
+397,128,2016-02-29,-3.0, Milwaukee,121,215.0,Milwaukee Bucks
+398,100,2016-03-02,-6.0, New Orleans,95,222.0,New Orleans Pelicans
+399,108,2016-03-05,1.5, Chicago,100,216.5,Chicago Bulls
+400,113,2016-03-06,7.5, Toronto,107,214.5,Toronto Raptors
+401,118,2016-03-09,-9.5, Philadelphia,104,221.5,Philadelphia 76ers
+402,102,2016-03-11,4.5, Boston,98,224.5,Boston Celtics
+403,125,2016-03-12,5.0, Charlotte,109,216.0,Charlotte Hornets
+404,130,2016-03-14,-11.5, Memphis,81,207.5,Memphis Grizzlies
+405,122,2016-03-16,-3.5, LA Clippers,106,217.0,Los Angeles Clippers
+406,116,2016-03-18,-9.0, Minnesota,111,224.0,Minnesota Timberwolves
+407,109,2016-03-19,7.0, Atlanta,97,215.0,Atlanta Hawks
+408,111,2016-03-22,9.0, Oklahoma City,107,226.0,Oklahoma City Thunder
+409,89,2016-03-23,-1.5, Utah,87,200.5,Utah Jazz
+410,112,2016-03-25,1.0, Toronto,109,210.0,Toronto Raptors
+411,104,2016-03-27,1.5, Indiana,101,210.5,Indiana Pacers
+412,106,2016-03-29,2.0, Cleveland,100,212.0,Cleveland Cavaliers
+413,103,2016-03-31,-6.5, Chicago,100,217.0,Chicago Bulls
+414,118,2016-04-03,3.0, Oklahoma City,110,221.5,Oklahoma City Thunder
+415,88,2016-04-06,-1.5, Dallas,86,206.5,Dallas Mavericks
+416,124,2016-04-07,-12.5, Phoenix,115,212.5,Phoenix Suns
+417,130,2016-04-10,-14.5, LA Lakers,110,213.0,Los Angeles Lakers
+418,129,2016-04-11,-3.5, Minnesota,105,216.5,Minnesota Timberwolves
+419,116,2016-04-13,-15.0, Sacramento,81,220.0,Sacramento Kings
+420,104,2016-04-16,13.0, Golden State,78,225.0,Golden State Warriors
+421,115,2016-04-18,8.5, Golden State,106,211.5,Golden State Warriors
+422,97,2016-04-21,3.5, Golden State,96,215.5,Golden State Warriors
+423,121,2016-04-24,8.5, Golden State,94,217.5,Golden State Warriors
+424,114,2016-04-27,9.0, Golden State,81,212.5,Golden State Warriors
+425,106,2015-10-27,7.0, Atlanta,94,196.5,Atlanta Hawks
+426,92,2015-10-28,0.0, Utah,87,191.5,Utah Jazz
+427,98,2015-10-30,2.5, Chicago,94,204.0,Chicago Bulls
+428,94,2015-11-03,-4.5, Indiana,82,200.5,Indiana Pacers
+429,100,2015-11-06,4.0, Phoenix,92,198.5,Phoenix Suns
+430,120,2015-11-08,1.5, Portland,103,199.5,Portland Trail Blazers
+431,109,2015-11-09,12.5, Golden State,95,208.5,Golden State Warriors
+432,101,2015-11-11,-2.0, Sacramento,92,205.5,Sacramento Kings
+433,101,2015-11-14,2.5, LA Clippers,96,196.5,Los Angeles Clippers
+434,97,2015-11-15,-5.0, LA Lakers,85,200.5,Los Angeles Lakers
+435,104,2015-11-17,4.5, Cleveland,99,195.0,Cleveland Cavaliers
+436,96,2015-11-20,-2.5, Minnesota,86,202.5,Minnesota Timberwolves
+437,97,2015-11-21,0.0, Washington,95,206.0,Washington Wizards
+438,109,2015-11-23,-3.0, Milwaukee,88,190.5,Milwaukee Bucks
+439,104,2015-11-25,-1.5, Miami,81,189.5,Miami Heat
+440,103,2015-11-27,8.0, Oklahoma City,87,209.0,Oklahoma City Thunder
+441,87,2015-11-29,-5.0, Brooklyn,83,193.0,Brooklyn Nets
+442,116,2015-11-30,-4.5, Houston,105,198.0,Houston Rockets
+443,127,2015-12-02,-3.5, Phoenix,122,203.0,Phoenix Suns
+444,102,2015-12-04,-6.5, Milwaukee,95,192.0,Milwaukee Bucks
+445,111,2015-12-06,-9.5, LA Lakers,91,199.5,Los Angeles Lakers
+446,104,2015-12-07,2.5, Charlotte,84,197.5,Charlotte Hornets
+447,93,2015-12-09,-4.5, Memphis,92,193.5,Memphis Grizzlies
+448,107,2015-12-11,-9.0, Philadelphia,95,192.5,Philadelphia 76ers
+449,118,2015-12-12,-1.5, Indiana,96,204.0,Indiana Pacers
+450,105,2015-12-14,2.0, LA Clippers,103,204.5,Los Angeles Clippers
+451,119,2015-12-16,-2.5, Boston,116,198.5,Boston Celtics
+452,147,2015-12-18,5.0, Chicago,144,197.0,Chicago Bulls
+453,93,2015-12-22,2.5, Miami,92,195.0,Miami Heat
+454,107,2015-12-23,7.0, Atlanta,100,200.0,Atlanta Hawks
+455,99,2015-12-26,1.5, Boston,93,204.0,Boston Celtics
+456,108,2015-12-29,-1.5, New York,96,198.5,New York Knicks
+457,115,2015-12-31,-8.0, Minnesota,90,201.5,Minnesota Timberwolves
+458,94,2016-01-02,4.5, Indiana,82,204.5,Indiana Pacers
+459,115,2016-01-04,-4.5, Orlando,89,198.0,Orlando Magic
+460,99,2016-01-06,3.0, Boston,94,202.0,Boston Celtics
+461,103,2016-01-09,-11.0, Brooklyn,89,194.5,Brooklyn Nets
+462,109,2016-01-12,7.0, San Antonio,99,196.0,San Antonio Spurs
+463,103,2016-01-14,-1.0, Memphis,101,192.0,Memphis Grizzlies
+464,113,2016-01-16,7.0, Golden State,95,216.5,Golden State Warriors
+465,111,2016-01-18,-3.0, Chicago,101,201.5,Chicago Bulls
+466,123,2016-01-20,3.0, Houston,114,209.5,Houston Rockets
+467,115,2016-01-21,2.5, New Orleans,99,206.0,New Orleans Pelicans
+468,104,2016-01-23,-4.5, Denver,101,205.5,Denver Nuggets
+469,95,2016-01-25,2.5, Utah,92,192.5,Utah Jazz
+470,110,2016-01-27,-12.0, Philadelphia,97,207.0,Philadelphia 76ers
+471,114,2016-01-29,4.0, Cleveland,106,207.5,Cleveland Cavaliers
+472,111,2016-01-30,7.5, Toronto,107,204.5,Toronto Raptors
+473,105,2016-02-01,-7.0, Brooklyn,100,202.5,Brooklyn Nets
+474,102,2016-02-03,4.0, Boston,95,209.5,Boston Celtics
+475,111,2016-02-04,-4.5, New York,105,200.5,New York Knicks
+476,112,2016-02-06,4.5, Indiana,104,203.5,Indiana Pacers
+477,103,2016-02-08,2.0, Toronto,89,206.0,Toronto Raptors
+478,103,2016-02-10,-4.0, Denver,92,207.0,Denver Nuggets
+479,98,2016-02-19,2.0, Washington,86,209.0,Washington Wizards
+480,111,2016-02-21,-5.0, New Orleans,106,206.5,New Orleans Pelicans
+481,96,2016-02-22,9.5, Cleveland,88,207.5,Cleveland Cavaliers
+482,111,2016-02-24,-11.5, Philadelphia,91,209.5,Philadelphia 76ers
+483,102,2016-02-27,1.0, Milwaukee,91,202.0,Milwaukee Bucks
+484,114,2016-02-28,-1.5, Toronto,101,199.0,Toronto Raptors
+485,97,2016-03-02,11.0, San Antonio,81,201.0,San Antonio Spurs
+486,102,2016-03-05,-7.0, New York,89,201.0,New York Knicks
+487,123,2016-03-06,1.5, Portland,103,207.5,Portland Trail Blazers
+488,102,2016-03-09,1.5, Dallas,96,206.5,Dallas Mavericks
+489,118,2016-03-11,4.0, Charlotte,103,202.5,Charlotte Hornets
+490,125,2016-03-12,-11.0, Philadelphia,111,205.5,Philadelphia 76ers
+491,124,2016-03-14,2.0, Washington,81,210.5,Washington Wizards
+492,118,2016-03-16,1.0, Atlanta,114,199.5,Atlanta Hawks
+493,115,2016-03-18,-7.0, Sacramento,108,218.5,Sacramento Kings
+494,115,2016-03-19,-8.0, Brooklyn,103,211.5,Brooklyn Nets
+495,92,2016-03-21,-7.5, Milwaukee,91,206.5,Milwaukee Bucks
+496,118,2016-03-23,-6.0, Orlando,102,204.5,Orlando Magic
+497,112,2016-03-25,-1.5, Charlotte,105,206.0,Charlotte Hornets
+498,112,2016-03-26,-1.5, Atlanta,95,207.0,Atlanta Hawks
+499,88,2016-03-29,-1.5, Oklahoma City,82,214.0,Oklahoma City Thunder
+500,98,2016-04-01,-5.5, Dallas,89,205.0,Dallas Mavericks
+501,94,2016-04-02,3.0, Chicago,90,206.5,Chicago Bulls
+502,107,2016-04-05,4.5, Miami,89,202.0,Miami Heat
+503,108,2016-04-06,3.0, Orlando,104,208.5,Orlando Magic
+504,112,2016-04-08,-6.0, Washington,99,203.5,Washington Wizards
+505,99,2016-04-12,1.5, Miami,93,199.5,Miami Heat
+506,112,2016-04-13,4.0, Cleveland,110,194.0,Cleveland Cavaliers
+507,106,2016-04-17,11.0, Cleveland,101,200.5,Cleveland Cavaliers
+508,107,2016-04-20,11.0, Cleveland,90,202.0,Cleveland Cavaliers
+509,101,2016-04-22,4.5, Cleveland,91,200.5,Cleveland Cavaliers
+510,100,2016-04-24,6.5, Cleveland,98,198.0,Cleveland Cavaliers
+511,112,2015-10-28,-12.5, Philadelphia,95,198.0,Philadelphia 76ers
+512,113,2015-10-30,-2.0, Toronto,103,200.0,Toronto Raptors
+513,95,2015-11-01,5.5, San Antonio,87,202.5,San Antonio Spurs
+514,100,2015-11-04,-2.0, Indiana,98,207.0,Indiana Pacers
+515,118,2015-11-06,-1.5, Washington,98,210.0,Washington Wizards
+516,99,2015-11-10,-2.0, Milwaukee,83,202.5,Milwaukee Bucks
+517,102,2015-11-11,-3.5, Indiana,91,202.5,Indiana Pacers
+518,106,2015-11-13,1.5, Atlanta,93,206.5,Atlanta Hawks
+519,100,2015-11-15,5.0, Oklahoma City,85,211.5,Oklahoma City Thunder
+520,111,2015-11-16,5.0, Houston,95,207.0,Houston Rockets
+521,106,2015-11-18,-5.0, Dallas,102,207.5,Dallas Mavericks
+522,120,2015-11-20,-9.0, Brooklyn,95,204.0,Brooklyn Nets
+523,111,2015-11-22,-6.0, Brooklyn,101,200.5,Brooklyn Nets
+524,121,2015-11-24,2.5, Atlanta,97,205.0,Atlanta Hawks
+525,84,2015-11-25,-12.0, Philadelphia,80,201.5,Philadelphia 76ers
+526,111,2015-11-27,-3.0, Washington,78,211.0,Washington Wizards
+527,110,2015-11-29,-2.0, Orlando,91,201.5,Orlando Magic
+528,105,2015-11-30,4.0, Miami,95,192.5,Miami Heat
+529,114,2015-12-03,-2.0, Sacramento,97,215.0,Sacramento Kings
+530,108,2015-12-05,8.5, San Antonio,105,192.0,San Antonio Spurs
+531,111,2015-12-07,-1.5, New Orleans,93,211.0,New Orleans Pelicans
+532,105,2015-12-09,-3.5, Chicago,100,200.5,Chicago Bulls
+533,124,2015-12-11,5.0, Golden State,119,214.0,Golden State Warriors
+534,98,2015-12-12,3.0, Charlotte,93,202.5,Charlotte Hornets
+535,89,2015-12-15,1.5, Cleveland,77,202.5,Cleveland Cavaliers
+536,119,2015-12-16,2.5, Detroit,116,198.5,Detroit Pistons
+537,109,2015-12-18,-3.5, Atlanta,101,206.5,Atlanta Hawks
+538,113,2015-12-21,-7.5, Minnesota,99,210.0,Minnesota Timberwolves
+539,102,2015-12-23,1.5, Charlotte,89,204.5,Charlotte Hornets
+540,99,2015-12-26,-1.5, Detroit,93,204.0,Detroit Pistons
+541,100,2015-12-27,-8.5, New York,91,203.0,New York Knicks
+542,112,2015-12-30,-13.5, LA Lakers,104,206.5,Los Angeles Lakers
+543,100,2016-01-02,-9.5, Brooklyn,97,203.5,Brooklyn Nets
+544,103,2016-01-04,-7.5, Brooklyn,94,201.5,Brooklyn Nets
+545,99,2016-01-06,-3.0, Detroit,94,202.0,Detroit Pistons
+546,101,2016-01-07,6.0, Chicago,92,204.5,Chicago Bulls
+547,101,2016-01-10,-3.0, Memphis,98,192.0,Memphis Grizzlies
+548,120,2016-01-12,-1.0, New York,114,200.5,New York Knicks
+549,103,2016-01-13,-3.5, Indiana,94,204.5,Indiana Pacers
+550,117,2016-01-15,-9.0, Phoenix,103,209.5,Phoenix Suns
+551,119,2016-01-16,-2.0, Washington,117,211.0,Washington Wizards
+552,118,2016-01-18,-2.0, Dallas,113,202.5,Dallas Mavericks
+553,115,2016-01-20,3.5, Toronto,109,201.5,Toronto Raptors
+554,110,2016-01-22,-3.5, Chicago,101,208.5,Chicago Bulls
+555,112,2016-01-24,-8.0, Philadelphia,92,206.0,Philadelphia 76ers
+556,116,2016-01-25,2.5, Washington,91,213.5,Washington Wizards
+557,111,2016-01-27,-9.5, Denver,103,214.0,Denver Nuggets
+558,113,2016-01-29,-8.0, Orlando,94,206.0,Orlando Magic
+559,119,2016-01-31,-4.0, Orlando,114,203.5,Orlando Magic
+560,97,2016-02-02,-4.5, New York,89,208.5,New York Knicks
+561,102,2016-02-03,-4.0, Detroit,95,209.5,Detroit Pistons
+562,104,2016-02-05,6.5, Cleveland,103,210.5,Cleveland Cavaliers
+563,128,2016-02-07,-7.5, Sacramento,119,216.5,Sacramento Kings
+564,112,2016-02-09,-4.0, Milwaukee,111,208.5,Milwaukee Bucks
+565,139,2016-02-10,-2.0, LA Clippers,134,212.0,Los Angeles Clippers
+566,111,2016-02-19,1.0, Utah,93,195.5,Utah Jazz
+567,121,2016-02-21,-3.5, Denver,101,213.5,Denver Nuggets
+568,124,2016-02-22,-4.5, Minnesota,122,218.5,Minnesota Timberwolves
+569,112,2016-02-25,-7.5, Milwaukee,107,215.0,Milwaukee Bucks
+570,101,2016-02-27,-6.0, Miami,89,209.5,Miami Heat
+571,100,2016-02-29,-4.5, Utah,95,205.0,Utah Jazz
+572,116,2016-03-02,-6.0, Portland,93,219.5,Portland Trail Blazers
+573,105,2016-03-04,-10.0, New York,104,210.0,New York Knicks
+574,120,2016-03-05,8.0, Cleveland,103,210.0,Cleveland Cavaliers
+575,116,2016-03-09,-11.5, Memphis,96,210.5,Memphis Grizzlies
+576,102,2016-03-11,-4.5, Houston,98,224.5,Houston Rockets
+577,103,2016-03-15,2.5, Indiana,98,210.0,Indiana Pacers
+578,130,2016-03-16,5.0, Oklahoma City,109,220.0,Oklahoma City Thunder
+579,105,2016-03-18,1.5, Toronto,91,208.5,Toronto Raptors
+580,120,2016-03-20,-12.0, Philadelphia,105,214.0,Philadelphia 76ers
+581,107,2016-03-21,-9.0, Orlando,96,217.5,Orlando Magic
+582,91,2016-03-23,-3.5, Toronto,79,205.5,Toronto Raptors
+583,102,2016-03-26,-9.0, Phoenix,99,217.0,Phoenix Suns
+584,114,2016-03-28,4.0, LA Clippers,90,207.5,Los Angeles Clippers
+585,116,2016-03-31,2.5, Portland,109,213.0,Portland Trail Blazers
+586,109,2016-04-01,11.5, Golden State,106,221.0,Golden State Warriors
+587,107,2016-04-03,-9.0, LA Lakers,100,210.0,Los Angeles Lakers
+588,104,2016-04-06,-14.5, New Orleans,97,208.5,New Orleans Pelicans
+589,124,2016-04-08,-11.0, Milwaukee,109,204.0,Milwaukee Bucks
+590,118,2016-04-09,5.0, Atlanta,107,207.0,Atlanta Hawks
+591,114,2016-04-11,-7.0, Charlotte,100,210.0,Charlotte Hornets
+592,98,2016-04-13,-4.5, Miami,88,205.5,Miami Heat
+593,102,2016-04-16,5.5, Atlanta,101,206.0,Atlanta Hawks
+594,89,2016-04-19,6.5, Atlanta,72,205.5,Atlanta Hawks
+595,111,2016-04-22,-3.0, Atlanta,103,203.5,Atlanta Hawks
+596,104,2016-04-24,1.0, Atlanta,95,203.0,Atlanta Hawks
+597,110,2016-04-26,7.5, Atlanta,83,198.0,Atlanta Hawks
+598,104,2016-04-28,3.0, Atlanta,92,199.0,Atlanta Hawks
+599,104,2015-10-28,-6.0, Charlotte,94,194.0,Charlotte Hornets
+600,102,2015-10-30,4.5, Cleveland,92,200.5,Cleveland Cavaliers
+601,109,2015-11-01,-4.0, Houston,89,207.5,Houston Rockets
+602,98,2015-11-03,-3.5, Atlanta,92,197.0,Atlanta Hawks
+603,96,2015-11-05,-4.0, Minnesota,84,197.0,Minnesota Timberwolves
+604,90,2015-11-06,0.0, Indiana,87,195.0,Indiana Pacers
+605,96,2015-11-08,-2.5, Toronto,76,190.5,Toronto Raptors
+606,101,2015-11-10,-11.0, LA Lakers,88,200.0,Los Angeles Lakers
+607,92,2015-11-12,-4.0, Utah,91,184.0,Utah Jazz
+608,103,2015-11-17,-8.5, Minnesota,91,198.5,Minnesota Timberwolves
+609,116,2015-11-19,-10.0, Sacramento,109,202.5,Sacramento Kings
+610,96,2015-11-21,-12.5, Philadelphia,91,194.5,Philadelphia 76ers
+611,95,2015-11-23,-5.0, New York,78,189.5,New York Knicks
+612,104,2015-11-25,1.5, Detroit,81,189.5,Detroit Pistons
+613,97,2015-11-27,-1.0, New York,78,187.0,New York Knicks
+614,105,2015-11-30,-4.0, Boston,95,192.5,Boston Celtics
+615,97,2015-12-03,4.0, Oklahoma City,95,203.5,Oklahoma City Thunder
+616,99,2015-12-05,-5.0, Cleveland,84,188.0,Cleveland Cavaliers
+617,114,2015-12-07,-8.0, Washington,103,196.5,Washington Wizards
+618,99,2015-12-09,-1.0, Charlotte,81,192.0,Charlotte Hornets
+619,96,2015-12-11,4.5, Indiana,83,196.5,Indiana Pacers
+620,100,2015-12-13,-3.0, Memphis,97,189.0,Memphis Grizzlies
+621,100,2015-12-14,6.0, Atlanta,88,192.5,Atlanta Hawks
+622,104,2015-12-16,-5.5, Brooklyn,98,191.5,Brooklyn Nets
+623,108,2015-12-18,-4.5, Toronto,94,187.5,Toronto Raptors
+624,116,2015-12-20,-5.0, Portland,109,192.5,Portland Trail Blazers
+625,93,2015-12-22,-2.5, Detroit,92,195.0,Detroit Pistons
+626,94,2015-12-25,-4.0, New Orleans,88,200.0,New Orleans Pelicans
+627,108,2015-12-26,5.0, Orlando,101,192.5,Orlando Magic
+628,111,2015-12-28,-7.5, Brooklyn,105,195.0,Brooklyn Nets
+629,99,2015-12-29,4.5, Memphis,90,189.5,Memphis Grizzlies
+630,106,2016-01-01,-2.0, Dallas,82,196.0,Dallas Mavericks
+631,97,2016-01-03,-1.5, Washington,75,197.5,Washington Wizards
+632,103,2016-01-04,-1.5, Indiana,100,193.5,Indiana Pacers
+633,98,2016-01-06,-7.5, New York,90,193.0,New York Knicks
+634,103,2016-01-08,-5.0, Phoenix,95,197.5,Phoenix Suns
+635,98,2016-01-09,-1.5, Utah,83,182.5,Utah Jazz
+636,111,2016-01-11,14.5, Golden State,103,209.5,Golden State Warriors
+637,104,2016-01-13,3.0, LA Clippers,90,197.5,Los Angeles Clippers
+638,98,2016-01-15,-2.0, Denver,95,189.5,Denver Nuggets
+639,99,2016-01-17,9.5, Oklahoma City,74,201.0,Oklahoma City Thunder
+640,91,2016-01-19,-4.5, Milwaukee,79,192.0,Milwaukee Bucks
+641,106,2016-01-20,6.0, Washington,87,193.5,Washington Wizards
+642,101,2016-01-22,10.5, Toronto,81,190.0,Toronto Raptors
+643,89,2016-01-25,6.5, Chicago,84,192.0,Chicago Bulls
+644,102,2016-01-26,-3.5, Brooklyn,98,192.0,Brooklyn Nets
+645,107,2016-01-29,-1.0, Milwaukee,103,194.0,Milwaukee Bucks
+646,105,2016-01-31,3.0, Atlanta,87,197.5,Atlanta Hawks
+647,115,2016-02-02,4.5, Houston,102,211.0,Houston Rockets
+648,93,2016-02-03,2.5, Dallas,90,194.5,Dallas Mavericks
+649,98,2016-02-05,4.0, Charlotte,95,194.5,Charlotte Hornets
+650,100,2016-02-07,1.0, LA Clippers,93,195.0,Los Angeles Clippers
+651,119,2016-02-09,6.5, San Antonio,101,196.0,San Antonio Spurs
+652,115,2016-02-19,10.0, Atlanta,111,197.0,Atlanta Hawks
+653,114,2016-02-20,1.5, Washington,94,201.5,Washington Wizards
+654,101,2016-02-22,-1.5, Indiana,93,202.5,Indiana Pacers
+655,118,2016-02-24,9.0, Golden State,112,218.5,Golden State Warriors
+656,101,2016-02-27,6.0, Boston,89,209.5,Boston Celtics
+657,98,2016-02-28,-2.0, New York,81,197.0,New York Knicks
+658,129,2016-03-01,-6.0, Chicago,111,201.5,Chicago Bulls
+659,108,2016-03-03,-14.0, Phoenix,92,208.5,Phoenix Suns
+660,112,2016-03-04,-9.5, Philadelphia,102,209.0,Philadelphia 76ers
+661,103,2016-03-06,-14.0, Philadelphia,98,210.5,Philadelphia 76ers
+662,114,2016-03-09,-3.0, Milwaukee,108,199.0,Milwaukee Bucks
+663,118,2016-03-11,-4.0, Chicago,96,199.5,Chicago Bulls
+664,112,2016-03-12,6.5, Toronto,104,203.0,Toronto Raptors
+665,124,2016-03-14,-7.0, Denver,119,209.0,Denver Nuggets
+666,109,2016-03-17,-4.5, Charlotte,106,208.0,Charlotte Hornets
+667,122,2016-03-19,4.0, Cleveland,101,205.5,Cleveland Cavaliers
+668,113,2016-03-22,-10.0, New Orleans,99,209.5,New Orleans Pelicans
+669,112,2016-03-23,10.5, San Antonio,88,196.5,San Antonio Spurs
+670,108,2016-03-25,-10.5, Orlando,97,209.5,Orlando Magic
+671,110,2016-03-28,-8.5, Brooklyn,99,213.0,Brooklyn Nets
+672,102,2016-03-30,-10.5, LA Lakers,100,208.0,Los Angeles Lakers
+673,112,2016-04-01,-6.5, Sacramento,106,211.5,Sacramento Kings
+674,110,2016-04-02,6.5, Portland,93,209.0,Portland Trail Blazers
+675,107,2016-04-05,-4.5, Detroit,89,202.0,Detroit Pistons
+676,106,2016-04-07,-6.0, Chicago,98,204.5,Chicago Bulls
+677,112,2016-04-08,-1.5, Orlando,109,208.0,Orlando Magic
+678,118,2016-04-10,-9.5, Orlando,96,211.5,Orlando Magic
+679,99,2016-04-12,-1.5, Detroit,93,199.5,Detroit Pistons
+680,98,2016-04-13,4.5, Boston,88,205.5,Boston Celtics
+681,123,2016-04-17,-4.5, Charlotte,91,198.5,Charlotte Hornets
+682,115,2016-04-20,-4.5, Charlotte,103,197.5,Charlotte Hornets
+683,96,2016-04-23,3.0, Charlotte,80,197.5,Charlotte Hornets
+684,89,2016-04-25,2.5, Charlotte,85,194.5,Charlotte Hornets
+685,90,2016-04-27,-5.5, Charlotte,88,194.0,Charlotte Hornets
+686,97,2016-04-29,2.0, Charlotte,90,192.0,Charlotte Hornets
+687,106,2016-05-01,-6.0, Charlotte,73,190.5,Charlotte Hornets
+688,102,2016-05-03,3.5, Toronto,96,191.5,Toronto Raptors
+689,96,2016-05-05,5.0, Toronto,92,190.0,Toronto Raptors
+690,95,2016-05-07,-5.5, Toronto,91,186.0,Toronto Raptors
+691,94,2016-05-09,-4.5, Toronto,87,194.0,Toronto Raptors
+692,99,2016-05-11,4.5, Toronto,91,189.0,Toronto Raptors
+693,103,2016-05-13,-4.0, Toronto,91,188.0,Toronto Raptors
+694,116,2016-05-15,4.5, Toronto,89,188.0,Toronto Raptors
+695,88,2015-10-28,4.0, Washington,87,202.5,Washington Wizards
+696,139,2015-10-30,7.5, Oklahoma City,136,205.5,Oklahoma City Thunder
+697,92,2015-11-01,8.0, Chicago,87,199.0,Chicago Bulls
+698,103,2015-11-03,5.0, New Orleans,94,205.5,New Orleans Pelicans
+699,119,2015-11-04,9.0, Houston,114,207.5,Houston Rockets
+700,92,2015-11-06,6.0, Toronto,87,196.5,Toronto Raptors
+701,105,2015-11-07,-3.0, Philadelphia,97,191.5,Philadelphia 76ers
+702,97,2015-11-09,4.5, Indiana,84,195.5,Indiana Pacers
+703,101,2015-11-11,-8.0, LA Lakers,99,201.5,Los Angeles Lakers
+704,102,2015-11-13,1.5, Utah,93,188.5,Utah Jazz
+705,108,2015-11-14,5.5, Washington,99,203.5,Washington Wizards
+706,104,2015-11-18,-5.0, Minnesota,101,204.0,Minnesota Timberwolves
+707,97,2015-11-21,-3.0, Sacramento,91,209.5,Sacramento Kings
+708,117,2015-11-23,8.0, Cleveland,103,199.5,Cleveland Cavaliers
+709,100,2015-11-25,-1.5, New York,91,195.0,New York Knicks
+710,114,2015-11-27,-3.5, Milwaukee,90,199.0,Milwaukee Bucks
+711,110,2015-11-29,2.0, Boston,91,201.5,Boston Celtics
+712,96,2015-12-01,1.5, Minnesota,93,202.5,Minnesota Timberwolves
+713,103,2015-12-03,4.0, Utah,94,192.5,Utah Jazz
+714,103,2015-12-05,2.5, LA Clippers,101,198.0,Los Angeles Clippers
+715,85,2015-12-08,-4.0, Denver,74,199.0,Denver Nuggets
+716,107,2015-12-09,4.5, Phoenix,104,206.0,Phoenix Suns
+717,111,2015-12-11,3.5, Cleveland,76,196.0,Cleveland Cavaliers
+718,105,2015-12-14,-3.5, Brooklyn,82,197.5,Brooklyn Nets
+719,113,2015-12-16,1.0, Charlotte,98,198.0,Charlotte Hornets
+720,102,2015-12-18,-4.0, Portland,94,201.0,Portland Trail Blazers
+721,103,2015-12-20,1.5, Atlanta,100,201.5,Atlanta Hawks
+722,107,2015-12-21,3.0, New York,99,198.5,New York Knicks
+723,104,2015-12-23,-1.5, Houston,101,207.5,Houston Rockets
+724,108,2015-12-26,-5.0, Miami,101,192.5,Miami Heat
+725,104,2015-12-28,-4.0, New Orleans,89,204.5,New Orleans Pelicans
+726,100,2015-12-30,-7.5, Brooklyn,93,199.0,Brooklyn Nets
+727,103,2016-01-01,1.5, Washington,91,203.0,Washington Wizards
+728,104,2016-01-02,8.5, Cleveland,79,192.0,Cleveland Cavaliers
+729,115,2016-01-04,4.5, Detroit,89,198.0,Detroit Pistons
+730,95,2016-01-06,3.5, Indiana,86,198.0,Indiana Pacers
+731,83,2016-01-08,-3.0, Brooklyn,77,191.5,Brooklyn Nets
+732,105,2016-01-09,-3.5, Washington,99,199.0,Washington Wizards
+733,106,2016-01-14,4.5, Toronto,103,193.0,Toronto Raptors
+734,98,2016-01-18,8.0, Atlanta,81,198.0,Atlanta Hawks
+735,96,2016-01-20,-7.0, Philadelphia,87,195.5,Philadelphia 76ers
+736,120,2016-01-22,-5.0, Charlotte,116,196.5,Charlotte Hornets
+737,108,2016-01-25,5.5, Memphis,102,190.0,Memphis Grizzlies
+738,107,2016-01-26,5.0, Milwaukee,100,197.0,Milwaukee Bucks
+739,113,2016-01-29,8.0, Boston,94,206.0,Boston Celtics
+740,119,2016-01-31,4.0, Boston,114,203.5,Boston Celtics
+741,107,2016-02-01,15.5, San Antonio,92,202.5,San Antonio Spurs
+742,117,2016-02-03,11.0, Oklahoma City,114,212.0,Oklahoma City Thunder
+743,107,2016-02-05,3.5, LA Clippers,93,204.5,Los Angeles Clippers
+744,96,2016-02-07,3.5, Atlanta,94,202.5,Atlanta Hawks
+745,117,2016-02-08,8.5, Atlanta,110,202.5,Atlanta Hawks
+746,98,2016-02-10,8.5, San Antonio,96,202.5,San Antonio Spurs
+747,110,2016-02-19,-1.5, Dallas,104,200.0,Dallas Mavericks
+748,105,2016-02-21,1.5, Indiana,102,203.0,Indiana Pacers
+749,124,2016-02-23,-5.5, Philadelphia,115,208.5,Philadelphia 76ers
+750,130,2016-02-25,8.0, Golden State,114,223.5,Golden State Warriors
+751,108,2016-02-26,2.5, New York,95,209.5,New York Knicks
+752,130,2016-02-28,-9.0, Philadelphia,116,214.5,Philadelphia 76ers
+753,121,2016-03-01,4.5, Dallas,108,215.0,Dallas Mavericks
+754,102,2016-03-02,-5.0, Chicago,89,216.0,Chicago Bulls
+755,102,2016-03-04,-12.5, Phoenix,84,216.5,Phoenix Suns
+756,119,2016-03-07,16.0, Golden State,113,225.0,Golden State Warriors
+757,107,2016-03-08,-4.0, LA Lakers,98,213.0,Los Angeles Lakers
+758,107,2016-03-11,1.5, Sacramento,100,218.5,Sacramento Kings
+759,121,2016-03-12,8.5, Portland,84,215.5,Portland Trail Blazers
+760,116,2016-03-15,-3.5, Denver,110,215.0,Denver Nuggets
+761,107,2016-03-16,9.5, Charlotte,99,212.0,Charlotte Hornets
+762,109,2016-03-18,10.0, Cleveland,103,211.5,Cleveland Cavaliers
+763,105,2016-03-20,9.5, Toronto,100,210.0,Toronto Raptors
+764,107,2016-03-21,9.0, Boston,96,217.5,Boston Celtics
+765,118,2016-03-23,6.0, Detroit,102,204.5,Detroit Pistons
+766,108,2016-03-25,10.5, Miami,97,209.5,Miami Heat
+767,111,2016-03-26,7.0, Chicago,89,209.0,Chicago Bulls
+768,139,2016-03-29,-8.0, Brooklyn,105,211.5,Brooklyn Nets
+769,114,2016-03-31,6.0, Indiana,94,208.5,Indiana Pacers
+770,113,2016-04-01,2.0, Milwaukee,110,209.0,Milwaukee Bucks
+771,119,2016-04-03,-4.5, Memphis,107,207.0,Memphis Grizzlies
+772,108,2016-04-06,-3.0, Detroit,104,208.5,Detroit Pistons
+773,112,2016-04-08,1.5, Miami,109,208.0,Miami Heat
+774,118,2016-04-10,9.5, Miami,96,211.5,Miami Heat
+775,107,2016-04-11,-2.5, Milwaukee,98,209.5,Milwaukee Bucks
+776,117,2016-04-13,7.5, Charlotte,103,211.0,Charlotte Hornets
+777,112,2015-10-28,-2.5, New Orleans,94,206.5,New Orleans Pelicans
+778,110,2015-10-30,4.5, Phoenix,92,204.5,Phoenix Suns
+779,101,2015-10-31,-1.5, Phoenix,90,204.0,Phoenix Suns
+780,106,2015-11-02,4.0, Minnesota,101,203.5,Minnesota Timberwolves
+781,108,2015-11-04,7.0, Utah,92,189.5,Utah Jazz
+782,115,2015-11-05,4.5, Memphis,96,193.0,Memphis Grizzlies
+783,120,2015-11-08,-1.5, Detroit,103,199.5,Detroit Pistons
+784,108,2015-11-09,-1.0, Denver,104,206.0,Denver Nuggets
+785,113,2015-11-11,6.5, San Antonio,101,205.5,San Antonio Spurs
+786,101,2015-11-13,6.5, Memphis,100,193.5,Memphis Grizzlies
+787,106,2015-11-15,5.0, Charlotte,94,205.5,Charlotte Hornets
+788,93,2015-11-16,12.0, San Antonio,80,200.5,San Antonio Spurs
+789,108,2015-11-18,7.0, Houston,103,210.5,Houston Rockets
+790,102,2015-11-20,4.5, LA Clippers,91,210.0,Los Angeles Clippers
+791,107,2015-11-22,-2.5, LA Lakers,93,204.5,Los Angeles Lakers
+792,93,2015-11-24,2.5, Chicago,88,201.5,Chicago Bulls
+793,108,2015-11-28,-8.5, LA Lakers,96,201.5,Los Angeles Lakers
+794,102,2015-11-30,7.0, LA Clippers,87,206.0,Los Angeles Clippers
+795,115,2015-12-01,-1.5, Dallas,112,201.5,Dallas Mavericks
+796,123,2015-12-03,2.5, Indiana,111,202.5,Indiana Pacers
+797,109,2015-12-05,1.5, Minnesota,103,204.0,Minnesota Timberwolves
+798,90,2015-12-07,-1.0, Milwaukee,88,198.0,Milwaukee Bucks
+799,105,2015-12-08,9.0, Cleveland,100,200.0,Cleveland Cavaliers
+800,106,2015-12-11,4.0, Phoenix,96,210.0,Phoenix Suns
+801,112,2015-12-12,-3.5, New York,110,198.0,New York Knicks
+802,105,2015-12-14,-3.0, New Orleans,101,211.0,New Orleans Pelicans
+803,106,2015-12-16,10.0, Oklahoma City,90,207.5,Oklahoma City Thunder
+804,102,2015-12-18,4.0, Orlando,94,201.0,Orlando Magic
+805,116,2015-12-20,5.0, Miami,109,192.5,Miami Heat
+806,106,2015-12-21,11.0, Atlanta,97,195.5,Atlanta Hawks
+807,115,2015-12-23,7.5, New Orleans,89,203.5,New Orleans Pelicans
+808,105,2015-12-26,7.5, Cleveland,76,195.5,Cleveland Cavaliers
+809,98,2015-12-27,9.0, Sacramento,94,209.0,Sacramento Kings
+810,110,2015-12-30,-6.5, Denver,103,201.5,Denver Nuggets
+811,109,2015-12-31,3.0, Utah,96,188.0,Utah Jazz
+812,112,2016-01-03,-2.0, Denver,106,203.5,Denver Nuggets
+813,91,2016-01-04,1.5, Memphis,78,195.5,Memphis Grizzlies
+814,109,2016-01-06,3.5, LA Clippers,98,205.5,Los Angeles Clippers
+815,128,2016-01-08,9.0, Golden State,108,215.0,Golden State Warriors
+816,115,2016-01-10,7.5, Oklahoma City,110,215.5,Oklahoma City Thunder
+817,99,2016-01-13,-3.5, Utah,85,192.5,Utah Jazz
+818,116,2016-01-15,-4.0, Brooklyn,104,204.5,Brooklyn Nets
+819,114,2016-01-16,-6.0, Philadelphia,89,207.0,Philadelphia 76ers
+820,108,2016-01-18,4.0, Washington,98,208.5,Washington Wizards
+821,104,2016-01-20,1.0, Atlanta,98,211.5,Atlanta Hawks
+822,121,2016-01-23,-11.5, LA Lakers,103,209.5,Los Angeles Lakers
+823,112,2016-01-26,-5.0, Sacramento,97,214.0,Sacramento Kings
+824,109,2016-01-29,-6.0, Charlotte,91,206.5,Charlotte Hornets
+825,96,2016-01-31,-6.5, Minnesota,93,208.5,Minnesota Timberwolves
+826,107,2016-02-02,-7.0, Milwaukee,95,206.0,Milwaukee Bucks
+827,110,2016-02-04,-1.5, Toronto,103,206.5,Toronto Raptors
+828,96,2016-02-06,5.0, Houston,79,219.0,Houston Rockets
+829,112,2016-02-08,3.0, Memphis,106,199.0,Memphis Grizzlies
+830,116,2016-02-10,-4.5, Houston,103,215.0,Houston Rockets
+831,137,2016-02-19,8.0, Golden State,105,225.0,Golden State Warriors
+832,115,2016-02-21,-3.0, Utah,111,196.5,Utah Jazz
+833,112,2016-02-23,-11.5, Brooklyn,104,212.0,Brooklyn Nets
+834,119,2016-02-25,-4.0, Houston,105,218.5,Houston Rockets
+835,103,2016-02-27,-4.5, Chicago,95,209.5,Chicago Bulls
+836,111,2016-02-28,6.0, Indiana,102,207.5,Indiana Pacers
+837,104,2016-03-01,-4.5, New York,85,209.5,New York Knicks
+838,116,2016-03-02,6.0, Boston,93,219.5,Boston Celtics
+839,117,2016-03-04,5.5, Toronto,115,207.5,Toronto Raptors
+840,123,2016-03-06,-1.5, Detroit,103,207.5,Detroit Pistons
+841,116,2016-03-08,-5.5, Washington,109,213.5,Washington Wizards
+842,128,2016-03-11,14.0, Golden State,112,228.0,Golden State Warriors
+843,121,2016-03-12,-8.5, Orlando,84,215.5,Orlando Magic
+844,128,2016-03-14,7.5, Oklahoma City,94,217.0,Oklahoma City Thunder
+845,118,2016-03-17,11.5, San Antonio,110,204.5,San Antonio Spurs
+846,117,2016-03-18,-2.0, New Orleans,112,220.0,New Orleans Pelicans
+847,132,2016-03-20,-1.5, Dallas,120,214.0,Dallas Mavericks
+848,109,2016-03-23,-6.5, Dallas,103,214.0,Dallas Mavericks
+849,96,2016-03-24,6.0, LA Clippers,94,214.5,Los Angeles Clippers
+850,108,2016-03-26,-15.0, Philadelphia,105,219.0,Philadelphia 76ers
+851,105,2016-03-28,-13.0, Sacramento,93,220.5,Sacramento Kings
+852,116,2016-03-31,-2.5, Boston,109,213.0,Boston Celtics
+853,110,2016-04-02,-6.5, Miami,93,209.0,Miami Heat
+854,136,2016-04-03,11.5, Golden State,111,227.0,Golden State Warriors
+855,115,2016-04-05,-4.0, Sacramento,107,222.5,Sacramento Kings
+856,120,2016-04-06,-8.0, Oklahoma City,115,213.5,Oklahoma City Thunder
+857,106,2016-04-09,-8.5, Minnesota,105,216.0,Minnesota Timberwolves
+858,107,2016-04-13,-10.0, Denver,99,217.0,Denver Nuggets
+859,115,2016-04-17,8.5, LA Clippers,95,210.5,Los Angeles Clippers
+860,102,2016-04-20,8.5, LA Clippers,81,210.5,Los Angeles Clippers
+861,96,2016-04-23,1.5, LA Clippers,88,208.5,Los Angeles Clippers
+862,98,2016-04-25,4.0, LA Clippers,84,205.0,Los Angeles Clippers
+863,108,2016-04-27,-2.5, LA Clippers,98,195.5,Los Angeles Clippers
+864,106,2016-04-29,-9.5, LA Clippers,103,199.0,Los Angeles Clippers
+865,118,2016-05-01,9.5, Golden State,106,210.5,Golden State Warriors
+866,110,2016-05-03,9.0, Golden State,99,212.0,Golden State Warriors
+867,120,2016-05-07,3.0, Golden State,108,212.5,Golden State Warriors
+868,132,2016-05-09,6.0, Golden State,125,215.0,Golden State Warriors
+869,125,2016-05-11,13.5, Golden State,121,217.5,Golden State Warriors
+870,111,2015-10-27,-10.5, New Orleans,95,215.5,New Orleans Pelicans
+871,112,2015-10-30,-1.0, Houston,92,216.5,Houston Rockets
+872,134,2015-10-31,-5.5, New Orleans,120,211.5,New Orleans Pelicans
+873,119,2015-11-02,-9.0, Memphis,69,204.5,Memphis Grizzlies
+874,112,2015-11-04,-7.5, LA Clippers,108,217.5,Los Angeles Clippers
+875,119,2015-11-06,-17.5, Denver,104,211.0,Denver Nuggets
+876,103,2015-11-07,-14.0, Sacramento,94,220.5,Sacramento Kings
+877,109,2015-11-09,-12.5, Detroit,95,208.5,Detroit Pistons
+878,100,2015-11-11,-7.0, Memphis,84,200.0,Memphis Grizzlies
+879,129,2015-11-12,-10.5, Minnesota,116,211.5,Minnesota Timberwolves
+880,107,2015-11-14,-16.5, Brooklyn,99,207.5,Brooklyn Nets
+881,115,2015-11-17,-9.5, Toronto,110,209.0,Toronto Raptors
+882,124,2015-11-19,-5.5, LA Clippers,117,213.5,Los Angeles Clippers
+883,106,2015-11-20,-9.0, Chicago,94,208.5,Chicago Bulls
+884,118,2015-11-22,-13.0, Denver,105,210.0,Denver Nuggets
+885,111,2015-11-24,-17.0, LA Lakers,77,215.0,Los Angeles Lakers
+886,135,2015-11-27,-8.0, Phoenix,116,217.5,Phoenix Suns
+887,120,2015-11-28,-16.5, Sacramento,101,220.0,Sacramento Kings
+888,106,2015-11-30,-7.5, Utah,103,202.0,Utah Jazz
+889,116,2015-12-02,-9.0, Charlotte,99,207.5,Charlotte Hornets
+890,112,2015-12-05,-7.5, Toronto,109,210.5,Toronto Raptors
+891,114,2015-12-06,-11.5, Brooklyn,98,209.5,Brooklyn Nets
+892,131,2015-12-08,-6.0, Indiana,123,215.0,Indiana Pacers
+893,124,2015-12-11,-5.0, Boston,119,214.0,Boston Celtics
+894,108,2015-12-12,-9.5, Milwaukee,95,206.0,Milwaukee Bucks
+895,128,2015-12-16,-12.0, Phoenix,103,219.5,Phoenix Suns
+896,121,2015-12-18,-19.0, Milwaukee,112,210.5,Milwaukee Bucks
+897,103,2015-12-23,-14.0, Utah,85,207.5,Utah Jazz
+898,89,2015-12-25,-6.5, Cleveland,83,207.5,Cleveland Cavaliers
+899,122,2015-12-28,-14.0, Sacramento,103,220.0,Sacramento Kings
+900,114,2015-12-30,-3.5, Dallas,91,208.5,Dallas Mavericks
+901,114,2015-12-31,3.5, Houston,110,211.0,Houston Rockets
+902,111,2016-01-02,-15.0, Denver,108,216.0,Denver Nuggets
+903,111,2016-01-04,-12.0, Charlotte,101,212.5,Charlotte Hornets
+904,109,2016-01-05,-13.5, LA Lakers,88,211.5,Los Angeles Lakers
+905,128,2016-01-08,-9.0, Portland,108,215.0,Portland Trail Blazers
+906,128,2016-01-09,-9.0, Sacramento,116,225.0,Sacramento Kings
+907,111,2016-01-11,-14.5, Miami,103,209.5,Miami Heat
+908,112,2016-01-13,-9.5, Denver,110,215.5,Denver Nuggets
+909,116,2016-01-14,-18.5, LA Lakers,98,216.0,Los Angeles Lakers
+910,113,2016-01-16,-7.0, Detroit,95,216.5,Detroit Pistons
+911,132,2016-01-18,3.5, Cleveland,98,209.5,Cleveland Cavaliers
+912,125,2016-01-20,-6.0, Chicago,94,216.0,Chicago Bulls
+913,122,2016-01-22,-12.5, Indiana,110,216.5,Indiana Pacers
+914,120,2016-01-25,-4.5, San Antonio,90,211.5,San Antonio Spurs
+915,127,2016-01-27,-17.5, Dallas,107,214.5,Dallas Mavericks
+916,108,2016-01-30,-17.0, Philadelphia,105,218.0,Philadelphia 76ers
+917,116,2016-01-31,-11.0, New York,95,218.0,New York Knicks
+918,134,2016-02-03,-10.0, Washington,121,227.0,Washington Wizards
+919,116,2016-02-06,-7.5, Oklahoma City,108,233.5,Oklahoma City Thunder
+920,123,2016-02-09,-14.0, Houston,110,229.0,Houston Rockets
+921,112,2016-02-10,-16.0, Phoenix,104,219.5,Phoenix Suns
+922,137,2016-02-19,-8.0, Portland,105,225.0,Portland Trail Blazers
+923,115,2016-02-20,-4.0, LA Clippers,112,228.5,Los Angeles Clippers
+924,102,2016-02-22,-6.0, Atlanta,92,226.5,Atlanta Hawks
+925,118,2016-02-24,-9.0, Miami,112,218.5,Miami Heat
+926,130,2016-02-25,-8.0, Orlando,114,223.5,Orlando Magic
+927,121,2016-02-27,-3.0, Oklahoma City,118,233.5,Oklahoma City Thunder
+928,109,2016-03-01,-5.5, Atlanta,105,213.5,Atlanta Hawks
+929,121,2016-03-03,-7.5, Oklahoma City,106,230.5,Oklahoma City Thunder
+930,112,2016-03-06,-17.5, LA Lakers,95,222.0,Los Angeles Lakers
+931,119,2016-03-07,-16.0, Orlando,113,225.0,Orlando Magic
+932,115,2016-03-09,-14.0, Utah,94,209.0,Utah Jazz
+933,128,2016-03-11,-14.0, Portland,112,228.0,Portland Trail Blazers
+934,123,2016-03-12,-18.5, Phoenix,116,228.0,Phoenix Suns
+935,125,2016-03-14,-16.0, New Orleans,107,231.5,New Orleans Pelicans
+936,121,2016-03-16,-15.0, New York,85,220.0,New York Knicks
+937,130,2016-03-18,-9.0, Dallas,112,227.0,Dallas Mavericks
+938,87,2016-03-19,4.5, San Antonio,79,220.5,San Antonio Spurs
+939,109,2016-03-21,-12.5, Minnesota,104,232.5,Minnesota Timberwolves
+940,114,2016-03-23,-10.5, LA Clippers,98,223.0,Los Angeles Clippers
+941,128,2016-03-25,-16.5, Dallas,120,220.5,Dallas Mavericks
+942,117,2016-03-27,-22.0, Philadelphia,105,225.0,Philadelphia 76ers
+943,102,2016-03-29,-12.5, Washington,94,226.0,Washington Wizards
+944,103,2016-03-30,-4.5, Utah,96,203.5,Utah Jazz
+945,109,2016-04-01,-11.5, Boston,106,221.0,Boston Celtics
+946,136,2016-04-03,-11.5, Portland,111,227.0,Portland Trail Blazers
+947,124,2016-04-05,-14.5, Minnesota,117,226.0,Minnesota Timberwolves
+948,112,2016-04-07,-6.0, San Antonio,101,208.5,San Antonio Spurs
+949,100,2016-04-09,-13.0, Memphis,99,213.5,Memphis Grizzlies
+950,92,2016-04-10,3.5, San Antonio,86,206.0,San Antonio Spurs
+951,125,2016-04-13,-17.5, Memphis,104,212.5,Memphis Grizzlies
+952,104,2016-04-16,-13.0, Houston,78,225.0,Houston Rockets
+953,115,2016-04-18,-8.5, Houston,106,211.5,Houston Rockets
+954,97,2016-04-21,-3.5, Houston,96,215.5,Houston Rockets
+955,121,2016-04-24,-8.5, Houston,94,217.5,Houston Rockets
+956,114,2016-04-27,-9.0, Houston,81,212.5,Houston Rockets
+957,118,2016-05-01,-9.5, Portland,106,210.5,Portland Trail Blazers
+958,110,2016-05-03,-9.0, Portland,99,212.0,Portland Trail Blazers
+959,120,2016-05-07,-3.0, Portland,108,212.5,Portland Trail Blazers
+960,132,2016-05-09,-6.0, Portland,125,215.0,Portland Trail Blazers
+961,125,2016-05-11,-13.5, Portland,121,217.5,Portland Trail Blazers
+962,108,2016-05-16,-7.5, Oklahoma City,102,225.0,Oklahoma City Thunder
+963,118,2016-05-18,-9.0, Oklahoma City,91,223.0,Oklahoma City Thunder
+964,133,2016-05-22,-2.5, Oklahoma City,105,219.0,Oklahoma City Thunder
+965,118,2016-05-24,-1.5, Oklahoma City,94,222.0,Oklahoma City Thunder
+966,120,2016-05-26,-7.0, Oklahoma City,111,219.5,Oklahoma City Thunder
+967,108,2016-05-28,3.0, Oklahoma City,101,221.5,Oklahoma City Thunder
+968,96,2016-05-30,-7.0, Oklahoma City,88,219.0,Oklahoma City Thunder
+969,104,2016-06-02,-6.0, Cleveland,89,210.5,Cleveland Cavaliers
+970,110,2016-06-05,-6.0, Cleveland,77,209.0,Cleveland Cavaliers
+971,120,2016-06-08,1.5, Cleveland,90,206.0,Cleveland Cavaliers
+972,108,2016-06-10,2.5, Cleveland,97,206.5,Cleveland Cavaliers
+973,112,2016-06-13,-5.5, Cleveland,97,209.0,Cleveland Cavaliers
+974,115,2016-06-16,2.0, Cleveland,101,207.5,Cleveland Cavaliers
+975,93,2016-06-19,-5.0, Cleveland,89,205.0,Cleveland Cavaliers
+976,122,2015-10-28,4.5, Milwaukee,97,194.5,Milwaukee Bucks
+977,112,2015-10-29,4.5, Atlanta,101,199.0,Atlanta Hawks
+978,117,2015-10-31,7.5, Washington,110,205.0,Washington Wizards
+979,94,2015-11-02,7.5, San Antonio,84,203.0,San Antonio Spurs
+980,96,2015-11-04,10.5, Cleveland,86,205.0,Cleveland Cavaliers
+981,99,2015-11-06,-1.5, Milwaukee,92,196.5,Milwaukee Bucks
+982,99,2015-11-08,-5.5, LA Lakers,95,211.5,Los Angeles Lakers
+983,111,2015-11-10,7.5, Toronto,109,196.5,Toronto Raptors
+984,95,2015-11-11,6.5, Charlotte,93,200.5,Charlotte Hornets
+985,90,2015-11-13,7.0, Cleveland,84,203.5,Cleveland Cavaliers
+986,95,2015-11-15,-1.5, New Orleans,87,203.5,New Orleans Pelicans
+987,102,2015-11-17,-1.0, Charlotte,94,196.0,Charlotte Hornets
+988,93,2015-11-20,6.5, Oklahoma City,90,206.5,Oklahoma City Thunder
+989,107,2015-11-21,4.5, Houston,102,202.0,Houston Rockets
+990,95,2015-11-23,5.0, Miami,78,189.5,Miami Heat
+991,100,2015-11-25,1.5, Orlando,91,195.0,Orlando Magic
+992,97,2015-11-27,1.0, Miami,78,187.0,Miami Heat
+993,116,2015-11-29,3.5, Houston,111,199.0,Houston Rockets
+994,99,2015-12-02,-8.5, Philadelphia,87,191.0,Philadelphia 76ers
+995,108,2015-12-04,-3.5, Brooklyn,91,193.0,Brooklyn Nets
+996,106,2015-12-05,-2.5, Milwaukee,91,189.0,Milwaukee Bucks
+997,104,2015-12-07,0.0, Dallas,97,198.5,Dallas Mavericks
+998,106,2015-12-09,3.0, Utah,85,192.5,Utah Jazz
+999,99,2015-12-10,6.0, Sacramento,97,210.0,Sacramento Kings
+1000,112,2015-12-12,3.5, Portland,110,198.0,Portland Trail Blazers
+1001,107,2015-12-16,-4.0, Minnesota,102,199.0,Minnesota Timberwolves
+1002,107,2015-12-18,-5.5, Philadelphia,97,196.0,Philadelphia 76ers
+1003,107,2015-12-19,-2.5, Chicago,91,194.5,Chicago Bulls
+1004,107,2015-12-21,-3.0, Orlando,99,198.5,Orlando Magic
+1005,91,2015-12-23,12.5, Cleveland,84,195.0,Cleveland Cavaliers
+1006,117,2015-12-26,7.5, Atlanta,98,203.0,Atlanta Hawks
+1007,100,2015-12-27,8.5, Boston,91,203.0,Boston Celtics
+1008,108,2015-12-29,1.5, Detroit,96,198.5,Detroit Pistons
+1009,108,2016-01-01,7.0, Chicago,81,199.0,Chicago Bulls
+1010,111,2016-01-03,4.5, Atlanta,97,200.5,Atlanta Hawks
+1011,107,2016-01-05,7.5, Atlanta,101,202.5,Atlanta Hawks
+1012,98,2016-01-06,7.5, Miami,90,193.0,Miami Heat
+1013,100,2016-01-08,15.0, San Antonio,99,196.5,San Antonio Spurs
+1014,100,2016-01-10,-5.0, Milwaukee,88,197.5,Milwaukee Bucks
+1015,120,2016-01-12,1.0, Boston,114,200.5,Boston Celtics
+1016,110,2016-01-13,-3.5, Brooklyn,104,191.0,Brooklyn Nets
+1017,103,2016-01-16,5.5, Memphis,95,187.0,Memphis Grizzlies
+1018,119,2016-01-18,-10.0, Philadelphia,113,200.5,Philadelphia 76ers
+1019,118,2016-01-20,-2.5, Utah,111,188.5,Utah Jazz
+1020,116,2016-01-22,2.5, LA Clippers,88,207.0,Los Angeles Clippers
+1021,97,2016-01-23,-1.5, Charlotte,84,200.0,Charlotte Hornets
+1022,128,2016-01-26,9.0, Oklahoma City,122,208.5,Oklahoma City Thunder
+1023,103,2016-01-28,12.0, Toronto,93,198.5,Toronto Raptors
+1024,102,2016-01-29,-7.0, Phoenix,84,203.0,Phoenix Suns
+1025,116,2016-01-31,11.0, Golden State,95,218.0,Golden State Warriors
+1026,97,2016-02-02,4.5, Boston,89,208.5,Boston Celtics
+1027,111,2016-02-04,4.5, Detroit,105,200.5,Detroit Pistons
+1028,91,2016-02-05,6.0, Memphis,85,193.0,Memphis Grizzlies
+1029,101,2016-02-07,-4.0, Denver,96,201.5,Denver Nuggets
+1030,111,2016-02-09,1.5, Washington,108,207.5,Washington Wizards
+1031,109,2016-02-19,-5.0, Brooklyn,98,199.0,Brooklyn Nets
+1032,103,2016-02-20,2.0, Minnesota,95,207.5,Minnesota Timberwolves
+1033,122,2016-02-22,3.5, Toronto,95,201.5,Toronto Raptors
+1034,108,2016-02-24,6.5, Indiana,105,201.5,Indiana Pacers
+1035,108,2016-02-26,-2.5, Orlando,95,209.5,Orlando Magic
+1036,98,2016-02-28,2.0, Miami,81,197.0,Miami Heat
+1037,104,2016-03-01,4.5, Portland,85,209.5,Portland Trail Blazers
+1038,105,2016-03-04,10.0, Boston,104,210.0,Boston Celtics
+1039,102,2016-03-05,7.0, Detroit,89,201.0,Detroit Pistons
+1040,110,2016-03-08,0.0, Denver,94,206.0,Denver Nuggets
+1041,128,2016-03-09,2.0, Phoenix,97,207.0,Phoenix Suns
+1042,101,2016-03-11,10.5, LA Clippers,94,205.0,Los Angeles Clippers
+1043,90,2016-03-13,-1.5, LA Lakers,87,209.5,Los Angeles Lakers
+1044,121,2016-03-16,15.0, Golden State,85,220.0,Golden State Warriors
+1045,99,2016-03-19,8.0, Washington,89,206.5,Washington Wizards
+1046,88,2016-03-20,5.0, Sacramento,80,212.5,Sacramento Kings
+1047,115,2016-03-23,9.5, Chicago,107,201.5,Chicago Bulls
+1048,106,2016-03-24,3.5, Chicago,94,205.0,Chicago Bulls
+1049,107,2016-03-26,8.5, Cleveland,93,202.0,Cleveland Cavaliers
+1050,99,2016-03-28,-5.5, New Orleans,91,203.0,New Orleans Pelicans
+1051,91,2016-03-30,6.0, Dallas,89,199.5,Dallas Mavericks
+1052,105,2016-04-01,-6.0, Brooklyn,91,201.0,Brooklyn Nets
+1053,92,2016-04-03,7.0, Indiana,87,195.5,Indiana Pacers
+1054,111,2016-04-06,4.5, Charlotte,97,196.5,Charlotte Hornets
+1055,109,2016-04-08,-2.5, Philadelphia,102,203.0,Philadelphia 76ers
+1056,93,2016-04-10,6.5, Toronto,89,195.5,Toronto Raptors
+1057,102,2016-04-12,11.5, Indiana,90,197.5,Indiana Pacers
+1058,88,2015-10-28,-4.0, Orlando,87,202.5,Orlando Magic
+1059,118,2015-10-30,-2.5, Milwaukee,113,199.5,Milwaukee Bucks
+1060,117,2015-10-31,-7.5, New York,110,205.0,New York Knicks
+1061,102,2015-11-04,4.0, San Antonio,99,201.0,San Antonio Spurs
+1062,118,2015-11-06,1.5, Boston,98,210.0,Boston Celtics
+1063,114,2015-11-07,5.0, Atlanta,99,205.5,Atlanta Hawks
+1064,125,2015-11-10,6.5, Oklahoma City,101,216.0,Oklahoma City Thunder
+1065,108,2015-11-14,-5.5, Orlando,99,203.5,Orlando Magic
+1066,115,2015-11-17,-3.5, Milwaukee,86,197.5,Milwaukee Bucks
+1067,97,2015-11-21,0.0, Detroit,95,206.0,Detroit Pistons
+1068,123,2015-11-24,-3.0, Indiana,106,207.5,Indiana Pacers
+1069,101,2015-11-25,3.5, Charlotte,87,209.0,Charlotte Hornets
+1070,111,2015-11-27,3.0, Boston,78,211.0,Boston Celtics
+1071,84,2015-11-28,3.5, Toronto,82,201.0,Toronto Raptors
+1072,97,2015-12-01,8.5, Cleveland,85,205.0,Cleveland Cavaliers
+1073,108,2015-12-02,-10.0, LA Lakers,104,204.0,Los Angeles Lakers
+1074,109,2015-12-04,2.5, Phoenix,106,215.0,Phoenix Suns
+1075,116,2015-12-06,2.5, Dallas,104,208.0,Dallas Mavericks
+1076,114,2015-12-07,8.0, Miami,103,196.5,Miami Heat
+1077,109,2015-12-09,-4.5, Houston,103,214.0,Houston Rockets
+1078,107,2015-12-11,3.5, New Orleans,105,211.0,New Orleans Pelicans
+1079,114,2015-12-12,6.5, Dallas,111,205.0,Dallas Mavericks
+1080,112,2015-12-14,3.0, Memphis,95,201.0,Memphis Grizzlies
+1081,114,2015-12-16,13.0, San Antonio,95,198.0,San Antonio Spurs
+1082,109,2015-12-19,1.5, Charlotte,101,206.0,Charlotte Hornets
+1083,113,2015-12-21,-2.5, Sacramento,99,219.0,Sacramento Kings
+1084,100,2015-12-23,1.0, Memphis,91,201.5,Memphis Grizzlies
+1085,111,2015-12-26,-3.0, Brooklyn,96,205.0,Brooklyn Nets
+1086,108,2015-12-28,-1.0, LA Clippers,91,207.5,Los Angeles Clippers
+1087,94,2015-12-30,7.5, Toronto,91,203.5,Toronto Raptors
+1088,103,2016-01-01,-1.5, Orlando,91,203.0,Orlando Magic
+1089,97,2016-01-03,1.5, Miami,75,197.5,Miami Heat
+1090,121,2016-01-06,7.5, Cleveland,115,202.5,Cleveland Cavaliers
+1091,97,2016-01-08,2.0, Toronto,88,202.5,Toronto Raptors
+1092,105,2016-01-09,3.5, Orlando,99,199.0,Orlando Magic
+1093,114,2016-01-11,8.5, Chicago,100,208.0,Chicago Bulls
+1094,106,2016-01-13,-5.5, Milwaukee,101,207.0,Milwaukee Bucks
+1095,118,2016-01-15,7.0, Indiana,104,208.5,Indiana Pacers
+1096,119,2016-01-16,2.0, Boston,117,211.0,Boston Celtics
+1097,108,2016-01-18,-4.0, Portland,98,208.5,Portland Trail Blazers
+1098,106,2016-01-20,-6.0, Miami,87,193.5,Miami Heat
+1099,116,2016-01-25,-2.5, Boston,91,213.5,Boston Celtics
+1100,106,2016-01-26,8.0, Toronto,89,206.0,Toronto Raptors
+1101,117,2016-01-28,-7.5, Denver,113,212.0,Denver Nuggets
+1102,123,2016-01-30,4.5, Houston,122,219.0,Houston Rockets
+1103,114,2016-02-01,10.0, Oklahoma City,98,223.0,Oklahoma City Thunder
+1104,134,2016-02-03,10.0, Golden State,121,227.0,Golden State Warriors
+1105,106,2016-02-05,-8.5, Philadelphia,94,213.5,Philadelphia 76ers
+1106,108,2016-02-06,5.5, Charlotte,104,210.5,Charlotte Hornets
+1107,111,2016-02-09,-1.5, New York,108,207.5,New York Knicks
+1108,99,2016-02-11,1.5, Milwaukee,92,214.5,Milwaukee Bucks
+1109,103,2016-02-18,2.0, Utah,89,196.0,Utah Jazz
+1110,98,2016-02-19,-2.0, Detroit,86,209.0,Detroit Pistons
+1111,114,2016-02-20,-1.5, Miami,94,201.5,Miami Heat
+1112,109,2016-02-23,-5.0, New Orleans,89,217.5,New Orleans Pelicans
+1113,109,2016-02-24,-1.5, Chicago,104,211.0,Chicago Bulls
+1114,103,2016-02-26,-7.5, Philadelphia,94,216.5,Philadelphia 76ers
+1115,113,2016-02-28,2.5, Cleveland,99,205.0,Cleveland Cavaliers
+1116,116,2016-02-29,-12.5, Philadelphia,108,214.5,Philadelphia 76ers
+1117,104,2016-03-02,-2.5, Minnesota,98,219.0,Minnesota Timberwolves
+1118,108,2016-03-04,8.0, Cleveland,83,211.0,Cleveland Cavaliers
+1119,100,2016-03-05,-2.5, Indiana,99,207.0,Indiana Pacers
+1120,116,2016-03-08,5.5, Portland,109,213.5,Portland Trail Blazers
+1121,114,2016-03-11,3.5, Utah,93,196.0,Utah Jazz
+1122,116,2016-03-12,1.5, Denver,100,212.5,Denver Nuggets
+1123,124,2016-03-14,-2.0, Detroit,81,210.5,Detroit Pistons
+1124,117,2016-03-16,-5.0, Chicago,96,213.5,Chicago Bulls
+1125,99,2016-03-17,-9.0, Philadelphia,94,214.5,Philadelphia 76ers
+1126,99,2016-03-19,-8.0, New York,89,206.5,New York Knicks
+1127,117,2016-03-21,7.0, Atlanta,102,208.5,Atlanta Hawks
+1128,122,2016-03-23,-1.0, Atlanta,101,207.5,Atlanta Hawks
+1129,132,2016-03-25,-9.0, Minnesota,129,218.0,Minnesota Timberwolves
+1130,101,2016-03-27,-9.0, LA Lakers,88,213.5,Los Angeles Lakers
+1131,102,2016-03-29,12.5, Golden State,94,226.0,Golden State Warriors
+1132,120,2016-03-30,-1.5, Sacramento,111,218.0,Sacramento Kings
+1133,106,2016-04-01,-9.0, Phoenix,99,213.0,Phoenix Suns
+1134,114,2016-04-03,6.5, LA Clippers,109,206.0,Los Angeles Clippers
+1135,121,2016-04-06,-11.5, Brooklyn,103,208.5,Brooklyn Nets
+1136,112,2016-04-08,6.0, Detroit,99,203.5,Detroit Pistons
+1137,113,2016-04-10,5.0, Charlotte,98,205.0,Charlotte Hornets
+1138,120,2016-04-11,-6.5, Brooklyn,111,213.5,Brooklyn Nets
+1139,109,2016-04-13,9.0, Atlanta,98,210.0,Atlanta Hawks
+1140,111,2015-10-28,6.0, Phoenix,95,204.5,Phoenix Suns
+1141,104,2015-10-29,12.0, LA Clippers,88,213.0,Los Angeles Clippers
+1142,103,2015-11-01,-4.0, LA Lakers,93,212.5,Los Angeles Lakers
+1143,102,2015-11-03,2.0, Toronto,91,205.5,Toronto Raptors
+1144,108,2015-11-05,-4.0, Charlotte,94,200.5,Charlotte Hornets
+1145,107,2015-11-07,-5.0, New Orleans,98,211.5,New Orleans Pelicans
+1146,120,2015-11-10,2.5, New Orleans,105,211.0,New Orleans Pelicans
+1147,118,2015-11-11,6.5, LA Clippers,108,211.5,Los Angeles Clippers
+1148,90,2015-11-13,-7.5, LA Lakers,82,210.5,Los Angeles Lakers
+1149,110,2015-11-14,7.5, Houston,98,207.5,Houston Rockets
+1150,92,2015-11-16,-8.0, Philadelphia,86,203.5,Philadelphia 76ers
+1151,106,2015-11-18,5.0, Boston,102,207.5,Boston Celtics
+1152,102,2015-11-20,-1.5, Utah,93,196.0,Utah Jazz
+1153,117,2015-11-22,3.5, Oklahoma City,114,208.5,Oklahoma City Thunder
+1154,110,2015-11-24,3.5, Memphis,96,196.0,Memphis Grizzlies
+1155,88,2015-11-25,10.0, San Antonio,83,197.5,San Antonio Spurs
+1156,92,2015-11-28,-8.5, Denver,81,205.0,Denver Nuggets
+1157,112,2015-11-30,2.0, Sacramento,98,214.5,Sacramento Kings
+1158,115,2015-12-01,1.5, Portland,112,201.5,Portland Trail Blazers
+1159,100,2015-12-04,-5.0, Houston,96,212.0,Houston Rockets
+1160,116,2015-12-06,-2.5, Washington,104,208.0,Washington Wizards
+1161,104,2015-12-07,0.0, New York,97,198.5,New York Knicks
+1162,98,2015-12-09,1.5, Atlanta,95,202.0,Atlanta Hawks
+1163,114,2015-12-12,-6.5, Washington,111,205.0,Washington Wizards
+1164,104,2015-12-14,-4.0, Phoenix,94,208.5,Phoenix Suns
+1165,107,2015-12-16,4.5, Indiana,81,207.5,Indiana Pacers
+1166,97,2015-12-18,-2.0, Memphis,88,197.5,Memphis Grizzlies
+1167,103,2015-12-22,4.5, Toronto,99,196.0,Toronto Raptors
+1168,119,2015-12-23,-3.5, Brooklyn,118,199.0,Brooklyn Nets
+1169,118,2015-12-26,-2.5, Chicago,111,200.5,Chicago Bulls
+1170,103,2015-12-28,-5.5, Milwaukee,93,202.0,Milwaukee Bucks
+1171,114,2015-12-30,3.5, Golden State,91,208.5,Golden State Warriors
+1172,106,2016-01-01,2.0, Miami,82,196.0,Miami Heat
+1173,105,2016-01-02,-4.0, New Orleans,98,205.5,New Orleans Pelicans
+1174,117,2016-01-05,-7.0, Sacramento,116,213.5,Sacramento Kings
+1175,100,2016-01-06,8.0, New Orleans,91,204.5,New Orleans Pelicans
+1176,96,2016-01-08,1.0, Milwaukee,95,204.5,Milwaukee Bucks
+1177,93,2016-01-10,-4.5, Minnesota,87,199.0,Minnesota Timberwolves
+1178,110,2016-01-12,6.0, Cleveland,107,199.5,Cleveland Cavaliers
+1179,108,2016-01-13,12.5, Oklahoma City,89,207.0,Oklahoma City Thunder
+1180,83,2016-01-15,1.0, Chicago,77,201.0,Chicago Bulls
+1181,112,2016-01-17,12.5, San Antonio,83,195.5,San Antonio Spurs
+1182,118,2016-01-18,2.0, Boston,113,202.5,Boston Celtics
+1183,106,2016-01-20,-6.0, Minnesota,94,200.0,Minnesota Timberwolves
+1184,109,2016-01-22,7.0, Oklahoma City,106,206.5,Oklahoma City Thunder
+1185,115,2016-01-24,4.0, Houston,104,205.0,Houston Rockets
+1186,92,2016-01-26,-6.5, LA Lakers,90,201.0,Los Angeles Lakers
+1187,127,2016-01-27,17.5, Golden State,107,214.5,Golden State Warriors
+1188,91,2016-01-29,-8.0, Brooklyn,79,199.5,Brooklyn Nets
+1189,91,2016-01-31,-8.5, Phoenix,78,198.0,Phoenix Suns
+1190,112,2016-02-01,6.0, Atlanta,97,199.0,Atlanta Hawks
+1191,93,2016-02-03,-2.5, Miami,90,194.5,Miami Heat
+1192,116,2016-02-05,6.5, San Antonio,90,198.0,San Antonio Spurs
+1193,114,2016-02-06,5.0, Memphis,110,192.5,Memphis Grizzlies
+1194,121,2016-02-09,-1.5, Utah,119,187.5,Utah Jazz
+1195,110,2016-02-19,1.5, Orlando,104,200.0,Orlando Magic
+1196,129,2016-02-21,-9.0, Philadelphia,103,205.0,Philadelphia 76ers
+1197,116,2016-02-24,5.5, Oklahoma City,103,215.0,Oklahoma City Thunder
+1198,122,2016-02-26,-6.0, Denver,116,208.0,Denver Nuggets
+1199,128,2016-02-28,-7.5, Minnesota,101,211.0,Minnesota Timberwolves
+1200,121,2016-03-01,-4.5, Orlando,108,215.0,Orlando Magic
+1201,104,2016-03-03,-6.5, Sacramento,101,223.0,Sacramento Kings
+1202,116,2016-03-06,-3.5, Denver,114,210.0,Denver Nuggets
+1203,109,2016-03-07,5.5, LA Clippers,90,208.5,Los Angeles Clippers
+1204,102,2016-03-09,-1.5, Detroit,96,206.5,Detroit Pistons
+1205,112,2016-03-12,-1.0, Indiana,105,203.0,Indiana Pacers
+1206,107,2016-03-14,5.5, Charlotte,96,209.5,Charlotte Hornets
+1207,99,2016-03-16,5.5, Cleveland,98,206.5,Cleveland Cavaliers
+1208,130,2016-03-18,9.0, Golden State,112,227.0,Golden State Warriors
+1209,132,2016-03-20,1.5, Portland,120,214.0,Portland Trail Blazers
+1210,109,2016-03-23,6.5, Portland,103,214.0,Portland Trail Blazers
+1211,128,2016-03-25,16.5, Golden State,120,220.5,Golden State Warriors
+1212,133,2016-03-27,1.5, Sacramento,111,217.5,Sacramento Kings
+1213,97,2016-03-28,1.5, Denver,88,211.5,Denver Nuggets
+1214,91,2016-03-30,-6.0, New York,89,199.5,New York Knicks
+1215,98,2016-04-01,5.5, Detroit,89,205.0,Detroit Pistons
+1216,88,2016-04-03,-3.0, Minnesota,78,205.0,Minnesota Timberwolves
+1217,88,2016-04-06,1.5, Houston,86,206.5,Houston Rockets
+1218,103,2016-04-08,-6.5, Memphis,93,192.5,Memphis Grizzlies
+1219,98,2016-04-10,6.5, LA Clippers,91,195.0,Los Angeles Clippers
+1220,101,2016-04-11,7.0, Utah,92,182.5,Utah Jazz
+1221,96,2016-04-13,-5.0, San Antonio,91,187.5,San Antonio Spurs
+1222,108,2016-04-16,12.0, Oklahoma City,70,206.0,Oklahoma City Thunder
+1223,85,2016-04-18,14.0, Oklahoma City,84,203.0,Oklahoma City Thunder
+1224,131,2016-04-21,9.5, Oklahoma City,102,198.5,Oklahoma City Thunder
+1225,119,2016-04-23,8.5, Oklahoma City,108,203.5,Oklahoma City Thunder
+1226,118,2016-04-25,14.5, Oklahoma City,104,204.5,Oklahoma City Thunder
+1227,112,2015-10-28,2.5, LA Lakers,111,203.0,Los Angeles Lakers
+1228,95,2015-10-30,3.5, Denver,78,204.0,Denver Nuggets
+1229,106,2015-11-02,-4.0, Portland,101,203.5,Portland Trail Blazers
+1230,96,2015-11-05,4.0, Miami,84,197.0,Miami Heat
+1231,102,2015-11-07,9.5, Chicago,93,201.5,Chicago Bulls
+1232,117,2015-11-09,8.5, Atlanta,107,204.5,Atlanta Hawks
+1233,104,2015-11-10,3.5, Charlotte,95,202.0,Charlotte Hornets
+1234,129,2015-11-12,10.5, Golden State,116,211.5,Golden State Warriors
+1235,107,2015-11-13,7.5, Indiana,103,200.0,Indiana Pacers
+1236,114,2015-11-15,4.5, Memphis,106,192.5,Memphis Grizzlies
+1237,103,2015-11-17,8.5, Miami,91,198.5,Miami Heat
+1238,104,2015-11-18,5.0, Orlando,101,204.0,Orlando Magic
+1239,96,2015-11-20,2.5, Detroit,86,202.5,Detroit Pistons
+1240,100,2015-11-23,-7.5, Philadelphia,95,200.5,Philadelphia 76ers
+1241,99,2015-11-25,3.0, Atlanta,95,206.5,Atlanta Hawks
+1242,101,2015-11-27,3.0, Sacramento,91,216.0,Sacramento Kings
+1243,107,2015-11-29,10.0, LA Clippers,99,206.0,Los Angeles Clippers
+1244,96,2015-12-01,-1.5, Orlando,93,202.5,Orlando Magic
+1245,109,2015-12-05,-1.5, Portland,103,204.0,Portland Trail Blazers
+1246,110,2015-12-07,4.0, LA Clippers,106,205.5,Los Angeles Clippers
+1247,123,2015-12-09,-7.5, LA Lakers,122,204.0,Los Angeles Lakers
+1248,111,2015-12-11,1.0, Denver,108,202.0,Denver Nuggets
+1249,108,2015-12-13,5.5, Phoenix,101,209.5,Phoenix Suns
+1250,112,2015-12-15,-6.5, Denver,100,202.5,Denver Nuggets
+1251,107,2015-12-16,4.0, New York,102,199.0,New York Knicks
+1252,99,2015-12-18,2.5, Sacramento,95,213.0,Sacramento Kings
+1253,100,2015-12-20,-1.5, Brooklyn,85,202.5,Brooklyn Nets
+1254,113,2015-12-21,7.5, Boston,99,210.0,Boston Celtics
+1255,108,2015-12-23,11.0, San Antonio,83,195.0,San Antonio Spurs
+1256,102,2015-12-26,4.0, Indiana,88,206.0,Indiana Pacers
+1257,101,2015-12-28,13.5, San Antonio,95,195.5,San Antonio Spurs
+1258,94,2015-12-30,-4.0, Utah,80,191.0,Utah Jazz
+1259,115,2015-12-31,8.0, Detroit,90,201.5,Detroit Pistons
+1260,95,2016-01-02,-1.5, Milwaukee,85,204.0,Milwaukee Bucks
+1261,109,2016-01-04,-6.5, Philadelphia,99,204.0,Philadelphia 76ers
+1262,78,2016-01-06,-3.5, Denver,74,201.5,Denver Nuggets
+1263,125,2016-01-08,10.0, Cleveland,99,195.0,Cleveland Cavaliers
+1264,93,2016-01-10,4.5, Dallas,87,199.0,Dallas Mavericks
+1265,101,2016-01-12,10.5, Oklahoma City,96,209.0,Oklahoma City Thunder
+1266,107,2016-01-13,7.5, Houston,104,207.0,Houston Rockets
+1267,113,2016-01-15,13.0, Oklahoma City,93,209.5,Oklahoma City Thunder
+1268,117,2016-01-17,-3.5, Phoenix,87,206.5,Phoenix Suns
+1269,114,2016-01-19,5.5, New Orleans,99,204.0,New Orleans Pelicans
+1270,106,2016-01-20,6.0, Dallas,94,200.0,Dallas Mavericks
+1271,106,2016-01-23,3.0, Memphis,101,192.0,Memphis Grizzlies
+1272,114,2016-01-25,13.5, Cleveland,107,205.0,Cleveland Cavaliers
+1273,126,2016-01-27,6.5, Oklahoma City,123,213.0,Oklahoma City Thunder
+1274,103,2016-01-29,8.5, Utah,90,192.5,Utah Jazz
+1275,96,2016-01-31,6.5, Portland,93,208.5,Portland Trail Blazers
+1276,119,2016-02-02,-4.5, LA Lakers,115,206.0,Los Angeles Lakers
+1277,108,2016-02-03,10.5, LA Clippers,102,210.0,Los Angeles Clippers
+1278,112,2016-02-06,-3.5, Chicago,105,205.0,Chicago Bulls
+1279,116,2016-02-08,-2.0, New Orleans,102,210.5,New Orleans Pelicans
+1280,117,2016-02-10,6.0, Toronto,112,207.5,Toronto Raptors
+1281,109,2016-02-19,4.5, Memphis,104,205.5,Memphis Grizzlies
+1282,103,2016-02-20,-2.0, New York,95,207.5,New York Knicks
+1283,124,2016-02-22,4.5, Boston,122,218.5,Boston Celtics
+1284,114,2016-02-24,9.5, Toronto,105,211.5,Toronto Raptors
+1285,112,2016-02-27,2.5, New Orleans,110,217.5,New Orleans Pelicans
+1286,128,2016-02-28,7.5, Dallas,101,211.0,Dallas Mavericks
+1287,104,2016-03-02,2.5, Washington,98,219.0,Washington Wizards
+1288,116,2016-03-04,4.5, Milwaukee,101,215.0,Milwaukee Bucks
+1289,132,2016-03-05,-9.5, Brooklyn,118,211.0,Brooklyn Nets
+1290,108,2016-03-07,10.0, Charlotte,103,215.0,Charlotte Hornets
+1291,116,2016-03-08,9.5, San Antonio,91,206.5,San Antonio Spurs
+1292,99,2016-03-11,12.0, Oklahoma City,96,223.5,Oklahoma City Thunder
+1293,107,2016-03-14,0.0, Phoenix,104,222.5,Phoenix Suns
+1294,114,2016-03-16,-4.0, Memphis,108,207.5,Memphis Grizzlies
+1295,116,2016-03-18,9.0, Houston,111,224.0,Houston Rockets
+1296,109,2016-03-21,12.5, Golden State,104,232.5,Golden State Warriors
+1297,113,2016-03-23,-4.5, Sacramento,104,221.0,Sacramento Kings
+1298,132,2016-03-25,9.0, Washington,129,218.0,Washington Wizards
+1299,93,2016-03-26,8.0, Utah,84,196.0,Utah Jazz
+1300,121,2016-03-28,-6.0, Phoenix,116,219.0,Phoenix Suns
+1301,99,2016-03-30,6.0, LA Clippers,79,212.5,Los Angeles Clippers
+1302,98,2016-04-01,7.0, Utah,85,192.0,Utah Jazz
+1303,88,2016-04-03,3.0, Dallas,78,205.0,Dallas Mavericks
+1304,124,2016-04-05,14.5, Golden State,117,226.0,Golden State Warriors
+1305,105,2016-04-07,-1.0, Sacramento,97,222.5,Sacramento Kings
+1306,106,2016-04-09,8.5, Portland,105,216.0,Portland Trail Blazers
+1307,129,2016-04-11,3.5, Houston,105,216.5,Houston Rockets
+1308,144,2016-04-13,-10.0, New Orleans,109,212.5,New Orleans Pelicans
+1309,111,2015-10-28,-6.0, Sacramento,104,211.0,Sacramento Kings
+1310,104,2015-10-29,-12.0, Dallas,88,213.0,Dallas Mavericks
+1311,114,2015-10-31,-10.5, Sacramento,109,216.0,Sacramento Kings
+1312,102,2015-11-02,-9.0, Phoenix,96,208.0,Phoenix Suns
+1313,112,2015-11-04,7.5, Golden State,108,217.5,Golden State Warriors
+1314,109,2015-11-07,-5.5, Houston,105,211.5,Houston Rockets
+1315,94,2015-11-09,-7.5, Memphis,92,200.0,Memphis Grizzlies
+1316,118,2015-11-11,-6.5, Dallas,108,211.5,Dallas Mavericks
+1317,118,2015-11-12,1.5, Phoenix,104,205.5,Phoenix Suns
+1318,101,2015-11-14,-2.5, Detroit,96,196.5,Detroit Pistons
+1319,124,2015-11-19,5.5, Golden State,117,213.5,Golden State Warriors
+1320,102,2015-11-20,-4.5, Portland,91,210.0,Portland Trail Blazers
+1321,91,2015-11-22,-6.5, Toronto,80,204.0,Toronto Raptors
+1322,111,2015-11-24,-7.0, Denver,94,204.5,Denver Nuggets
+1323,102,2015-11-25,-4.5, Utah,91,197.0,Utah Jazz
+1324,111,2015-11-27,-6.5, New Orleans,90,212.0,New Orleans Pelicans
+1325,107,2015-11-29,-10.0, Minnesota,99,206.0,Minnesota Timberwolves
+1326,102,2015-11-30,-7.0, Portland,87,206.0,Portland Trail Blazers
+1327,103,2015-12-02,2.0, Indiana,91,202.0,Indiana Pacers
+1328,103,2015-12-05,-2.5, Orlando,101,198.0,Orlando Magic
+1329,110,2015-12-07,-4.0, Minnesota,106,205.5,Minnesota Timberwolves
+1330,109,2015-12-09,-5.5, Milwaukee,95,200.0,Milwaukee Bucks
+1331,83,2015-12-10,-1.5, Chicago,80,203.5,Chicago Bulls
+1332,105,2015-12-12,-7.0, Brooklyn,100,206.0,Brooklyn Nets
+1333,105,2015-12-14,-2.0, Detroit,103,204.5,Detroit Pistons
+1334,103,2015-12-16,-11.0, Milwaukee,90,198.0,Milwaukee Bucks
+1335,115,2015-12-18,7.5, San Antonio,107,195.5,San Antonio Spurs
+1336,107,2015-12-19,-2.5, Houston,97,213.0,Houston Rockets
+1337,100,2015-12-21,2.0, Oklahoma City,99,210.0,Oklahoma City Thunder
+1338,94,2015-12-25,-12.5, LA Lakers,84,207.5,Los Angeles Lakers
+1339,109,2015-12-26,-2.0, Utah,104,192.5,Utah Jazz
+1340,108,2015-12-28,1.0, Washington,91,207.5,Washington Wizards
+1341,122,2015-12-30,-2.5, Charlotte,117,201.0,Charlotte Hornets
+1342,95,2015-12-31,2.0, New Orleans,89,208.0,New Orleans Pelicans
+1343,130,2016-01-02,-14.0, Philadelphia,99,203.5,Philadelphia 76ers
+1344,109,2016-01-06,-3.5, Portland,98,205.5,Portland Trail Blazers
+1345,97,2016-01-09,-8.5, Charlotte,83,203.0,Charlotte Hornets
+1346,114,2016-01-10,-9.5, New Orleans,111,204.5,New Orleans Pelicans
+1347,104,2016-01-13,-3.0, Miami,90,197.5,Miami Heat
+1348,110,2016-01-16,-4.0, Sacramento,103,218.0,Sacramento Kings
+1349,140,2016-01-18,-5.0, Houston,132,209.5,Houston Rockets
+1350,115,2016-01-21,6.5, Cleveland,102,202.5,Cleveland Cavaliers
+1351,116,2016-01-22,-2.5, New York,88,207.0,New York Knicks
+1352,112,2016-01-24,2.5, Toronto,94,205.0,Toronto Raptors
+1353,91,2016-01-26,0.0, Indiana,89,207.0,Indiana Pacers
+1354,85,2016-01-27,5.5, Atlanta,83,206.0,Atlanta Hawks
+1355,105,2016-01-29,-14.0, LA Lakers,93,204.0,Los Angeles Lakers
+1356,120,2016-01-31,-4.5, Chicago,93,202.5,Chicago Bulls
+1357,108,2016-02-03,-10.5, Minnesota,102,210.0,Minnesota Timberwolves
+1358,107,2016-02-05,-3.5, Orlando,93,204.5,Orlando Magic
+1359,100,2016-02-07,-1.0, Miami,93,195.0,Miami Heat
+1360,98,2016-02-08,-9.0, Philadelphia,92,207.0,Philadelphia 76ers
+1361,139,2016-02-10,2.0, Boston,134,212.0,Boston Celtics
+1362,105,2016-02-18,1.0, San Antonio,86,206.0,San Antonio Spurs
+1363,115,2016-02-20,4.0, Golden State,112,228.5,Golden State Warriors
+1364,124,2016-02-22,-14.5, Phoenix,84,212.0,Phoenix Suns
+1365,87,2016-02-24,-11.0, Denver,81,213.5,Denver Nuggets
+1366,117,2016-02-26,-5.0, Sacramento,107,218.5,Sacramento Kings
+1367,105,2016-02-29,-12.0, Brooklyn,95,212.5,Brooklyn Nets
+1368,103,2016-03-02,1.5, Oklahoma City,98,218.0,Oklahoma City Thunder
+1369,107,2016-03-05,-5.5, Atlanta,97,201.0,Atlanta Hawks
+1370,109,2016-03-07,-5.5, Dallas,90,208.5,Dallas Mavericks
+1371,120,2016-03-09,6.0, Oklahoma City,108,215.5,Oklahoma City Thunder
+1372,101,2016-03-11,-10.5, New York,94,205.0,New York Knicks
+1373,114,2016-03-13,2.5, Cleveland,90,208.0,Cleveland Cavaliers
+1374,108,2016-03-15,9.5, San Antonio,87,201.0,San Antonio Spurs
+1375,122,2016-03-16,3.5, Houston,106,217.0,Houston Rockets
+1376,113,2016-03-19,-9.0, Memphis,102,198.5,Memphis Grizzlies
+1377,109,2016-03-20,-10.0, New Orleans,105,209.0,New Orleans Pelicans
+1378,114,2016-03-23,10.5, Golden State,98,223.0,Golden State Warriors
+1379,96,2016-03-24,-6.0, Portland,94,214.5,Portland Trail Blazers
+1380,105,2016-03-27,-8.5, Denver,90,208.5,Denver Nuggets
+1381,114,2016-03-28,-4.0, Boston,90,207.5,Boston Celtics
+1382,99,2016-03-30,-6.0, Minnesota,79,212.5,Minnesota Timberwolves
+1383,119,2016-03-31,16.5, Oklahoma City,117,208.5,Oklahoma City Thunder
+1384,114,2016-04-03,-6.5, Washington,109,206.0,Washington Wizards
+1385,103,2016-04-05,-14.5, LA Lakers,81,208.0,Los Angeles Lakers
+1386,91,2016-04-06,-11.5, LA Lakers,81,203.0,Los Angeles Lakers
+1387,102,2016-04-08,13.5, Utah,99,184.0,Utah Jazz
+1388,98,2016-04-10,-6.5, Dallas,91,195.0,Dallas Mavericks
+1389,110,2016-04-12,-9.0, Memphis,84,200.5,Memphis Grizzlies
+1390,114,2016-04-13,5.0, Phoenix,105,206.0,Phoenix Suns
+1391,115,2016-04-17,-8.5, Portland,95,210.5,Portland Trail Blazers
+1392,102,2016-04-20,-8.5, Portland,81,210.5,Portland Trail Blazers
+1393,96,2016-04-23,-1.5, Portland,88,208.5,Portland Trail Blazers
+1394,98,2016-04-25,-4.0, Portland,84,205.0,Portland Trail Blazers
+1395,108,2016-04-27,2.5, Portland,98,195.5,Portland Trail Blazers
+1396,106,2016-04-29,9.5, Portland,103,199.0,Portland Trail Blazers
+1397,112,2015-10-28,-4.0, San Antonio,106,207.5,San Antonio Spurs
+1398,139,2015-10-30,-7.5, Orlando,136,205.5,Orlando Magic
+1399,117,2015-11-01,-12.5, Denver,93,213.0,Denver Nuggets
+1400,110,2015-11-02,-4.5, Houston,105,217.5,Houston Rockets
+1401,103,2015-11-04,-8.0, Toronto,98,212.0,Toronto Raptors
+1402,104,2015-11-05,1.0, Chicago,98,211.5,Chicago Bulls
+1403,124,2015-11-08,-8.5, Phoenix,103,212.0,Phoenix Suns
+1404,125,2015-11-10,-6.5, Washington,101,216.0,Washington Wizards
+1405,102,2015-11-13,-13.0, Philadelphia,85,206.5,Philadelphia 76ers
+1406,100,2015-11-15,-5.0, Boston,85,211.5,Boston Celtics
+1407,122,2015-11-16,2.5, Memphis,114,197.5,Memphis Grizzlies
+1408,110,2015-11-18,-12.0, New Orleans,103,212.5,New Orleans Pelicans
+1409,93,2015-11-20,-6.5, New York,90,206.5,New York Knicks
+1410,117,2015-11-22,-3.5, Dallas,114,208.5,Dallas Mavericks
+1411,111,2015-11-23,1.5, Utah,89,201.0,Utah Jazz
+1412,110,2015-11-25,-12.0, Brooklyn,99,209.5,Brooklyn Nets
+1413,103,2015-11-27,-8.0, Detroit,87,209.0,Detroit Pistons
+1414,106,2015-11-30,-3.0, Atlanta,100,213.5,Atlanta Hawks
+1415,97,2015-12-03,-4.0, Miami,95,203.5,Miami Heat
+1416,98,2015-12-06,-12.0, Sacramento,95,221.5,Sacramento Kings
+1417,125,2015-12-08,-2.0, Memphis,88,201.5,Memphis Grizzlies
+1418,107,2015-12-10,-7.5, Atlanta,94,210.5,Atlanta Hawks
+1419,94,2015-12-11,-3.5, Utah,90,204.0,Utah Jazz
+1420,104,2015-12-13,-9.0, Utah,98,203.5,Utah Jazz
+1421,106,2015-12-16,-10.0, Portland,90,207.5,Portland Trail Blazers
+1422,104,2015-12-17,2.0, Cleveland,100,203.0,Cleveland Cavaliers
+1423,118,2015-12-19,-16.5, LA Lakers,78,207.5,Los Angeles Lakers
+1424,100,2015-12-21,-2.0, LA Clippers,99,210.0,Los Angeles Clippers
+1425,120,2015-12-23,-14.0, LA Lakers,85,207.5,Los Angeles Lakers
+1426,105,2015-12-25,-10.0, Chicago,96,206.0,Chicago Bulls
+1427,122,2015-12-27,-16.5, Denver,112,207.0,Denver Nuggets
+1428,131,2015-12-29,-13.5, Milwaukee,123,207.0,Milwaukee Bucks
+1429,110,2015-12-31,-16.0, Phoenix,106,212.0,Phoenix Suns
+1430,109,2016-01-02,-9.0, Charlotte,90,210.0,Charlotte Hornets
+1431,116,2016-01-04,-7.5, Sacramento,104,214.0,Sacramento Kings
+1432,112,2016-01-06,-8.5, Memphis,94,198.5,Memphis Grizzlies
+1433,117,2016-01-08,-15.0, LA Lakers,113,212.0,Los Angeles Lakers
+1434,115,2016-01-10,-7.5, Portland,110,215.5,Portland Trail Blazers
+1435,101,2016-01-12,-10.5, Minnesota,96,209.0,Minnesota Timberwolves
+1436,108,2016-01-13,-12.5, Dallas,89,207.0,Dallas Mavericks
+1437,113,2016-01-15,-13.0, Minnesota,93,209.5,Minnesota Timberwolves
+1438,99,2016-01-17,-9.5, Miami,74,201.0,Miami Heat
+1439,110,2016-01-19,-9.0, Denver,104,213.0,Denver Nuggets
+1440,109,2016-01-20,-9.5, Charlotte,95,206.5,Charlotte Hornets
+1441,109,2016-01-22,-7.0, Dallas,106,206.5,Dallas Mavericks
+1442,116,2016-01-24,-13.0, Brooklyn,106,209.0,Brooklyn Nets
+1443,128,2016-01-26,-9.0, New York,122,208.5,New York Knicks
+1444,126,2016-01-27,-6.5, Minnesota,123,213.0,Minnesota Timberwolves
+1445,116,2016-01-29,-8.0, Houston,108,223.0,Houston Rockets
+1446,114,2016-02-01,-10.0, Washington,98,223.0,Washington Wizards
+1447,117,2016-02-03,-11.0, Orlando,114,212.0,Orlando Magic
+1448,116,2016-02-06,7.5, Golden State,108,233.5,Golden State Warriors
+1449,122,2016-02-08,-13.0, Phoenix,106,214.0,Phoenix Suns
+1450,121,2016-02-11,-12.0, New Orleans,95,218.0,New Orleans Pelicans
+1451,101,2016-02-19,-8.0, Indiana,98,214.5,Indiana Pacers
+1452,115,2016-02-21,-3.5, Cleveland,92,218.0,Cleveland Cavaliers
+1453,116,2016-02-24,-5.5, Dallas,103,215.0,Dallas Mavericks
+1454,123,2016-02-25,-6.5, New Orleans,119,221.5,New Orleans Pelicans
+1455,121,2016-02-27,3.0, Golden State,118,233.5,Golden State Warriors
+1456,131,2016-02-29,-8.5, Sacramento,116,227.5,Sacramento Kings
+1457,103,2016-03-02,-1.5, LA Clippers,98,218.0,Los Angeles Clippers
+1458,121,2016-03-03,7.5, Golden State,106,230.5,Golden State Warriors
+1459,104,2016-03-06,-8.0, Milwaukee,96,219.0,Milwaukee Bucks
+1460,120,2016-03-09,-6.0, LA Clippers,108,215.5,Los Angeles Clippers
+1461,99,2016-03-11,-12.0, Minnesota,96,223.5,Minnesota Timberwolves
+1462,93,2016-03-12,9.0, San Antonio,85,211.5,San Antonio Spurs
+1463,128,2016-03-14,-7.5, Portland,94,217.0,Portland Trail Blazers
+1464,130,2016-03-16,-5.0, Boston,109,220.0,Boston Celtics
+1465,111,2016-03-18,-15.5, Philadelphia,97,219.5,Philadelphia 76ers
+1466,115,2016-03-19,-3.5, Indiana,111,211.0,Indiana Pacers
+1467,111,2016-03-22,-9.0, Houston,107,226.0,Houston Rockets
+1468,113,2016-03-24,-9.5, Utah,91,199.0,Utah Jazz
+1469,111,2016-03-26,-12.5, San Antonio,92,207.5,San Antonio Spurs
+1470,119,2016-03-28,-3.0, Toronto,100,211.5,Toronto Raptors
+1471,88,2016-03-29,1.5, Detroit,82,214.0,Detroit Pistons
+1472,119,2016-03-31,-16.5, LA Clippers,117,208.5,Los Angeles Clippers
+1473,118,2016-04-03,-3.0, Houston,110,221.5,Houston Rockets
+1474,124,2016-04-05,-9.0, Denver,102,217.0,Denver Nuggets
+1475,120,2016-04-06,8.0, Portland,115,213.5,Portland Trail Blazers
+1476,114,2016-04-09,-8.5, Sacramento,112,225.0,Sacramento Kings
+1477,112,2016-04-11,-15.5, LA Lakers,79,216.5,Los Angeles Lakers
+1478,102,2016-04-12,13.0, San Antonio,98,202.5,San Antonio Spurs
+1479,108,2016-04-16,-12.0, Dallas,70,206.0,Dallas Mavericks
+1480,85,2016-04-18,-14.0, Dallas,84,203.0,Dallas Mavericks
+1481,131,2016-04-21,-9.5, Dallas,102,198.5,Dallas Mavericks
+1482,119,2016-04-23,-8.5, Dallas,108,203.5,Dallas Mavericks
+1483,118,2016-04-25,-14.5, Dallas,104,204.5,Dallas Mavericks
+1484,124,2016-04-30,6.5, San Antonio,92,200.0,San Antonio Spurs
+1485,98,2016-05-02,7.5, San Antonio,97,200.0,San Antonio Spurs
+1486,100,2016-05-06,2.5, San Antonio,96,200.0,San Antonio Spurs
+1487,111,2016-05-08,-2.0, San Antonio,97,199.0,San Antonio Spurs
+1488,95,2016-05-10,7.5, San Antonio,91,199.0,San Antonio Spurs
+1489,113,2016-05-12,0.0, San Antonio,99,197.5,San Antonio Spurs
+1490,108,2016-05-16,7.5, Golden State,102,225.0,Golden State Warriors
+1491,118,2016-05-18,9.0, Golden State,91,223.0,Golden State Warriors
+1492,133,2016-05-22,2.5, Golden State,105,219.0,Golden State Warriors
+1493,118,2016-05-24,1.5, Golden State,94,222.0,Golden State Warriors
+1494,120,2016-05-26,7.0, Golden State,111,219.5,Golden State Warriors
+1495,108,2016-05-28,-3.0, Golden State,101,221.5,Golden State Warriors
+1496,96,2016-05-30,7.0, Golden State,88,219.0,Golden State Warriors
+1497,104,2015-10-28,6.0, Miami,94,194.0,Miami Heat
+1498,97,2015-10-30,4.0, Atlanta,94,194.0,Atlanta Hawks
+1499,94,2015-11-01,2.0, Atlanta,92,195.0,Atlanta Hawks
+1500,130,2015-11-03,4.0, Chicago,105,194.0,Chicago Bulls
+1501,108,2015-11-05,4.0, Dallas,94,200.5,Dallas Mavericks
+1502,114,2015-11-07,9.5, San Antonio,94,193.5,San Antonio Spurs
+1503,104,2015-11-10,-3.5, Minnesota,95,202.0,Minnesota Timberwolves
+1504,95,2015-11-11,-6.5, New York,93,200.5,New York Knicks
+1505,102,2015-11-13,6.5, Chicago,97,200.0,Chicago Bulls
+1506,106,2015-11-15,-5.0, Portland,94,205.5,Portland Trail Blazers
+1507,102,2015-11-17,1.0, New York,94,196.0,New York Knicks
+1508,116,2015-11-18,-6.5, Brooklyn,111,194.0,Brooklyn Nets
+1509,113,2015-11-20,-11.0, Philadelphia,88,198.0,Philadelphia 76ers
+1510,127,2015-11-23,-3.5, Sacramento,122,211.0,Sacramento Kings
+1511,101,2015-11-25,-3.5, Washington,87,209.0,Washington Wizards
+1512,95,2015-11-27,4.0, Cleveland,90,204.0,Cleveland Cavaliers
+1513,87,2015-11-29,-6.5, Milwaukee,82,201.0,Milwaukee Bucks
+1514,116,2015-12-02,9.0, Golden State,99,207.5,Golden State Warriors
+1515,102,2015-12-05,5.5, Chicago,96,195.5,Chicago Bulls
+1516,104,2015-12-07,-2.5, Detroit,84,197.5,Detroit Pistons
+1517,99,2015-12-09,1.0, Miami,81,192.0,Miami Heat
+1518,123,2015-12-11,3.0, Memphis,99,192.5,Memphis Grizzlies
+1519,98,2015-12-12,-3.0, Boston,93,202.5,Boston Celtics
+1520,113,2015-12-16,-1.0, Orlando,98,198.0,Orlando Magic
+1521,109,2015-12-17,3.0, Toronto,99,194.0,Toronto Raptors
+1522,109,2015-12-19,-1.5, Washington,101,206.0,Washington Wizards
+1523,102,2015-12-21,3.5, Houston,95,208.0,Houston Rockets
+1524,102,2015-12-23,-1.5, Boston,89,204.5,Boston Celtics
+1525,98,2015-12-26,-2.5, Memphis,92,192.5,Memphis Grizzlies
+1526,108,2015-12-28,-12.0, LA Lakers,98,203.5,Los Angeles Lakers
+1527,122,2015-12-30,2.5, LA Clippers,117,201.0,Los Angeles Clippers
+1528,104,2016-01-01,6.0, Toronto,94,196.5,Toronto Raptors
+1529,109,2016-01-02,9.0, Oklahoma City,90,210.0,Oklahoma City Thunder
+1530,111,2016-01-04,12.0, Golden State,101,212.5,Golden State Warriors
+1531,111,2016-01-06,-2.0, Phoenix,102,203.5,Phoenix Suns
+1532,97,2016-01-09,8.5, LA Clippers,83,203.0,Los Angeles Clippers
+1533,95,2016-01-10,-1.5, Denver,92,198.0,Denver Nuggets
+1534,107,2016-01-13,2.5, Atlanta,84,206.5,Atlanta Hawks
+1535,109,2016-01-15,3.5, New Orleans,107,202.0,New Orleans Pelicans
+1536,105,2016-01-16,-5.5, Milwaukee,92,198.0,Milwaukee Bucks
+1537,124,2016-01-18,-3.5, Utah,119,186.0,Utah Jazz
+1538,109,2016-01-20,9.5, Oklahoma City,95,206.5,Oklahoma City Thunder
+1539,120,2016-01-22,5.0, Orlando,116,196.5,Orlando Magic
+1540,97,2016-01-23,1.5, New York,84,200.0,New York Knicks
+1541,129,2016-01-25,8.0, Sacramento,128,214.0,Sacramento Kings
+1542,102,2016-01-27,6.5, Utah,73,193.0,Utah Jazz
+1543,109,2016-01-29,6.0, Portland,91,206.5,Portland Trail Blazers
+1544,101,2016-01-31,-4.0, LA Lakers,82,201.0,Los Angeles Lakers
+1545,106,2016-02-03,8.0, Cleveland,97,202.0,Cleveland Cavaliers
+1546,98,2016-02-05,-4.0, Miami,95,194.5,Miami Heat
+1547,108,2016-02-06,-5.5, Washington,104,210.5,Washington Wizards
+1548,108,2016-02-08,-7.5, Chicago,91,199.5,Chicago Bulls
+1549,117,2016-02-10,3.5, Indiana,95,201.0,Indiana Pacers
+1550,98,2016-02-19,-1.5, Milwaukee,95,200.5,Milwaukee Bucks
+1551,104,2016-02-21,-7.0, Brooklyn,96,204.0,Brooklyn Nets
+1552,114,2016-02-24,8.5, Cleveland,103,207.5,Cleveland Cavaliers
+1553,96,2016-02-26,4.0, Indiana,95,203.0,Indiana Pacers
+1554,87,2016-02-28,4.5, Atlanta,76,202.0,Atlanta Hawks
+1555,126,2016-03-01,-12.5, Phoenix,92,209.5,Phoenix Suns
+1556,119,2016-03-02,-10.0, Philadelphia,99,209.0,Philadelphia 76ers
+1557,108,2016-03-04,-3.5, Indiana,101,202.5,Indiana Pacers
+1558,108,2016-03-07,-10.0, Minnesota,103,215.0,Minnesota Timberwolves
+1559,122,2016-03-09,-8.5, New Orleans,113,209.0,New Orleans Pelicans
+1560,118,2016-03-11,-4.0, Detroit,103,202.5,Detroit Pistons
+1561,125,2016-03-12,-5.0, Houston,109,216.0,Houston Rockets
+1562,107,2016-03-14,-5.5, Dallas,96,209.5,Dallas Mavericks
+1563,107,2016-03-16,-9.5, Orlando,99,212.0,Orlando Magic
+1564,109,2016-03-17,4.5, Miami,106,208.0,Miami Heat
+1565,101,2016-03-19,-9.0, Denver,93,213.0,Denver Nuggets
+1566,91,2016-03-21,6.0, San Antonio,88,196.0,San Antonio Spurs
+1567,105,2016-03-22,-6.0, Brooklyn,100,207.0,Brooklyn Nets
+1568,112,2016-03-25,1.5, Detroit,105,206.0,Detroit Pistons
+1569,115,2016-03-26,-3.5, Milwaukee,91,201.5,Milwaukee Bucks
+1570,100,2016-03-29,-11.5, Philadelphia,85,210.0,Philadelphia 76ers
+1571,100,2016-04-01,-13.5, Philadelphia,91,209.5,Philadelphia 76ers
+1572,112,2016-04-03,6.5, Cleveland,103,202.0,Cleveland Cavaliers
+1573,96,2016-04-05,5.0, Toronto,90,201.0,Toronto Raptors
+1574,111,2016-04-06,-4.5, New York,97,196.5,New York Knicks
+1575,113,2016-04-08,-14.5, Brooklyn,99,208.5,Brooklyn Nets
+1576,113,2016-04-10,-5.0, Washington,98,205.0,Washington Wizards
+1577,114,2016-04-11,7.0, Boston,100,210.0,Boston Celtics
+1578,117,2016-04-13,-7.5, Orlando,103,211.0,Orlando Magic
+1579,123,2016-04-17,4.5, Miami,91,198.5,Miami Heat
+1580,115,2016-04-20,4.5, Miami,103,197.5,Miami Heat
+1581,96,2016-04-23,-3.0, Miami,80,197.5,Miami Heat
+1582,89,2016-04-25,-2.5, Miami,85,194.5,Miami Heat
+1583,90,2016-04-27,5.5, Miami,88,194.0,Miami Heat
+1584,97,2016-04-29,-2.0, Miami,90,192.0,Miami Heat
+1585,106,2016-05-01,6.0, Miami,73,190.5,Miami Heat
+1586,122,2015-10-28,-4.5, New York,97,194.5,New York Knicks
+1587,118,2015-10-30,2.5, Washington,113,199.5,Washington Wizards
+1588,106,2015-11-01,6.0, Toronto,87,200.0,Toronto Raptors
+1589,103,2015-11-02,-1.5, Brooklyn,96,194.0,Brooklyn Nets
+1590,91,2015-11-04,-8.5, Philadelphia,87,195.0,Philadelphia 76ers
+1591,99,2015-11-06,1.5, New York,92,196.5,New York Knicks
+1592,94,2015-11-07,-6.5, Brooklyn,86,192.5,Brooklyn Nets
+1593,99,2015-11-10,2.0, Boston,83,202.5,Boston Celtics
+1594,103,2015-11-11,3.5, Denver,102,194.5,Denver Nuggets
+1595,108,2015-11-14,5.0, Cleveland,105,195.0,Cleveland Cavaliers
+1596,115,2015-11-17,3.5, Washington,86,197.5,Washington Wizards
+1597,115,2015-11-19,10.0, Cleveland,100,192.5,Cleveland Cavaliers
+1598,123,2015-11-21,5.0, Indiana,86,193.0,Indiana Pacers
+1599,109,2015-11-23,3.0, Detroit,88,190.5,Detroit Pistons
+1600,129,2015-11-25,-4.5, Sacramento,118,209.5,Sacramento Kings
+1601,114,2015-11-27,3.5, Orlando,90,199.0,Orlando Magic
+1602,87,2015-11-29,6.5, Charlotte,82,201.0,Charlotte Hornets
+1603,92,2015-11-30,-3.5, Denver,74,199.0,Denver Nuggets
+1604,95,2015-12-02,12.0, San Antonio,70,186.5,San Antonio Spurs
+1605,102,2015-12-04,6.5, Detroit,95,192.0,Detroit Pistons
+1606,106,2015-12-05,2.5, New York,91,189.0,New York Knicks
+1607,90,2015-12-07,1.0, Portland,88,198.0,Portland Trail Blazers
+1608,109,2015-12-09,5.5, LA Clippers,95,200.0,Los Angeles Clippers
+1609,90,2015-12-11,7.5, Toronto,83,191.5,Toronto Raptors
+1610,108,2015-12-12,9.5, Golden State,95,206.0,Golden State Warriors
+1611,113,2015-12-15,-3.5, LA Lakers,95,198.5,Los Angeles Lakers
+1612,103,2015-12-16,11.0, LA Clippers,90,198.0,Los Angeles Clippers
+1613,121,2015-12-18,19.0, Golden State,112,210.5,Golden State Warriors
+1614,101,2015-12-20,7.5, Phoenix,95,203.5,Phoenix Suns
+1615,113,2015-12-23,-11.0, Philadelphia,100,196.0,Philadelphia 76ers
+1616,111,2015-12-26,2.5, Toronto,90,193.0,Toronto Raptors
+1617,103,2015-12-28,5.5, Dallas,93,202.0,Dallas Mavericks
+1618,131,2015-12-29,13.5, Oklahoma City,123,207.0,Oklahoma City Thunder
+1619,120,2015-12-31,5.5, Indiana,116,201.0,Indiana Pacers
+1620,95,2016-01-02,1.5, Minnesota,85,204.0,Minnesota Timberwolves
+1621,123,2016-01-04,9.5, San Antonio,98,192.0,San Antonio Spurs
+1622,117,2016-01-05,8.5, Chicago,106,201.0,Chicago Bulls
+1623,96,2016-01-08,-1.0, Dallas,95,204.5,Dallas Mavericks
+1624,100,2016-01-10,5.0, New York,88,197.5,New York Knicks
+1625,106,2016-01-12,3.5, Chicago,101,203.0,Chicago Bulls
+1626,106,2016-01-13,5.5, Washington,101,207.0,Washington Wizards
+1627,108,2016-01-15,4.5, Atlanta,101,206.5,Atlanta Hawks
+1628,105,2016-01-16,5.5, Charlotte,92,198.0,Charlotte Hornets
+1629,91,2016-01-19,4.5, Miami,79,192.0,Miami Heat
+1630,102,2016-01-22,2.5, Houston,98,211.0,Houston Rockets
+1631,116,2016-01-23,6.5, New Orleans,99,202.5,New Orleans Pelicans
+1632,107,2016-01-26,-5.0, Orlando,100,197.0,Orlando Magic
+1633,103,2016-01-28,5.5, Memphis,83,193.0,Memphis Grizzlies
+1634,107,2016-01-29,1.0, Miami,103,194.0,Miami Heat
+1635,111,2016-02-01,1.5, Sacramento,104,214.0,Sacramento Kings
+1636,107,2016-02-02,7.0, Portland,95,206.0,Portland Trail Blazers
+1637,84,2016-02-05,7.0, Utah,81,188.0,Utah Jazz
+1638,112,2016-02-09,4.0, Boston,111,208.5,Boston Celtics
+1639,99,2016-02-11,-1.5, Washington,92,214.5,Washington Wizards
+1640,98,2016-02-19,1.5, Charlotte,95,200.5,Charlotte Hornets
+1641,117,2016-02-20,8.0, Atlanta,109,207.0,Atlanta Hawks
+1642,108,2016-02-22,-9.0, LA Lakers,101,210.5,Los Angeles Lakers
+1643,112,2016-02-25,7.5, Boston,107,215.0,Boston Celtics
+1644,102,2016-02-27,-1.0, Detroit,91,202.0,Detroit Pistons
+1645,128,2016-02-29,3.0, Houston,121,215.0,Houston Rockets
+1646,104,2016-03-02,3.0, Indiana,99,206.5,Indiana Pacers
+1647,116,2016-03-04,-4.5, Minnesota,101,215.0,Minnesota Timberwolves
+1648,104,2016-03-06,8.0, Oklahoma City,96,219.0,Oklahoma City Thunder
+1649,100,2016-03-07,4.5, Chicago,90,212.0,Chicago Bulls
+1650,114,2016-03-09,3.0, Miami,108,199.0,Miami Heat
+1651,103,2016-03-12,-6.5, New Orleans,92,211.5,New Orleans Pelicans
+1652,109,2016-03-13,-1.5, Brooklyn,100,208.5,Brooklyn Nets
+1653,107,2016-03-15,-1.5, Toronto,89,205.5,Toronto Raptors
+1654,96,2016-03-17,-10.5, Memphis,86,201.0,Memphis Grizzlies
+1655,94,2016-03-20,1.5, Utah,85,189.0,Utah Jazz
+1656,92,2016-03-21,7.5, Detroit,91,206.5,Detroit Pistons
+1657,113,2016-03-23,11.0, Cleveland,104,207.5,Cleveland Cavaliers
+1658,101,2016-03-25,8.5, Atlanta,90,201.5,Atlanta Hawks
+1659,115,2016-03-26,3.5, Charlotte,91,201.5,Charlotte Hornets
+1660,105,2016-03-30,-7.5, Phoenix,94,211.0,Phoenix Suns
+1661,113,2016-04-01,-2.0, Orlando,110,209.0,Orlando Magic
+1662,102,2016-04-03,-1.5, Chicago,98,202.5,Chicago Bulls
+1663,109,2016-04-05,9.5, Cleveland,80,203.0,Cleveland Cavaliers
+1664,124,2016-04-08,11.0, Boston,109,204.0,Boston Celtics
+1665,109,2016-04-10,-4.5, Philadelphia,108,205.5,Philadelphia 76ers
+1666,107,2016-04-11,2.5, Orlando,98,209.5,Orlando Magic
+1667,97,2016-04-13,-5.0, Indiana,92,201.5,Indiana Pacers
+1668,106,2015-10-28,-5.5, Cleveland,76,189.0,Cleveland Cavaliers
+1669,112,2015-10-29,-3.0, Indiana,103,191.0,Indiana Pacers
+1670,101,2015-10-31,-12.0, Brooklyn,91,192.5,Brooklyn Nets
+1671,119,2015-11-02,9.0, Golden State,69,204.5,Golden State Warriors
+1672,103,2015-11-03,-4.0, Sacramento,89,196.5,Sacramento Kings
+1673,115,2015-11-05,-4.5, Portland,96,193.0,Portland Trail Blazers
+1674,89,2015-11-07,2.5, Utah,79,180.0,Utah Jazz
+1675,94,2015-11-09,7.5, LA Clippers,92,200.0,Los Angeles Clippers
+1676,100,2015-11-11,7.0, Golden State,84,200.0,Golden State Warriors
+1677,101,2015-11-13,-6.5, Portland,100,193.5,Portland Trail Blazers
+1678,114,2015-11-15,-4.5, Minnesota,106,192.5,Minnesota Timberwolves
+1679,122,2015-11-16,-2.5, Oklahoma City,114,197.5,Oklahoma City Thunder
+1680,96,2015-11-20,-2.5, Houston,84,199.5,Houston Rockets
+1681,92,2015-11-21,8.0, San Antonio,82,190.0,San Antonio Spurs
+1682,110,2015-11-24,-3.5, Dallas,96,196.0,Dallas Mavericks
+1683,102,2015-11-25,4.5, Houston,93,198.5,Houston Rockets
+1684,116,2015-11-27,-2.5, Atlanta,101,197.0,Atlanta Hawks
+1685,92,2015-11-29,-13.0, Philadelphia,84,193.0,Philadelphia 76ers
+1686,113,2015-12-01,0.0, New Orleans,104,202.0,New Orleans Pelicans
+1687,103,2015-12-03,3.0, San Antonio,83,183.5,San Antonio Spurs
+1688,95,2015-12-06,-5.5, Phoenix,93,202.5,Phoenix Suns
+1689,125,2015-12-08,2.0, Oklahoma City,88,201.5,Oklahoma City Thunder
+1690,93,2015-12-09,4.5, Detroit,92,193.5,Detroit Pistons
+1691,123,2015-12-11,-3.0, Charlotte,99,192.5,Charlotte Hornets
+1692,100,2015-12-13,3.0, Miami,97,189.0,Miami Heat
+1693,112,2015-12-14,-3.0, Washington,95,201.0,Washington Wizards
+1694,98,2015-12-16,4.5, Chicago,85,194.0,Chicago Bulls
+1695,97,2015-12-18,2.0, Dallas,88,197.5,Dallas Mavericks
+1696,96,2015-12-19,1.0, Indiana,84,200.0,Indiana Pacers
+1697,104,2015-12-22,-10.0, Philadelphia,90,193.5,Philadelphia 76ers
+1698,100,2015-12-23,-1.0, Washington,91,201.5,Washington Wizards
+1699,98,2015-12-26,2.5, Charlotte,92,192.5,Charlotte Hornets
+1700,112,2015-12-27,-9.5, LA Lakers,96,195.0,Los Angeles Lakers
+1701,99,2015-12-29,-4.5, Miami,90,189.5,Miami Heat
+1702,92,2016-01-02,-2.0, Utah,87,184.5,Utah Jazz
+1703,91,2016-01-04,-1.5, Portland,78,195.5,Portland Trail Blazers
+1704,112,2016-01-06,8.5, Oklahoma City,94,198.5,Oklahoma City Thunder
+1705,91,2016-01-08,-5.5, Denver,84,189.0,Denver Nuggets
+1706,101,2016-01-10,3.0, Boston,98,192.0,Boston Celtics
+1707,107,2016-01-12,2.0, Houston,91,196.0,Houston Rockets
+1708,103,2016-01-14,1.0, Detroit,101,192.0,Detroit Pistons
+1709,103,2016-01-16,-5.5, New York,95,187.0,New York Knicks
+1710,101,2016-01-18,-4.5, New Orleans,99,193.0,New Orleans Pelicans
+1711,102,2016-01-21,-2.5, Denver,101,195.5,Denver Nuggets
+1712,106,2016-01-23,-3.0, Minnesota,101,192.0,Minnesota Timberwolves
+1713,108,2016-01-25,-5.5, Orlando,102,190.0,Orlando Magic
+1714,103,2016-01-28,-5.5, Milwaukee,83,193.0,Milwaukee Bucks
+1715,121,2016-01-30,-4.0, Sacramento,117,207.0,Sacramento Kings
+1716,110,2016-02-01,3.0, New Orleans,95,202.5,New Orleans Pelicans
+1717,91,2016-02-05,-6.0, New York,85,193.0,New York Knicks
+1718,114,2016-02-06,-5.0, Dallas,110,192.5,Dallas Mavericks
+1719,112,2016-02-08,-3.0, Portland,106,199.0,Portland Trail Blazers
+1720,109,2016-02-10,-4.0, Brooklyn,90,198.0,Brooklyn Nets
+1721,109,2016-02-19,-4.5, Minnesota,104,205.5,Minnesota Timberwolves
+1722,98,2016-02-21,7.5, Toronto,85,201.5,Toronto Raptors
+1723,128,2016-02-24,-8.5, LA Lakers,119,207.0,Los Angeles Lakers
+1724,112,2016-02-26,-5.0, LA Lakers,95,213.0,Los Angeles Lakers
+1725,111,2016-02-27,-6.5, Phoenix,106,208.5,Phoenix Suns
+1726,103,2016-02-29,-1.0, Denver,96,204.0,Denver Nuggets
+1727,104,2016-03-02,-3.0, Sacramento,98,215.0,Sacramento Kings
+1728,94,2016-03-04,1.0, Utah,88,192.0,Utah Jazz
+1729,109,2016-03-06,-9.5, Phoenix,100,205.0,Phoenix Suns
+1730,106,2016-03-07,15.0, Cleveland,103,200.0,Cleveland Cavaliers
+1731,116,2016-03-09,11.5, Boston,96,210.5,Boston Celtics
+1732,121,2016-03-11,3.0, New Orleans,114,204.5,New Orleans Pelicans
+1733,95,2016-03-12,14.0, Atlanta,83,193.5,Atlanta Hawks
+1734,130,2016-03-14,11.5, Houston,81,207.5,Houston Rockets
+1735,114,2016-03-16,4.0, Minnesota,108,207.5,Minnesota Timberwolves
+1736,96,2016-03-17,10.5, Milwaukee,86,201.0,Milwaukee Bucks
+1737,113,2016-03-19,9.0, LA Clippers,102,198.5,Los Angeles Clippers
+1738,103,2016-03-21,-3.0, Phoenix,97,202.5,Phoenix Suns
+1739,107,2016-03-22,-3.5, LA Lakers,100,202.5,Los Angeles Lakers
+1740,110,2016-03-25,13.0, San Antonio,104,190.5,San Antonio Spurs
+1741,101,2016-03-28,5.5, San Antonio,87,193.0,San Antonio Spurs
+1742,109,2016-03-30,-2.5, Denver,105,204.5,Denver Nuggets
+1743,99,2016-04-01,5.5, Toronto,95,198.0,Toronto Raptors
+1744,119,2016-04-03,4.5, Orlando,107,207.0,Orlando Magic
+1745,108,2016-04-05,3.5, Chicago,92,200.5,Chicago Bulls
+1746,103,2016-04-08,6.5, Dallas,93,192.5,Dallas Mavericks
+1747,100,2016-04-09,13.0, Golden State,99,213.5,Golden State Warriors
+1748,110,2016-04-12,9.0, LA Clippers,84,200.5,Los Angeles Clippers
+1749,125,2016-04-13,17.5, Golden State,104,212.5,Golden State Warriors
+1750,106,2016-04-17,16.5, San Antonio,74,188.5,San Antonio Spurs
+1751,94,2016-04-19,17.5, San Antonio,68,186.0,San Antonio Spurs
+1752,96,2016-04-22,12.0, San Antonio,87,184.0,San Antonio Spurs
+1753,116,2016-04-24,13.5, San Antonio,95,181.5,San Antonio Spurs
+1754,106,2015-10-28,-5.5, Indiana,99,199.5,Indiana Pacers
+1755,113,2015-10-30,2.0, Boston,103,200.0,Boston Celtics
+1756,106,2015-11-01,-6.0, Milwaukee,87,200.0,Milwaukee Bucks
+1757,102,2015-11-03,-2.0, Dallas,91,205.5,Dallas Mavericks
+1758,103,2015-11-04,8.0, Oklahoma City,98,212.0,Oklahoma City Thunder
+1759,92,2015-11-06,-6.0, Orlando,87,196.5,Orlando Magic
+1760,96,2015-11-08,2.5, Miami,76,190.5,Miami Heat
+1761,111,2015-11-10,-7.5, New York,109,196.5,New York Knicks
+1762,119,2015-11-11,-9.5, Philadelphia,103,196.0,Philadelphia 76ers
+1763,100,2015-11-13,-10.0, New Orleans,81,205.0,New Orleans Pelicans
+1764,107,2015-11-15,-2.0, Sacramento,101,208.5,Sacramento Kings
+1765,115,2015-11-17,9.5, Golden State,110,209.0,Golden State Warriors
+1766,93,2015-11-18,4.0, Utah,89,191.5,Utah Jazz
+1767,102,2015-11-20,-7.0, LA Lakers,91,203.5,Los Angeles Lakers
+1768,91,2015-11-22,6.5, LA Clippers,80,204.0,Los Angeles Clippers
+1769,103,2015-11-25,3.0, Cleveland,99,200.5,Cleveland Cavaliers
+1770,84,2015-11-28,-3.5, Washington,82,201.0,Washington Wizards
+1771,107,2015-11-29,-3.0, Phoenix,102,202.5,Phoenix Suns
+1772,96,2015-12-02,4.0, Atlanta,86,196.5,Atlanta Hawks
+1773,106,2015-12-03,-10.0, Denver,105,191.0,Denver Nuggets
+1774,112,2015-12-05,7.5, Golden State,109,210.5,Golden State Warriors
+1775,102,2015-12-07,-11.5, LA Lakers,93,198.5,Los Angeles Lakers
+1776,97,2015-12-09,6.0, San Antonio,94,187.5,San Antonio Spurs
+1777,90,2015-12-11,-7.5, Milwaukee,83,191.5,Milwaukee Bucks
+1778,96,2015-12-13,-11.5, Philadelphia,76,192.5,Philadelphia 76ers
+1779,106,2015-12-14,4.5, Indiana,90,200.5,Indiana Pacers
+1780,109,2015-12-17,-3.0, Charlotte,99,194.0,Charlotte Hornets
+1781,108,2015-12-18,4.5, Miami,94,187.5,Miami Heat
+1782,104,2015-12-20,-5.5, Sacramento,94,207.5,Sacramento Kings
+1783,103,2015-12-22,-4.5, Dallas,99,196.0,Dallas Mavericks
+1784,111,2015-12-26,-2.5, Milwaukee,90,193.0,Milwaukee Bucks
+1785,104,2015-12-28,1.5, Chicago,97,198.0,Chicago Bulls
+1786,94,2015-12-30,-7.5, Washington,91,203.5,Washington Wizards
+1787,104,2016-01-01,-6.0, Charlotte,94,196.5,Charlotte Hornets
+1788,115,2016-01-03,-4.0, Chicago,113,195.5,Chicago Bulls
+1789,122,2016-01-04,8.0, Cleveland,100,194.0,Cleveland Cavaliers
+1790,91,2016-01-06,-7.0, Brooklyn,74,195.0,Brooklyn Nets
+1791,97,2016-01-08,-2.0, Washington,88,202.5,Washington Wizards
+1792,108,2016-01-09,-9.0, Philadelphia,95,202.0,Philadelphia 76ers
+1793,106,2016-01-14,-4.5, Orlando,103,193.0,Orlando Magic
+1794,112,2016-01-18,-11.0, Brooklyn,100,195.0,Brooklyn Nets
+1795,115,2016-01-20,-3.5, Boston,109,201.5,Boston Celtics
+1796,101,2016-01-22,-10.5, Miami,81,190.0,Miami Heat
+1797,112,2016-01-24,-2.5, LA Clippers,94,205.0,Los Angeles Clippers
+1798,106,2016-01-26,-8.0, Washington,89,206.0,Washington Wizards
+1799,103,2016-01-28,-12.0, New York,93,198.5,New York Knicks
+1800,111,2016-01-30,-7.5, Detroit,107,204.5,Detroit Pistons
+1801,112,2016-02-01,-5.0, Denver,93,205.0,Denver Nuggets
+1802,104,2016-02-02,-9.5, Phoenix,97,200.0,Phoenix Suns
+1803,110,2016-02-04,1.5, Portland,103,206.5,Portland Trail Blazers
+1804,103,2016-02-08,-2.0, Detroit,89,206.0,Detroit Pistons
+1805,117,2016-02-10,-6.0, Minnesota,112,207.5,Minnesota Timberwolves
+1806,116,2016-02-19,-7.5, Chicago,106,200.0,Chicago Bulls
+1807,98,2016-02-21,-7.5, Memphis,85,201.5,Memphis Grizzlies
+1808,122,2016-02-22,-3.5, New York,95,201.5,New York Knicks
+1809,114,2016-02-24,-9.5, Minnesota,105,211.5,Minnesota Timberwolves
+1810,99,2016-02-26,2.5, Cleveland,97,206.0,Cleveland Cavaliers
+1811,114,2016-02-28,1.5, Detroit,101,199.0,Detroit Pistons
+1812,104,2016-03-02,-5.0, Utah,94,193.5,Utah Jazz
+1813,117,2016-03-04,-5.5, Portland,115,207.5,Portland Trail Blazers
+1814,113,2016-03-06,-7.5, Houston,107,214.5,Houston Rockets
+1815,104,2016-03-08,-13.0, Brooklyn,99,207.5,Brooklyn Nets
+1816,104,2016-03-10,-3.5, Atlanta,96,201.0,Atlanta Hawks
+1817,112,2016-03-12,-6.5, Miami,104,203.0,Miami Heat
+1818,109,2016-03-14,-9.5, Chicago,107,205.5,Chicago Bulls
+1819,107,2016-03-15,1.5, Milwaukee,89,205.5,Milwaukee Bucks
+1820,101,2016-03-17,1.5, Indiana,94,203.0,Indiana Pacers
+1821,105,2016-03-18,-1.5, Boston,91,208.5,Boston Celtics
+1822,105,2016-03-20,-9.5, Orlando,100,210.0,Orlando Magic
+1823,91,2016-03-23,3.5, Boston,79,205.5,Boston Celtics
+1824,112,2016-03-25,-1.0, Houston,109,210.0,Houston Rockets
+1825,115,2016-03-26,-11.5, New Orleans,91,200.0,New Orleans Pelicans
+1826,119,2016-03-28,3.0, Oklahoma City,100,211.5,Oklahoma City Thunder
+1827,105,2016-03-30,-1.0, Atlanta,97,201.5,Atlanta Hawks
+1828,99,2016-04-01,-5.5, Memphis,95,198.0,Memphis Grizzlies
+1829,102,2016-04-02,13.5, San Antonio,95,192.0,San Antonio Spurs
+1830,96,2016-04-05,-5.0, Charlotte,90,201.0,Charlotte Hornets
+1831,95,2016-04-07,5.0, Atlanta,87,200.0,Atlanta Hawks
+1832,111,2016-04-08,5.5, Indiana,98,194.0,Indiana Pacers
+1833,93,2016-04-10,-6.5, New York,89,195.5,New York Knicks
+1834,122,2016-04-12,-12.0, Philadelphia,98,204.5,Philadelphia 76ers
+1835,103,2016-04-13,-5.5, Brooklyn,96,206.5,Brooklyn Nets
+1836,100,2016-04-16,-7.0, Indiana,90,194.5,Indiana Pacers
+1837,98,2016-04-18,-8.0, Indiana,87,195.0,Indiana Pacers
+1838,101,2016-04-21,0.0, Indiana,85,194.5,Indiana Pacers
+1839,100,2016-04-23,-1.0, Indiana,83,193.0,Indiana Pacers
+1840,102,2016-04-26,-7.5, Indiana,99,194.0,Indiana Pacers
+1841,101,2016-04-29,2.0, Indiana,83,192.5,Indiana Pacers
+1842,89,2016-05-01,-6.0, Indiana,84,189.5,Indiana Pacers
+1843,102,2016-05-03,-3.5, Miami,96,191.5,Miami Heat
+1844,96,2016-05-05,-5.0, Miami,92,190.0,Miami Heat
+1845,95,2016-05-07,5.5, Miami,91,186.0,Miami Heat
+1846,94,2016-05-09,4.5, Miami,87,194.0,Miami Heat
+1847,99,2016-05-11,-4.5, Miami,91,189.0,Miami Heat
+1848,103,2016-05-13,4.0, Miami,91,188.0,Miami Heat
+1849,116,2016-05-15,-4.5, Miami,89,188.0,Miami Heat
+1850,115,2016-05-17,11.0, Cleveland,84,199.0,Cleveland Cavaliers
+1851,108,2016-05-19,11.5, Cleveland,89,197.5,Cleveland Cavaliers
+1852,99,2016-05-21,6.0, Cleveland,84,199.5,Cleveland Cavaliers
+1853,105,2016-05-23,6.0, Cleveland,99,197.0,Cleveland Cavaliers
+1854,116,2016-05-25,11.0, Cleveland,78,196.0,Cleveland Cavaliers
+1855,113,2016-05-27,6.5, Cleveland,87,198.5,Cleveland Cavaliers
+1856,92,2015-10-28,0.0, Detroit,87,191.5,Detroit Pistons
+1857,99,2015-10-30,-7.5, Philadelphia,71,186.0,Philadelphia 76ers
+1858,97,2015-10-31,3.5, Indiana,76,193.5,Indiana Pacers
+1859,108,2015-11-04,-7.0, Portland,92,189.5,Portland Trail Blazers
+1860,96,2015-11-05,-3.0, Denver,84,190.5,Denver Nuggets
+1861,89,2015-11-07,-2.5, Memphis,79,180.0,Memphis Grizzlies
+1862,118,2015-11-10,5.5, Cleveland,114,186.5,Cleveland Cavaliers
+1863,92,2015-11-12,4.0, Miami,91,184.0,Miami Heat
+1864,102,2015-11-13,-1.5, Orlando,93,188.5,Orlando Magic
+1865,97,2015-11-15,3.0, Atlanta,96,191.5,Atlanta Hawks
+1866,93,2015-11-18,-4.0, Toronto,89,191.5,Toronto Raptors
+1867,102,2015-11-20,1.5, Dallas,93,196.0,Dallas Mavericks
+1868,111,2015-11-23,-1.5, Oklahoma City,89,201.0,Oklahoma City Thunder
+1869,102,2015-11-25,4.5, LA Clippers,91,197.0,Los Angeles Clippers
+1870,101,2015-11-28,-5.5, New Orleans,87,195.5,New Orleans Pelicans
+1871,106,2015-11-30,7.5, Golden State,103,202.0,Golden State Warriors
+1872,103,2015-12-03,-4.0, Orlando,94,192.5,Orlando Magic
+1873,122,2015-12-05,2.0, Indiana,119,196.5,Indiana Pacers
+1874,114,2015-12-08,2.5, Sacramento,106,206.0,Sacramento Kings
+1875,106,2015-12-09,-3.0, New York,85,192.5,New York Knicks
+1876,94,2015-12-11,3.5, Oklahoma City,90,204.0,Oklahoma City Thunder
+1877,104,2015-12-13,9.0, Oklahoma City,98,203.5,Oklahoma City Thunder
+1878,118,2015-12-14,12.5, San Antonio,81,186.5,San Antonio Spurs
+1879,104,2015-12-16,-3.5, New Orleans,94,200.5,New Orleans Pelicans
+1880,97,2015-12-18,-5.5, Denver,88,194.0,Denver Nuggets
+1881,110,2015-12-21,-4.5, Phoenix,89,198.0,Phoenix Suns
+1882,103,2015-12-23,14.0, Golden State,85,207.5,Golden State Warriors
+1883,109,2015-12-26,2.0, LA Clippers,104,192.5,Los Angeles Clippers
+1884,95,2015-12-28,-8.5, Philadelphia,91,195.0,Philadelphia 76ers
+1885,94,2015-12-30,4.0, Minnesota,80,191.0,Minnesota Timberwolves
+1886,109,2015-12-31,-3.0, Portland,96,188.0,Portland Trail Blazers
+1887,92,2016-01-02,2.0, Memphis,87,184.5,Memphis Grizzlies
+1888,93,2016-01-04,3.5, Houston,91,198.0,Houston Rockets
+1889,123,2016-01-06,13.5, San Antonio,98,183.5,San Antonio Spurs
+1890,103,2016-01-07,6.5, Houston,94,196.5,Houston Rockets
+1891,98,2016-01-09,1.5, Miami,83,182.5,Miami Heat
+1892,86,2016-01-10,-3.5, LA Lakers,74,191.0,Los Angeles Lakers
+1893,99,2016-01-13,3.5, Portland,85,192.5,Portland Trail Blazers
+1894,103,2016-01-14,-2.5, Sacramento,101,200.5,Sacramento Kings
+1895,109,2016-01-16,-8.5, LA Lakers,82,191.0,Los Angeles Lakers
+1896,124,2016-01-18,3.5, Charlotte,119,186.0,Charlotte Hornets
+1897,118,2016-01-20,2.5, New York,111,188.5,New York Knicks
+1898,108,2016-01-22,-5.5, Brooklyn,86,188.5,Brooklyn Nets
+1899,95,2016-01-25,-2.5, Detroit,92,192.5,Detroit Pistons
+1900,102,2016-01-27,-6.5, Charlotte,73,193.0,Charlotte Hornets
+1901,103,2016-01-29,-8.5, Minnesota,90,192.5,Minnesota Timberwolves
+1902,105,2016-02-01,-5.5, Chicago,96,190.5,Chicago Bulls
+1903,85,2016-02-03,-8.0, Denver,81,195.0,Denver Nuggets
+1904,84,2016-02-05,-7.0, Milwaukee,81,188.0,Milwaukee Bucks
+1905,98,2016-02-06,-7.0, Phoenix,89,187.5,Phoenix Suns
+1906,121,2016-02-09,1.5, Dallas,119,187.5,Dallas Mavericks
+1907,100,2016-02-10,1.5, New Orleans,96,194.0,New Orleans Pelicans
+1908,103,2016-02-18,-2.0, Washington,89,196.0,Washington Wizards
+1909,111,2016-02-19,-1.0, Boston,93,195.5,Boston Celtics
+1910,115,2016-02-21,3.0, Portland,111,196.5,Portland Trail Blazers
+1911,117,2016-02-23,-4.5, Houston,114,203.0,Houston Rockets
+1912,96,2016-02-25,3.0, San Antonio,78,193.5,San Antonio Spurs
+1913,98,2016-02-27,-11.5, Brooklyn,96,198.5,Brooklyn Nets
+1914,100,2016-02-29,4.5, Boston,95,205.0,Boston Celtics
+1915,104,2016-03-02,5.0, Toronto,94,193.5,Toronto Raptors
+1916,94,2016-03-04,-1.0, Memphis,88,192.0,Memphis Grizzlies
+1917,106,2016-03-05,1.0, New Orleans,94,195.5,New Orleans Pelicans
+1918,91,2016-03-08,-2.5, Atlanta,84,192.5,Atlanta Hawks
+1919,115,2016-03-09,14.0, Golden State,94,209.0,Golden State Warriors
+1920,114,2016-03-11,-3.5, Washington,93,196.0,Washington Wizards
+1921,108,2016-03-13,-1.0, Sacramento,99,207.5,Sacramento Kings
+1922,94,2016-03-14,6.5, Cleveland,85,193.5,Cleveland Cavaliers
+1923,103,2016-03-17,-9.0, Phoenix,69,198.5,Phoenix Suns
+1924,92,2016-03-19,1.0, Chicago,85,195.0,Chicago Bulls
+1925,94,2016-03-20,-1.5, Milwaukee,85,189.0,Milwaukee Bucks
+1926,89,2016-03-23,1.5, Houston,87,200.5,Houston Rockets
+1927,113,2016-03-24,9.5, Oklahoma City,91,199.0,Oklahoma City Thunder
+1928,93,2016-03-26,-8.0, Minnesota,84,196.0,Minnesota Timberwolves
+1929,123,2016-03-28,-13.5, LA Lakers,75,189.0,Los Angeles Lakers
+1930,103,2016-03-30,4.5, Golden State,96,203.5,Golden State Warriors
+1931,98,2016-04-01,-7.0, Minnesota,85,192.0,Minnesota Timberwolves
+1932,101,2016-04-03,-9.0, Phoenix,86,192.5,Phoenix Suns
+1933,88,2016-04-05,3.5, San Antonio,86,182.5,San Antonio Spurs
+1934,102,2016-04-08,-13.5, LA Clippers,99,184.0,Los Angeles Clippers
+1935,100,2016-04-10,-6.5, Denver,84,191.5,Denver Nuggets
+1936,101,2016-04-11,-7.0, Dallas,92,182.5,Dallas Mavericks
+1937,101,2016-04-13,-4.0, LA Lakers,96,196.5,Los Angeles Lakers
+1938,111,2015-10-28,-6.0, Dallas,95,204.5,Dallas Mavericks
+1939,110,2015-10-30,-4.5, Portland,92,204.5,Portland Trail Blazers
+1940,101,2015-10-31,1.5, Portland,90,204.0,Portland Trail Blazers
+1941,102,2015-11-02,9.0, LA Clippers,96,208.0,Los Angeles Clippers
+1942,118,2015-11-04,-9.5, Sacramento,97,209.0,Sacramento Kings
+1943,100,2015-11-06,-4.0, Detroit,92,198.5,Detroit Pistons
+1944,124,2015-11-08,8.5, Oklahoma City,103,212.0,Oklahoma City Thunder
+1945,118,2015-11-12,-1.5, LA Clippers,104,205.5,Los Angeles Clippers
+1946,105,2015-11-14,-7.5, Denver,81,205.0,Denver Nuggets
+1947,120,2015-11-16,-11.5, LA Lakers,101,205.0,Los Angeles Lakers
+1948,103,2015-11-18,-3.0, Chicago,97,203.0,Chicago Bulls
+1949,114,2015-11-20,-3.0, Denver,107,206.5,Denver Nuggets
+1950,122,2015-11-22,1.0, New Orleans,116,210.5,New Orleans Pelicans
+1951,98,2015-11-23,9.5, San Antonio,84,196.5,San Antonio Spurs
+1952,120,2015-11-25,-4.0, New Orleans,114,211.5,New Orleans Pelicans
+1953,135,2015-11-27,8.0, Golden State,116,217.5,Golden State Warriors
+1954,107,2015-11-29,3.0, Toronto,102,202.5,Toronto Raptors
+1955,94,2015-12-01,-4.0, Brooklyn,91,208.0,Brooklyn Nets
+1956,127,2015-12-02,3.5, Detroit,122,203.0,Detroit Pistons
+1957,109,2015-12-04,-2.5, Washington,106,215.0,Washington Wizards
+1958,95,2015-12-06,5.5, Memphis,93,202.5,Memphis Grizzlies
+1959,103,2015-12-07,7.0, Chicago,101,203.5,Chicago Bulls
+1960,107,2015-12-09,-4.5, Orlando,104,206.0,Orlando Magic
+1961,106,2015-12-11,-4.0, Portland,96,210.0,Portland Trail Blazers
+1962,108,2015-12-13,-5.5, Minnesota,101,209.5,Minnesota Timberwolves
+1963,104,2015-12-14,4.0, Dallas,94,208.5,Dallas Mavericks
+1964,128,2015-12-16,12.0, Golden State,103,219.5,Golden State Warriors
+1965,104,2015-12-18,-3.0, New Orleans,88,213.5,New Orleans Pelicans
+1966,101,2015-12-20,-7.5, Milwaukee,95,203.5,Milwaukee Bucks
+1967,110,2015-12-21,4.5, Utah,89,198.0,Utah Jazz
+1968,104,2015-12-23,-9.0, Denver,96,208.0,Denver Nuggets
+1969,111,2015-12-26,-11.5, Philadelphia,104,205.0,Philadelphia 76ers
+1970,101,2015-12-28,9.5, Cleveland,97,199.0,Cleveland Cavaliers
+1971,112,2015-12-30,14.5, San Antonio,79,198.5,San Antonio Spurs
+1972,110,2015-12-31,16.0, Oklahoma City,106,212.0,Oklahoma City Thunder
+1973,142,2016-01-02,5.5, Sacramento,119,213.0,Sacramento Kings
+1974,97,2016-01-03,-1.0, LA Lakers,77,209.0,Los Angeles Lakers
+1975,111,2016-01-06,2.0, Charlotte,102,203.5,Charlotte Hornets
+1976,103,2016-01-08,5.0, Miami,95,197.5,Miami Heat
+1977,116,2016-01-12,12.0, Indiana,97,204.5,Indiana Pacers
+1978,117,2016-01-15,9.0, Boston,103,209.5,Boston Celtics
+1979,117,2016-01-17,3.5, Minnesota,87,206.5,Minnesota Timberwolves
+1980,97,2016-01-19,5.5, Indiana,94,207.5,Indiana Pacers
+1981,117,2016-01-21,16.0, San Antonio,89,200.0,San Antonio Spurs
+1982,98,2016-01-23,10.5, Atlanta,95,203.5,Atlanta Hawks
+1983,113,2016-01-26,2.0, Philadelphia,103,204.5,Philadelphia 76ers
+1984,115,2016-01-27,18.0, Cleveland,93,210.0,Cleveland Cavaliers
+1985,102,2016-01-29,7.0, New York,84,203.0,New York Knicks
+1986,91,2016-01-31,8.5, Dallas,78,198.0,Dallas Mavericks
+1987,104,2016-02-02,9.5, Toronto,97,200.0,Toronto Raptors
+1988,111,2016-02-04,7.5, Houston,105,217.5,Houston Rockets
+1989,98,2016-02-06,7.0, Utah,89,187.5,Utah Jazz
+1990,122,2016-02-08,13.0, Oklahoma City,106,214.0,Oklahoma City Thunder
+1991,112,2016-02-10,16.0, Golden State,104,219.5,Golden State Warriors
+1992,116,2016-02-19,8.0, Houston,100,214.0,Houston Rockets
+1993,118,2016-02-21,14.0, San Antonio,111,204.0,San Antonio Spurs
+1994,124,2016-02-22,14.5, LA Clippers,84,212.0,Los Angeles Clippers
+1995,116,2016-02-25,-1.5, Brooklyn,106,208.0,Brooklyn Nets
+1996,111,2016-02-27,6.5, Memphis,106,208.5,Memphis Grizzlies
+1997,126,2016-03-01,12.5, Charlotte,92,209.5,Charlotte Hornets
+1998,108,2016-03-03,14.0, Miami,92,208.5,Miami Heat
+1999,102,2016-03-04,12.5, Orlando,84,216.5,Orlando Magic
+2000,109,2016-03-06,9.5, Memphis,100,205.0,Memphis Grizzlies
+2001,128,2016-03-09,-2.0, New York,97,207.0,New York Knicks
+2002,116,2016-03-10,9.5, Denver,98,215.0,Denver Nuggets
+2003,123,2016-03-12,18.5, Golden State,116,228.0,Golden State Warriors
+2004,107,2016-03-14,0.0, Minnesota,104,222.5,Minnesota Timberwolves
+2005,103,2016-03-17,9.0, Utah,69,198.5,Utah Jazz
+2006,95,2016-03-18,4.0, LA Lakers,90,214.0,Los Angeles Lakers
+2007,103,2016-03-21,3.0, Memphis,97,202.5,Memphis Grizzlies
+2008,119,2016-03-23,-5.5, LA Lakers,107,214.0,Los Angeles Lakers
+2009,116,2016-03-25,7.5, Sacramento,94,223.0,Sacramento Kings
+2010,102,2016-03-26,9.0, Boston,99,217.0,Boston Celtics
+2011,121,2016-03-28,6.0, Minnesota,116,219.0,Minnesota Timberwolves
+2012,105,2016-03-30,7.5, Milwaukee,94,211.0,Milwaukee Bucks
+2013,106,2016-04-01,9.0, Washington,99,213.0,Washington Wizards
+2014,101,2016-04-03,9.0, Utah,86,192.5,Utah Jazz
+2015,103,2016-04-05,15.0, Atlanta,90,206.0,Atlanta Hawks
+2016,124,2016-04-07,12.5, Houston,115,212.5,Houston Rockets
+2017,121,2016-04-09,-3.0, New Orleans,100,208.5,New Orleans Pelicans
+2018,105,2016-04-11,-6.0, Sacramento,101,218.5,Sacramento Kings
+2019,114,2016-04-13,-5.0, LA Clippers,105,206.0,Los Angeles Clippers
+2020,111,2015-10-28,6.0, LA Clippers,104,211.0,Los Angeles Clippers
+2021,132,2015-10-30,-7.0, LA Lakers,114,211.5,Los Angeles Lakers
+2022,114,2015-10-31,10.5, LA Clippers,109,216.0,Los Angeles Clippers
+2023,103,2015-11-03,4.0, Memphis,89,196.5,Memphis Grizzlies
+2024,118,2015-11-04,9.5, Phoenix,97,209.0,Phoenix Suns
+2025,116,2015-11-06,4.5, Houston,110,219.0,Houston Rockets
+2026,103,2015-11-07,14.0, Golden State,94,220.5,Golden State Warriors
+2027,106,2015-11-09,8.0, San Antonio,88,203.0,San Antonio Spurs
+2028,101,2015-11-11,2.0, Detroit,92,205.5,Detroit Pistons
+2029,111,2015-11-13,-6.5, Brooklyn,109,204.0,Brooklyn Nets
+2030,107,2015-11-15,2.0, Toronto,101,208.5,Toronto Raptors
+2031,103,2015-11-18,2.5, Atlanta,97,208.5,Atlanta Hawks
+2032,116,2015-11-19,10.0, Miami,109,202.5,Miami Heat
+2033,97,2015-11-21,3.0, Orlando,91,209.5,Orlando Magic
+2034,127,2015-11-23,3.5, Charlotte,122,211.0,Charlotte Hornets
+2035,129,2015-11-25,4.5, Milwaukee,118,209.5,Milwaukee Bucks
+2036,101,2015-11-27,-3.0, Minnesota,91,216.0,Minnesota Timberwolves
+2037,120,2015-11-28,16.5, Golden State,101,220.0,Golden State Warriors
+2038,112,2015-11-30,-2.0, Dallas,98,214.5,Dallas Mavericks
+2039,114,2015-12-03,2.0, Boston,97,215.0,Boston Celtics
+2040,120,2015-12-05,3.0, Houston,113,218.0,Houston Rockets
+2041,98,2015-12-06,12.0, Oklahoma City,95,221.5,Oklahoma City Thunder
+2042,114,2015-12-08,-2.5, Utah,106,206.0,Utah Jazz
+2043,99,2015-12-10,-6.0, New York,97,210.0,New York Knicks
+2044,107,2015-12-15,-2.5, Houston,97,221.5,Houston Rockets
+2045,99,2015-12-18,-2.5, Minnesota,95,213.0,Minnesota Timberwolves
+2046,104,2015-12-20,5.5, Toronto,94,207.5,Toronto Raptors
+2047,113,2015-12-21,2.5, Washington,99,219.0,Washington Wizards
+2048,108,2015-12-23,7.0, Indiana,106,215.0,Indiana Pacers
+2049,98,2015-12-27,-9.0, Portland,94,209.0,Portland Trail Blazers
+2050,122,2015-12-28,14.0, Golden State,103,220.0,Golden State Warriors
+2051,110,2015-12-30,-10.5, Philadelphia,105,215.5,Philadelphia 76ers
+2052,142,2016-01-02,-5.5, Phoenix,119,213.0,Phoenix Suns
+2053,116,2016-01-04,7.5, Oklahoma City,104,214.0,Oklahoma City Thunder
+2054,117,2016-01-05,7.0, Dallas,116,213.5,Dallas Mavericks
+2055,118,2016-01-07,-8.5, LA Lakers,115,214.5,Los Angeles Lakers
+2056,128,2016-01-09,9.0, Golden State,116,225.0,Golden State Warriors
+2057,109,2016-01-13,-6.5, New Orleans,97,216.0,New Orleans Pelicans
+2058,103,2016-01-14,2.5, Utah,101,200.5,Utah Jazz
+2059,110,2016-01-16,4.0, LA Clippers,103,218.0,Los Angeles Clippers
+2060,112,2016-01-20,-7.0, LA Lakers,93,215.0,Los Angeles Lakers
+2061,91,2016-01-21,1.0, Atlanta,88,216.5,Atlanta Hawks
+2062,108,2016-01-23,-3.0, Indiana,97,214.5,Indiana Pacers
+2063,129,2016-01-25,-8.0, Charlotte,128,214.0,Charlotte Hornets
+2064,112,2016-01-26,5.0, Portland,97,214.0,Portland Trail Blazers
+2065,114,2016-01-28,-5.5, New Orleans,105,216.0,New Orleans Pelicans
+2066,121,2016-01-30,4.0, Memphis,117,207.0,Memphis Grizzlies
+2067,111,2016-02-01,-1.5, Milwaukee,104,214.0,Milwaukee Bucks
+2068,107,2016-02-03,-4.0, Chicago,102,212.0,Chicago Bulls
+2069,128,2016-02-05,-5.5, Brooklyn,119,214.0,Brooklyn Nets
+2070,128,2016-02-07,7.5, Boston,119,216.5,Boston Celtics
+2071,120,2016-02-08,12.0, Cleveland,100,218.0,Cleveland Cavaliers
+2072,114,2016-02-10,-5.5, Philadelphia,110,220.0,Philadelphia 76ers
+2073,116,2016-02-19,-3.5, Denver,110,218.5,Denver Nuggets
+2074,114,2016-02-23,2.5, Denver,110,222.5,Denver Nuggets
+2075,108,2016-02-24,8.0, San Antonio,92,219.0,San Antonio Spurs
+2076,117,2016-02-26,5.0, LA Clippers,107,218.5,Los Angeles Clippers
+2077,131,2016-02-29,8.5, Oklahoma City,116,227.5,Oklahoma City Thunder
+2078,104,2016-03-02,3.0, Memphis,98,215.0,Memphis Grizzlies
+2079,104,2016-03-03,6.5, Dallas,101,223.0,Dallas Mavericks
+2080,104,2016-03-05,11.5, San Antonio,94,212.5,San Antonio Spurs
+2081,115,2016-03-07,-1.5, New Orleans,112,219.5,New Orleans Pelicans
+2082,120,2016-03-09,7.0, Cleveland,111,218.0,Cleveland Cavaliers
+2083,107,2016-03-11,-1.5, Orlando,100,218.5,Orlando Magic
+2084,108,2016-03-13,1.0, Utah,99,207.5,Utah Jazz
+2085,106,2016-03-15,-5.0, LA Lakers,98,220.0,Los Angeles Lakers
+2086,123,2016-03-16,-3.5, New Orleans,108,223.5,New Orleans Pelicans
+2087,115,2016-03-18,7.0, Detroit,108,218.5,Detroit Pistons
+2088,88,2016-03-20,-5.0, New York,80,212.5,New York Knicks
+2089,109,2016-03-21,8.0, Chicago,102,219.5,Chicago Bulls
+2090,113,2016-03-23,4.5, Minnesota,104,221.0,Minnesota Timberwolves
+2091,116,2016-03-25,-7.5, Phoenix,94,223.0,Phoenix Suns
+2092,133,2016-03-27,-1.5, Dallas,111,217.5,Dallas Mavericks
+2093,105,2016-03-28,13.0, Portland,93,220.5,Portland Trail Blazers
+2094,120,2016-03-30,1.5, Washington,111,218.0,Washington Wizards
+2095,112,2016-04-01,6.5, Miami,106,211.5,Miami Heat
+2096,115,2016-04-02,9.5, Denver,106,218.0,Denver Nuggets
+2097,115,2016-04-05,4.0, Portland,107,222.5,Portland Trail Blazers
+2098,105,2016-04-07,1.0, Minnesota,97,222.5,Minnesota Timberwolves
+2099,114,2016-04-09,8.5, Oklahoma City,112,225.0,Oklahoma City Thunder
+2100,105,2016-04-11,6.0, Phoenix,101,218.5,Phoenix Suns
+2101,116,2016-04-13,15.0, Houston,81,220.0,Houston Rockets
+2102,111,2015-10-27,10.5, Golden State,95,215.5,Golden State Warriors
+2103,112,2015-10-28,2.5, Portland,94,206.5,Portland Trail Blazers
+2104,134,2015-10-31,5.5, Golden State,120,211.5,Golden State Warriors
+2105,103,2015-11-03,-5.0, Orlando,94,205.5,Orlando Magic
+2106,121,2015-11-06,2.5, Atlanta,115,206.0,Atlanta Hawks
+2107,107,2015-11-07,5.0, Dallas,98,211.5,Dallas Mavericks
+2108,120,2015-11-10,-2.5, Dallas,105,211.0,Dallas Mavericks
+2109,106,2015-11-11,13.0, Atlanta,98,208.5,Atlanta Hawks
+2110,100,2015-11-13,10.0, Toronto,81,205.0,Toronto Raptors
+2111,95,2015-11-15,1.5, New York,87,203.5,New York Knicks
+2112,115,2015-11-17,-6.0, Denver,98,206.5,Denver Nuggets
+2113,110,2015-11-18,12.0, Oklahoma City,103,212.5,Oklahoma City Thunder
+2114,104,2015-11-20,7.5, San Antonio,90,201.5,San Antonio Spurs
+2115,122,2015-11-22,-1.0, Phoenix,116,210.5,Phoenix Suns
+2116,120,2015-11-25,4.0, Phoenix,114,211.5,Phoenix Suns
+2117,111,2015-11-27,6.5, LA Clippers,90,212.0,Los Angeles Clippers
+2118,101,2015-11-28,5.5, Utah,87,195.5,Utah Jazz
+2119,113,2015-12-01,0.0, Memphis,104,202.0,Memphis Grizzlies
+2120,108,2015-12-02,3.5, Houston,101,214.5,Houston Rockets
+2121,114,2015-12-04,4.5, Cleveland,108,208.5,Cleveland Cavaliers
+2122,111,2015-12-07,1.5, Boston,93,211.0,Boston Celtics
+2123,107,2015-12-11,-3.5, Washington,105,211.0,Washington Wizards
+2124,98,2015-12-12,7.0, Chicago,94,202.0,Chicago Bulls
+2125,105,2015-12-14,3.0, Portland,101,211.0,Portland Trail Blazers
+2126,104,2015-12-16,3.5, Utah,94,200.5,Utah Jazz
+2127,104,2015-12-18,3.0, Phoenix,88,213.5,Phoenix Suns
+2128,130,2015-12-20,1.0, Denver,125,204.5,Denver Nuggets
+2129,115,2015-12-23,-7.5, Portland,89,203.5,Portland Trail Blazers
+2130,94,2015-12-25,4.0, Miami,88,200.0,Miami Heat
+2131,110,2015-12-26,1.5, Houston,108,209.0,Houston Rockets
+2132,104,2015-12-28,4.0, Orlando,89,204.5,Orlando Magic
+2133,95,2015-12-31,-2.0, LA Clippers,89,208.0,Los Angeles Clippers
+2134,105,2016-01-02,4.0, Dallas,98,205.5,Dallas Mavericks
+2135,100,2016-01-06,-8.0, Dallas,91,204.5,Dallas Mavericks
+2136,91,2016-01-08,2.0, Indiana,86,205.0,Indiana Pacers
+2137,114,2016-01-10,9.5, LA Clippers,111,204.5,Los Angeles Clippers
+2138,95,2016-01-12,-2.0, LA Lakers,91,203.5,Los Angeles Lakers
+2139,109,2016-01-13,6.5, Sacramento,97,216.0,Sacramento Kings
+2140,109,2016-01-15,-3.5, Charlotte,107,202.0,Charlotte Hornets
+2141,101,2016-01-18,4.5, Memphis,99,193.0,Memphis Grizzlies
+2142,114,2016-01-19,-5.5, Minnesota,99,204.0,Minnesota Timberwolves
+2143,115,2016-01-21,-2.5, Detroit,99,206.0,Detroit Pistons
+2144,116,2016-01-23,-6.5, Milwaukee,99,202.5,Milwaukee Bucks
+2145,112,2016-01-25,-4.0, Houston,111,216.5,Houston Rockets
+2146,114,2016-01-28,5.5, Sacramento,105,216.0,Sacramento Kings
+2147,105,2016-01-30,-8.5, Brooklyn,103,204.5,Brooklyn Nets
+2148,110,2016-02-01,-3.0, Memphis,95,202.5,Memphis Grizzlies
+2149,110,2016-02-03,12.5, San Antonio,97,207.0,San Antonio Spurs
+2150,99,2016-02-04,-9.5, LA Lakers,96,210.0,Los Angeles Lakers
+2151,99,2016-02-06,9.5, Cleveland,84,206.5,Cleveland Cavaliers
+2152,116,2016-02-08,2.0, Minnesota,102,210.5,Minnesota Timberwolves
+2153,100,2016-02-10,-1.5, Utah,96,194.0,Utah Jazz
+2154,121,2016-02-11,12.0, Oklahoma City,95,218.0,Oklahoma City Thunder
+2155,121,2016-02-19,-9.0, Philadelphia,114,204.0,Philadelphia 76ers
+2156,111,2016-02-21,5.0, Detroit,106,206.5,Detroit Pistons
+2157,109,2016-02-23,5.0, Washington,89,217.5,Washington Wizards
+2158,123,2016-02-25,6.5, Oklahoma City,119,221.5,Oklahoma City Thunder
+2159,112,2016-02-27,-2.5, Minnesota,110,217.5,Minnesota Timberwolves
+2160,100,2016-03-02,6.0, Houston,95,222.0,Houston Rockets
+2161,94,2016-03-03,10.0, San Antonio,86,208.5,San Antonio Spurs
+2162,106,2016-03-05,-1.0, Utah,94,195.5,Utah Jazz
+2163,115,2016-03-07,1.5, Sacramento,112,219.5,Sacramento Kings
+2164,122,2016-03-09,8.5, Charlotte,113,209.0,Charlotte Hornets
+2165,121,2016-03-11,-3.0, Memphis,114,204.5,Memphis Grizzlies
+2166,103,2016-03-12,6.5, Milwaukee,92,211.5,Milwaukee Bucks
+2167,125,2016-03-14,16.0, Golden State,107,231.5,Golden State Warriors
+2168,123,2016-03-16,3.5, Sacramento,108,223.5,Sacramento Kings
+2169,117,2016-03-18,2.0, Portland,112,220.0,Portland Trail Blazers
+2170,109,2016-03-20,10.0, LA Clippers,105,209.0,Los Angeles Clippers
+2171,113,2016-03-22,10.0, Miami,99,209.5,Miami Heat
+2172,92,2016-03-24,14.0, Indiana,84,202.0,Indiana Pacers
+2173,115,2016-03-26,11.5, Toronto,91,200.0,Toronto Raptors
+2174,99,2016-03-28,5.5, New York,91,203.0,New York Knicks
+2175,100,2016-03-30,19.0, San Antonio,92,196.0,San Antonio Spurs
+2176,101,2016-03-31,7.0, Denver,95,206.5,Denver Nuggets
+2177,106,2016-04-03,2.5, Brooklyn,87,200.5,Brooklyn Nets
+2178,107,2016-04-05,2.5, Philadelphia,93,206.5,Philadelphia 76ers
+2179,104,2016-04-06,14.5, Boston,97,208.5,Boston Celtics
+2180,110,2016-04-08,-3.5, LA Lakers,102,201.5,Los Angeles Lakers
+2181,121,2016-04-09,3.0, Phoenix,100,208.5,Phoenix Suns
+2182,121,2016-04-11,5.0, Chicago,116,204.5,Chicago Bulls
+2183,144,2016-04-13,10.0, Minnesota,109,212.5,Minnesota Timberwolves
+2184,97,2015-10-27,4.0, Chicago,95,198.5,Chicago Bulls
+2185,106,2015-10-28,5.5, Memphis,76,189.0,Memphis Grizzlies
+2186,102,2015-10-30,-4.5, Miami,92,200.5,Miami Heat
+2187,107,2015-11-02,-13.0, Philadelphia,100,195.0,Philadelphia 76ers
+2188,96,2015-11-04,-10.5, New York,86,205.0,New York Knicks
+2189,108,2015-11-06,-13.5, Philadelphia,102,196.0,Philadelphia 76ers
+2190,101,2015-11-08,-8.0, Indiana,97,196.5,Indiana Pacers
+2191,118,2015-11-10,-5.5, Utah,114,186.5,Utah Jazz
+2192,90,2015-11-13,-7.0, New York,84,203.5,New York Knicks
+2193,108,2015-11-14,-5.0, Milwaukee,105,195.0,Milwaukee Bucks
+2194,104,2015-11-17,-4.5, Detroit,99,195.0,Detroit Pistons
+2195,115,2015-11-19,-10.0, Milwaukee,100,192.5,Milwaukee Bucks
+2196,109,2015-11-21,-5.5, Atlanta,97,198.5,Atlanta Hawks
+2197,117,2015-11-23,-8.0, Orlando,103,199.5,Orlando Magic
+2198,103,2015-11-25,-3.0, Toronto,99,200.5,Toronto Raptors
+2199,95,2015-11-27,-4.0, Charlotte,90,204.0,Charlotte Hornets
+2200,90,2015-11-28,-9.0, Brooklyn,88,200.5,Brooklyn Nets
+2201,97,2015-12-01,-8.5, Washington,85,205.0,Washington Wizards
+2202,114,2015-12-04,-4.5, New Orleans,108,208.5,New Orleans Pelicans
+2203,99,2015-12-05,5.0, Miami,84,188.0,Miami Heat
+2204,105,2015-12-08,-9.0, Portland,100,200.0,Portland Trail Blazers
+2205,111,2015-12-11,-3.5, Orlando,76,196.0,Orlando Magic
+2206,89,2015-12-15,-1.5, Boston,77,202.5,Boston Celtics
+2207,104,2015-12-17,-2.0, Oklahoma City,100,203.0,Oklahoma City Thunder
+2208,108,2015-12-20,-16.5, Philadelphia,86,198.0,Philadelphia 76ers
+2209,91,2015-12-23,-12.5, New York,84,195.0,New York Knicks
+2210,89,2015-12-25,6.5, Golden State,83,207.5,Golden State Warriors
+2211,105,2015-12-26,-7.5, Portland,76,195.5,Portland Trail Blazers
+2212,101,2015-12-28,-9.5, Phoenix,97,199.0,Phoenix Suns
+2213,93,2015-12-29,-6.0, Denver,87,195.0,Denver Nuggets
+2214,104,2016-01-02,-8.5, Orlando,79,192.0,Orlando Magic
+2215,122,2016-01-04,-8.0, Toronto,100,194.0,Toronto Raptors
+2216,121,2016-01-06,-7.5, Washington,115,202.5,Washington Wizards
+2217,125,2016-01-08,-10.0, Minnesota,99,195.0,Minnesota Timberwolves
+2218,95,2016-01-10,-16.5, Philadelphia,85,206.0,Philadelphia 76ers
+2219,110,2016-01-12,-6.0, Dallas,107,199.5,Dallas Mavericks
+2220,99,2016-01-14,6.0, San Antonio,95,195.5,San Antonio Spurs
+2221,91,2016-01-15,-2.0, Houston,77,205.0,Houston Rockets
+2222,132,2016-01-18,-3.5, Golden State,98,209.5,Golden State Warriors
+2223,91,2016-01-20,-13.0, Brooklyn,78,197.5,Brooklyn Nets
+2224,115,2016-01-21,-6.5, LA Clippers,102,202.5,Los Angeles Clippers
+2225,96,2016-01-23,-10.5, Chicago,83,202.0,Chicago Bulls
+2226,114,2016-01-25,-13.5, Minnesota,107,205.0,Minnesota Timberwolves
+2227,115,2016-01-27,-18.0, Phoenix,93,210.0,Phoenix Suns
+2228,114,2016-01-29,-4.0, Detroit,106,207.5,Detroit Pistons
+2229,117,2016-01-30,1.5, San Antonio,103,202.5,San Antonio Spurs
+2230,111,2016-02-01,-5.5, Indiana,106,208.0,Indiana Pacers
+2231,106,2016-02-03,-8.0, Charlotte,97,202.0,Charlotte Hornets
+2232,104,2016-02-05,-6.5, Boston,103,210.5,Boston Celtics
+2233,99,2016-02-06,-9.5, New Orleans,84,206.5,New Orleans Pelicans
+2234,120,2016-02-08,-12.0, Sacramento,100,218.0,Sacramento Kings
+2235,120,2016-02-10,-16.0, LA Lakers,111,210.0,Los Angeles Lakers
+2236,106,2016-02-18,-12.5, Chicago,95,206.5,Chicago Bulls
+2237,115,2016-02-21,3.5, Oklahoma City,92,218.0,Oklahoma City Thunder
+2238,96,2016-02-22,-9.5, Detroit,88,207.5,Detroit Pistons
+2239,114,2016-02-24,-8.5, Charlotte,103,207.5,Charlotte Hornets
+2240,99,2016-02-26,-2.5, Toronto,97,206.0,Toronto Raptors
+2241,113,2016-02-28,-2.5, Washington,99,205.0,Washington Wizards
+2242,100,2016-02-29,-8.0, Indiana,96,202.5,Indiana Pacers
+2243,108,2016-03-04,-8.0, Washington,83,211.0,Washington Wizards
+2244,120,2016-03-05,-8.0, Boston,103,210.0,Boston Celtics
+2245,106,2016-03-07,-15.0, Memphis,103,200.0,Memphis Grizzlies
+2246,120,2016-03-09,-7.0, Sacramento,111,218.0,Sacramento Kings
+2247,120,2016-03-10,-9.5, LA Lakers,108,211.0,Los Angeles Lakers
+2248,114,2016-03-13,-2.5, LA Clippers,90,208.0,Los Angeles Clippers
+2249,94,2016-03-14,-6.5, Utah,85,193.5,Utah Jazz
+2250,99,2016-03-16,-5.5, Dallas,98,206.5,Dallas Mavericks
+2251,109,2016-03-18,-10.0, Orlando,103,211.5,Orlando Magic
+2252,122,2016-03-19,-4.0, Miami,101,205.5,Miami Heat
+2253,124,2016-03-21,-11.5, Denver,91,212.0,Denver Nuggets
+2254,113,2016-03-23,-11.0, Milwaukee,104,207.5,Milwaukee Bucks
+2255,104,2016-03-24,-9.5, Brooklyn,95,209.5,Brooklyn Nets
+2256,107,2016-03-26,-8.5, New York,93,202.0,New York Knicks
+2257,106,2016-03-29,-2.0, Houston,100,212.0,Houston Rockets
+2258,107,2016-03-31,-17.0, Brooklyn,87,212.0,Brooklyn Nets
+2259,110,2016-04-01,2.5, Atlanta,108,206.0,Atlanta Hawks
+2260,112,2016-04-03,-6.5, Charlotte,103,202.0,Charlotte Hornets
+2261,109,2016-04-05,-9.5, Milwaukee,80,203.0,Milwaukee Bucks
+2262,123,2016-04-06,3.5, Indiana,109,196.0,Indiana Pacers
+2263,105,2016-04-09,-7.0, Chicago,102,204.5,Chicago Bulls
+2264,109,2016-04-11,-6.0, Atlanta,94,205.0,Atlanta Hawks
+2265,112,2016-04-13,-4.0, Detroit,110,194.0,Detroit Pistons
+2266,106,2016-04-17,-11.0, Detroit,101,200.5,Detroit Pistons
+2267,107,2016-04-20,-11.0, Detroit,90,202.0,Detroit Pistons
+2268,101,2016-04-22,-4.5, Detroit,91,200.5,Detroit Pistons
+2269,100,2016-04-24,-6.5, Detroit,98,198.0,Detroit Pistons
+2270,104,2016-05-02,-7.5, Atlanta,93,199.5,Atlanta Hawks
+2271,123,2016-05-04,-7.0, Atlanta,98,196.0,Atlanta Hawks
+2272,121,2016-05-06,-2.5, Atlanta,108,196.5,Atlanta Hawks
+2273,100,2016-05-08,-5.0, Atlanta,99,203.0,Atlanta Hawks
+2274,115,2016-05-17,-11.0, Toronto,84,199.0,Toronto Raptors
+2275,108,2016-05-19,-11.5, Toronto,89,197.5,Toronto Raptors
+2276,99,2016-05-21,-6.0, Toronto,84,199.5,Toronto Raptors
+2277,105,2016-05-23,-6.0, Toronto,99,197.0,Toronto Raptors
+2278,116,2016-05-25,-11.0, Toronto,78,196.0,Toronto Raptors
+2279,113,2016-05-27,-6.5, Toronto,87,198.5,Toronto Raptors
+2280,104,2016-06-02,6.0, Golden State,89,210.5,Golden State Warriors
+2281,110,2016-06-05,6.0, Golden State,77,209.0,Golden State Warriors
+2282,120,2016-06-08,-1.5, Golden State,90,206.0,Golden State Warriors
+2283,108,2016-06-10,-2.5, Golden State,97,206.5,Golden State Warriors
+2284,112,2016-06-13,5.5, Golden State,97,209.0,Golden State Warriors
+2285,115,2016-06-16,-2.0, Golden State,101,207.5,Golden State Warriors
+2286,93,2016-06-19,5.0, Golden State,89,205.0,Golden State Warriors
+2287,106,2015-10-27,-7.0, Detroit,94,196.5,Detroit Pistons
+2288,112,2015-10-29,-4.5, New York,101,199.0,New York Knicks
+2289,97,2015-10-30,-4.0, Charlotte,94,194.0,Charlotte Hornets
+2290,94,2015-11-01,-2.0, Charlotte,92,195.0,Charlotte Hornets
+2291,98,2015-11-03,3.5, Miami,92,197.0,Miami Heat
+2292,101,2015-11-04,-7.0, Brooklyn,87,197.5,Brooklyn Nets
+2293,121,2015-11-06,-2.5, New Orleans,115,206.0,New Orleans Pelicans
+2294,114,2015-11-07,-5.0, Washington,99,205.5,Washington Wizards
+2295,117,2015-11-09,-8.5, Minnesota,107,204.5,Minnesota Timberwolves
+2296,106,2015-11-11,-13.0, New Orleans,98,208.5,New Orleans Pelicans
+2297,106,2015-11-13,-1.5, Boston,93,206.5,Boston Celtics
+2298,97,2015-11-15,-3.0, Utah,96,191.5,Utah Jazz
+2299,90,2015-11-17,-4.5, Brooklyn,88,198.0,Brooklyn Nets
+2300,103,2015-11-18,-2.5, Sacramento,97,208.5,Sacramento Kings
+2301,109,2015-11-21,5.5, Cleveland,97,198.5,Cleveland Cavaliers
+2302,121,2015-11-24,-2.5, Boston,97,205.0,Boston Celtics
+2303,99,2015-11-25,-3.0, Minnesota,95,206.5,Minnesota Timberwolves
+2304,116,2015-11-27,2.5, Memphis,101,197.0,Memphis Grizzlies
+2305,108,2015-11-28,7.0, San Antonio,88,193.0,San Antonio Spurs
+2306,106,2015-11-30,3.0, Oklahoma City,100,213.5,Oklahoma City Thunder
+2307,96,2015-12-02,-4.0, Toronto,86,196.5,Toronto Raptors
+2308,100,2015-12-04,-11.0, LA Lakers,87,206.5,Los Angeles Lakers
+2309,98,2015-12-09,-1.5, Dallas,95,202.0,Dallas Mavericks
+2310,107,2015-12-10,7.5, Oklahoma City,94,210.5,Oklahoma City Thunder
+2311,103,2015-12-12,3.0, San Antonio,78,190.5,San Antonio Spurs
+2312,100,2015-12-14,-6.0, Miami,88,192.5,Miami Heat
+2313,127,2015-12-16,-13.5, Philadelphia,106,199.0,Philadelphia 76ers
+2314,109,2015-12-18,3.5, Boston,101,206.5,Boston Celtics
+2315,103,2015-12-20,-1.5, Orlando,100,201.5,Orlando Magic
+2316,106,2015-12-21,-11.0, Portland,97,195.5,Portland Trail Blazers
+2317,107,2015-12-23,-7.0, Detroit,100,200.0,Detroit Pistons
+2318,117,2015-12-26,-7.5, New York,98,203.0,New York Knicks
+2319,93,2015-12-28,1.5, Indiana,87,205.0,Indiana Pacers
+2320,121,2015-12-29,3.5, Houston,115,208.0,Houston Rockets
+2321,111,2016-01-03,-4.5, New York,97,200.5,New York Knicks
+2322,107,2016-01-05,-7.5, New York,101,202.5,New York Knicks
+2323,126,2016-01-07,-9.5, Philadelphia,98,208.0,Philadelphia 76ers
+2324,120,2016-01-09,-2.5, Chicago,105,208.5,Chicago Bulls
+2325,107,2016-01-13,-2.5, Charlotte,84,206.5,Charlotte Hornets
+2326,108,2016-01-15,-4.5, Milwaukee,101,206.5,Milwaukee Bucks
+2327,114,2016-01-16,-10.0, Brooklyn,86,207.0,Brooklyn Nets
+2328,98,2016-01-18,-8.0, Orlando,81,198.0,Orlando Magic
+2329,104,2016-01-20,-1.0, Portland,98,211.5,Portland Trail Blazers
+2330,91,2016-01-21,-1.0, Sacramento,88,216.5,Sacramento Kings
+2331,98,2016-01-23,-10.5, Phoenix,95,203.5,Phoenix Suns
+2332,119,2016-01-25,-4.0, Denver,105,208.0,Denver Nuggets
+2333,85,2016-01-27,-5.5, LA Clippers,83,206.0,Los Angeles Clippers
+2334,111,2016-01-28,3.0, Indiana,92,203.0,Indiana Pacers
+2335,105,2016-01-31,-3.0, Miami,87,197.5,Miami Heat
+2336,112,2016-02-01,-6.0, Dallas,97,199.0,Dallas Mavericks
+2337,124,2016-02-03,-7.5, Philadelphia,86,208.5,Philadelphia 76ers
+2338,102,2016-02-05,-5.5, Indiana,96,208.5,Indiana Pacers
+2339,96,2016-02-07,-3.5, Orlando,94,202.5,Orlando Magic
+2340,117,2016-02-08,-8.5, Orlando,110,202.5,Orlando Magic
+2341,113,2016-02-10,-4.0, Chicago,90,205.5,Chicago Bulls
+2342,115,2016-02-19,-10.0, Miami,111,197.0,Miami Heat
+2343,117,2016-02-20,-8.0, Milwaukee,109,207.0,Milwaukee Bucks
+2344,102,2016-02-22,6.0, Golden State,92,226.5,Golden State Warriors
+2345,103,2016-02-26,-7.5, Chicago,88,208.5,Chicago Bulls
+2346,87,2016-02-28,-4.5, Charlotte,76,202.0,Charlotte Hornets
+2347,109,2016-03-01,5.5, Golden State,105,213.5,Golden State Warriors
+2348,106,2016-03-04,-11.0, LA Lakers,77,203.5,Los Angeles Lakers
+2349,107,2016-03-05,5.5, LA Clippers,97,201.0,Los Angeles Clippers
+2350,91,2016-03-08,2.5, Utah,84,192.5,Utah Jazz
+2351,104,2016-03-10,3.5, Toronto,96,201.0,Toronto Raptors
+2352,95,2016-03-12,-14.0, Memphis,83,193.5,Memphis Grizzlies
+2353,104,2016-03-13,-5.5, Indiana,75,198.0,Indiana Pacers
+2354,118,2016-03-16,-1.0, Detroit,114,199.5,Detroit Pistons
+2355,116,2016-03-17,-8.0, Denver,98,210.0,Denver Nuggets
+2356,109,2016-03-19,-7.0, Houston,97,215.0,Houston Rockets
+2357,117,2016-03-21,-7.0, Washington,102,208.5,Washington Wizards
+2358,122,2016-03-23,1.0, Washington,101,207.5,Washington Wizards
+2359,101,2016-03-25,-8.5, Milwaukee,90,201.5,Milwaukee Bucks
+2360,112,2016-03-26,1.5, Detroit,95,207.0,Detroit Pistons
+2361,102,2016-03-28,-3.5, Chicago,100,206.5,Chicago Bulls
+2362,105,2016-03-30,1.0, Toronto,97,201.5,Toronto Raptors
+2363,110,2016-04-01,-2.5, Cleveland,108,206.0,Cleveland Cavaliers
+2364,103,2016-04-05,-15.0, Phoenix,90,206.0,Phoenix Suns
+2365,95,2016-04-07,-5.0, Toronto,87,200.0,Toronto Raptors
+2366,118,2016-04-09,-5.0, Boston,107,207.0,Boston Celtics
+2367,109,2016-04-11,6.0, Cleveland,94,205.0,Cleveland Cavaliers
+2368,109,2016-04-13,-9.0, Washington,98,210.0,Washington Wizards
+2369,102,2016-04-16,-5.5, Boston,101,206.0,Boston Celtics
+2370,89,2016-04-19,-6.5, Boston,72,205.5,Boston Celtics
+2371,111,2016-04-22,3.0, Boston,103,203.5,Boston Celtics
+2372,104,2016-04-24,-1.0, Boston,95,203.0,Boston Celtics
+2373,110,2016-04-26,-7.5, Boston,83,198.0,Boston Celtics
+2374,104,2016-04-28,-3.0, Boston,92,199.0,Boston Celtics
+2375,104,2016-05-02,7.5, Cleveland,93,199.5,Cleveland Cavaliers
+2376,123,2016-05-04,7.0, Cleveland,98,196.0,Cleveland Cavaliers
+2377,121,2016-05-06,2.5, Cleveland,108,196.5,Cleveland Cavaliers
+2378,100,2016-05-08,5.0, Cleveland,99,203.0,Cleveland Cavaliers
+2379,115,2015-10-28,5.0, Chicago,100,196.5,Chicago Bulls
+2380,102,2015-10-30,14.0, San Antonio,75,201.5,San Antonio Spurs
+2381,101,2015-10-31,12.0, Memphis,91,192.5,Memphis Grizzlies
+2382,103,2015-11-02,1.5, Milwaukee,96,194.0,Milwaukee Bucks
+2383,101,2015-11-04,7.0, Atlanta,87,197.5,Atlanta Hawks
+2384,104,2015-11-06,-3.0, LA Lakers,98,207.5,Los Angeles Lakers
+2385,94,2015-11-07,6.5, Milwaukee,86,192.5,Milwaukee Bucks
+2386,106,2015-11-11,11.0, Houston,98,208.0,Houston Rockets
+2387,111,2015-11-13,6.5, Sacramento,109,204.0,Sacramento Kings
+2388,107,2015-11-14,16.5, Golden State,99,207.5,Golden State Warriors
+2389,90,2015-11-17,4.5, Atlanta,88,198.0,Atlanta Hawks
+2390,116,2015-11-18,6.5, Charlotte,111,194.0,Charlotte Hornets
+2391,120,2015-11-20,9.0, Boston,95,204.0,Boston Celtics
+2392,111,2015-11-22,6.0, Boston,101,200.5,Boston Celtics
+2393,110,2015-11-25,12.0, Oklahoma City,99,209.5,Oklahoma City Thunder
+2394,90,2015-11-28,9.0, Cleveland,88,200.5,Cleveland Cavaliers
+2395,87,2015-11-29,5.0, Detroit,83,193.0,Detroit Pistons
+2396,94,2015-12-01,4.0, Phoenix,91,208.0,Phoenix Suns
+2397,108,2015-12-04,3.5, New York,91,193.0,New York Knicks
+2398,114,2015-12-06,11.5, Golden State,98,209.5,Golden State Warriors
+2399,110,2015-12-08,5.0, Houston,105,207.0,Houston Rockets
+2400,100,2015-12-10,-6.5, Philadelphia,91,198.5,Philadelphia 76ers
+2401,105,2015-12-12,7.0, LA Clippers,100,206.0,Los Angeles Clippers
+2402,105,2015-12-14,3.5, Orlando,82,197.5,Orlando Magic
+2403,104,2015-12-16,5.5, Miami,98,191.5,Miami Heat
+2404,104,2015-12-18,10.5, Indiana,97,207.0,Indiana Pacers
+2405,100,2015-12-20,1.5, Minnesota,85,202.5,Minnesota Timberwolves
+2406,105,2015-12-21,10.5, Chicago,102,197.0,Chicago Bulls
+2407,119,2015-12-23,3.5, Dallas,118,199.0,Dallas Mavericks
+2408,111,2015-12-26,3.0, Washington,96,205.0,Washington Wizards
+2409,111,2015-12-28,7.5, Miami,105,195.0,Miami Heat
+2410,100,2015-12-30,7.5, Orlando,93,199.0,Orlando Magic
+2411,100,2016-01-02,9.5, Boston,97,203.5,Boston Celtics
+2412,103,2016-01-04,7.5, Boston,94,201.5,Boston Celtics
+2413,91,2016-01-06,7.0, Toronto,74,195.0,Toronto Raptors
+2414,83,2016-01-08,3.0, Orlando,77,191.5,Orlando Magic
+2415,103,2016-01-09,11.0, Detroit,89,194.5,Detroit Pistons
+2416,106,2016-01-11,14.5, San Antonio,79,195.0,San Antonio Spurs
+2417,110,2016-01-13,3.5, New York,104,191.0,New York Knicks
+2418,116,2016-01-15,4.0, Portland,104,204.5,Portland Trail Blazers
+2419,114,2016-01-16,10.0, Atlanta,86,207.0,Atlanta Hawks
+2420,112,2016-01-18,11.0, Toronto,100,195.0,Toronto Raptors
+2421,91,2016-01-20,13.0, Cleveland,78,197.5,Cleveland Cavaliers
+2422,108,2016-01-22,5.5, Utah,86,188.5,Utah Jazz
+2423,116,2016-01-24,13.0, Oklahoma City,106,209.0,Oklahoma City Thunder
+2424,102,2016-01-26,3.5, Miami,98,192.0,Miami Heat
+2425,91,2016-01-29,8.0, Dallas,79,199.5,Dallas Mavericks
+2426,105,2016-01-30,8.5, New Orleans,103,204.5,New Orleans Pelicans
+2427,105,2016-02-01,7.0, Detroit,100,202.5,Detroit Pistons
+2428,114,2016-02-03,6.5, Indiana,100,199.0,Indiana Pacers
+2429,128,2016-02-05,5.5, Sacramento,119,214.0,Sacramento Kings
+2430,103,2016-02-06,0.0, Philadelphia,98,205.5,Philadelphia 76ers
+2431,105,2016-02-08,2.5, Denver,104,206.0,Denver Nuggets
+2432,109,2016-02-10,4.0, Memphis,90,198.0,Memphis Grizzlies
+2433,109,2016-02-19,5.0, New York,98,199.0,New York Knicks
+2434,104,2016-02-21,7.0, Charlotte,96,204.0,Charlotte Hornets
+2435,112,2016-02-23,11.5, Portland,104,212.0,Portland Trail Blazers
+2436,116,2016-02-25,1.5, Phoenix,106,208.0,Phoenix Suns
+2437,98,2016-02-27,11.5, Utah,96,198.5,Utah Jazz
+2438,105,2016-02-29,12.0, LA Clippers,95,212.5,Los Angeles Clippers
+2439,107,2016-03-01,1.0, LA Lakers,101,212.0,Los Angeles Lakers
+2440,121,2016-03-04,5.5, Denver,120,209.0,Denver Nuggets
+2441,132,2016-03-05,9.5, Minnesota,118,211.0,Minnesota Timberwolves
+2442,104,2016-03-08,13.0, Toronto,99,207.5,Toronto Raptors
+2443,95,2016-03-11,-2.0, Philadelphia,89,209.0,Philadelphia 76ers
+2444,109,2016-03-13,1.5, Milwaukee,100,208.5,Milwaukee Bucks
+2445,131,2016-03-15,-7.0, Philadelphia,114,212.0,Philadelphia 76ers
+2446,118,2016-03-17,7.0, Chicago,102,213.0,Chicago Bulls
+2447,115,2016-03-19,8.0, Detroit,103,211.5,Detroit Pistons
+2448,105,2016-03-22,6.0, Charlotte,100,207.0,Charlotte Hornets
+2449,104,2016-03-24,9.5, Cleveland,95,209.5,Cleveland Cavaliers
+2450,120,2016-03-26,6.0, Indiana,110,205.0,Indiana Pacers
+2451,110,2016-03-28,8.5, Miami,99,213.0,Miami Heat
+2452,139,2016-03-29,8.0, Orlando,105,211.5,Orlando Magic
+2453,107,2016-03-31,17.0, Cleveland,87,212.0,Cleveland Cavaliers
+2454,105,2016-04-01,6.0, New York,91,201.0,New York Knicks
+2455,106,2016-04-03,-2.5, New Orleans,87,200.5,New Orleans Pelicans
+2456,121,2016-04-06,11.5, Washington,103,208.5,Washington Wizards
+2457,113,2016-04-08,14.5, Charlotte,99,208.5,Charlotte Hornets
+2458,129,2016-04-10,13.5, Indiana,105,204.0,Indiana Pacers
+2459,120,2016-04-11,6.5, Washington,111,213.5,Washington Wizards
+2460,103,2016-04-13,5.5, Toronto,96,206.5,Toronto Raptors
+2461,106,2015-10-28,5.5, Toronto,99,199.5,Toronto Raptors
+2462,112,2015-10-29,3.0, Memphis,103,191.0,Memphis Grizzlies
+2463,97,2015-10-31,-3.5, Utah,76,193.5,Utah Jazz
+2464,94,2015-11-03,4.5, Detroit,82,200.5,Detroit Pistons
+2465,100,2015-11-04,2.0, Boston,98,207.0,Boston Celtics
+2466,90,2015-11-06,0.0, Miami,87,195.0,Miami Heat
+2467,101,2015-11-08,8.0, Cleveland,97,196.5,Cleveland Cavaliers
+2468,97,2015-11-09,-4.5, Orlando,84,195.5,Orlando Magic
+2469,102,2015-11-11,3.5, Boston,91,202.5,Boston Celtics
+2470,107,2015-11-13,-7.5, Minnesota,103,200.0,Minnesota Timberwolves
+2471,96,2015-11-16,6.5, Chicago,95,197.5,Chicago Bulls
+2472,112,2015-11-18,-6.0, Philadelphia,85,190.5,Philadelphia 76ers
+2473,123,2015-11-21,-5.0, Milwaukee,86,193.0,Milwaukee Bucks
+2474,123,2015-11-24,3.0, Washington,106,207.5,Washington Wizards
+2475,104,2015-11-27,-3.5, Chicago,92,199.5,Chicago Bulls
+2476,107,2015-11-29,-10.0, LA Lakers,103,202.0,Los Angeles Lakers
+2477,103,2015-12-02,-2.0, LA Clippers,91,202.0,Los Angeles Clippers
+2478,123,2015-12-03,-2.5, Portland,111,202.5,Portland Trail Blazers
+2479,122,2015-12-05,-2.0, Utah,119,196.5,Utah Jazz
+2480,131,2015-12-08,6.0, Golden State,123,215.0,Golden State Warriors
+2481,96,2015-12-11,-4.5, Miami,83,196.5,Miami Heat
+2482,118,2015-12-12,1.5, Detroit,96,204.0,Detroit Pistons
+2483,106,2015-12-14,-4.5, Toronto,90,200.5,Toronto Raptors
+2484,107,2015-12-16,-4.5, Dallas,81,207.5,Dallas Mavericks
+2485,104,2015-12-18,-10.5, Brooklyn,97,207.0,Brooklyn Nets
+2486,96,2015-12-19,-1.0, Memphis,84,200.0,Memphis Grizzlies
+2487,106,2015-12-21,9.0, San Antonio,92,199.0,San Antonio Spurs
+2488,108,2015-12-23,-7.0, Sacramento,106,215.0,Sacramento Kings
+2489,102,2015-12-26,-4.0, Minnesota,88,206.0,Minnesota Timberwolves
+2490,93,2015-12-28,-1.5, Atlanta,87,205.0,Atlanta Hawks
+2491,102,2015-12-30,3.0, Chicago,100,201.5,Chicago Bulls
+2492,120,2015-12-31,-5.5, Milwaukee,116,201.0,Milwaukee Bucks
+2493,94,2016-01-02,-4.5, Detroit,82,204.5,Detroit Pistons
+2494,103,2016-01-04,1.5, Miami,100,193.5,Miami Heat
+2495,95,2016-01-06,-3.5, Orlando,86,198.0,Orlando Magic
+2496,91,2016-01-08,-2.0, New Orleans,86,205.0,New Orleans Pelicans
+2497,107,2016-01-10,2.5, Houston,103,207.0,Houston Rockets
+2498,116,2016-01-12,-12.0, Phoenix,97,204.5,Phoenix Suns
+2499,103,2016-01-13,3.5, Boston,94,204.5,Boston Celtics
+2500,118,2016-01-15,-7.0, Washington,104,208.5,Washington Wizards
+2501,129,2016-01-17,-2.5, Denver,126,200.0,Denver Nuggets
+2502,97,2016-01-19,-5.5, Phoenix,94,207.5,Phoenix Suns
+2503,122,2016-01-22,12.5, Golden State,110,216.5,Golden State Warriors
+2504,108,2016-01-23,3.0, Sacramento,97,214.5,Sacramento Kings
+2505,91,2016-01-26,0.0, LA Clippers,89,207.0,Los Angeles Clippers
+2506,111,2016-01-28,-3.0, Atlanta,92,203.0,Atlanta Hawks
+2507,109,2016-01-30,-9.0, Denver,105,208.5,Denver Nuggets
+2508,111,2016-02-01,5.5, Cleveland,106,208.0,Cleveland Cavaliers
+2509,114,2016-02-03,-6.5, Brooklyn,100,199.0,Brooklyn Nets
+2510,102,2016-02-05,5.5, Atlanta,96,208.5,Atlanta Hawks
+2511,112,2016-02-06,-4.5, Detroit,104,203.5,Detroit Pistons
+2512,89,2016-02-08,-12.0, LA Lakers,87,207.0,Los Angeles Lakers
+2513,117,2016-02-10,-3.5, Charlotte,95,201.0,Charlotte Hornets
+2514,101,2016-02-19,8.0, Oklahoma City,98,214.5,Oklahoma City Thunder
+2515,105,2016-02-21,-1.5, Orlando,102,203.0,Orlando Magic
+2516,101,2016-02-22,1.5, Miami,93,202.5,Miami Heat
+2517,108,2016-02-24,-6.5, New York,105,201.5,New York Knicks
+2518,96,2016-02-26,-4.0, Charlotte,95,203.0,Charlotte Hornets
+2519,111,2016-02-28,-6.0, Portland,102,207.5,Portland Trail Blazers
+2520,100,2016-02-29,8.0, Cleveland,96,202.5,Cleveland Cavaliers
+2521,104,2016-03-02,-3.0, Milwaukee,99,206.5,Milwaukee Bucks
+2522,108,2016-03-04,3.5, Charlotte,101,202.5,Charlotte Hornets
+2523,100,2016-03-05,2.5, Washington,99,207.0,Washington Wizards
+2524,99,2016-03-07,6.5, San Antonio,91,195.0,San Antonio Spurs
+2525,112,2016-03-12,1.0, Dallas,105,203.0,Dallas Mavericks
+2526,104,2016-03-13,5.5, Atlanta,75,198.0,Atlanta Hawks
+2527,103,2016-03-15,-2.5, Boston,98,210.0,Boston Celtics
+2528,101,2016-03-17,-1.5, Toronto,94,203.0,Toronto Raptors
+2529,115,2016-03-19,3.5, Oklahoma City,111,211.0,Oklahoma City Thunder
+2530,91,2016-03-21,-15.5, Philadelphia,75,211.5,Philadelphia 76ers
+2531,92,2016-03-24,-14.0, New Orleans,84,202.0,New Orleans Pelicans
+2532,120,2016-03-26,-6.0, Brooklyn,110,205.0,Brooklyn Nets
+2533,104,2016-03-27,-1.5, Houston,101,210.5,Houston Rockets
+2534,98,2016-03-29,-6.0, Chicago,96,204.5,Chicago Bulls
+2535,114,2016-03-31,-6.0, Orlando,94,208.5,Orlando Magic
+2536,115,2016-04-02,-11.0, Philadelphia,102,201.5,Philadelphia 76ers
+2537,92,2016-04-03,-7.0, New York,87,195.5,New York Knicks
+2538,123,2016-04-06,-3.5, Cleveland,109,196.0,Cleveland Cavaliers
+2539,111,2016-04-08,-5.5, Toronto,98,194.0,Toronto Raptors
+2540,129,2016-04-10,-13.5, Brooklyn,105,204.0,Brooklyn Nets
+2541,102,2016-04-12,-11.5, New York,90,197.5,New York Knicks
+2542,97,2016-04-13,5.0, Milwaukee,92,201.5,Milwaukee Bucks
+2543,100,2016-04-16,7.0, Toronto,90,194.5,Toronto Raptors
+2544,98,2016-04-18,8.0, Toronto,87,195.0,Toronto Raptors
+2545,101,2016-04-21,0.0, Toronto,85,194.5,Toronto Raptors
+2546,100,2016-04-23,1.0, Toronto,83,193.0,Toronto Raptors
+2547,102,2016-04-26,7.5, Toronto,99,194.0,Toronto Raptors
+2548,101,2016-04-29,-2.0, Toronto,83,192.5,Toronto Raptors
+2549,89,2016-05-01,6.0, Toronto,84,189.5,Toronto Raptors
+2550,105,2015-10-28,10.5, Houston,85,212.0,Houston Rockets
+2551,95,2015-10-30,-3.5, Minnesota,78,204.0,Minnesota Timberwolves
+2552,117,2015-11-01,12.5, Oklahoma City,93,213.0,Oklahoma City Thunder
+2553,120,2015-11-03,2.5, LA Lakers,109,203.5,Los Angeles Lakers
+2554,96,2015-11-05,3.0, Utah,84,190.5,Utah Jazz
+2555,119,2015-11-06,17.5, Golden State,104,211.0,Golden State Warriors
+2556,108,2015-11-09,1.0, Portland,104,206.0,Portland Trail Blazers
+2557,103,2015-11-11,-3.5, Milwaukee,102,194.5,Milwaukee Bucks
+2558,107,2015-11-13,6.5, Houston,98,210.5,Houston Rockets
+2559,105,2015-11-14,7.5, Phoenix,81,205.0,Phoenix Suns
+2560,115,2015-11-17,6.0, New Orleans,98,206.5,New Orleans Pelicans
+2561,109,2015-11-18,13.5, San Antonio,98,198.0,San Antonio Spurs
+2562,114,2015-11-20,3.0, Phoenix,107,206.5,Phoenix Suns
+2563,118,2015-11-22,13.0, Golden State,105,210.0,Golden State Warriors
+2564,111,2015-11-24,7.0, LA Clippers,94,204.5,Los Angeles Clippers
+2565,91,2015-11-27,7.5, San Antonio,80,195.0,San Antonio Spurs
+2566,92,2015-11-28,8.5, Dallas,81,205.0,Dallas Mavericks
+2567,92,2015-11-30,3.5, Milwaukee,74,199.0,Milwaukee Bucks
+2568,99,2015-12-02,9.5, Chicago,90,197.0,Chicago Bulls
+2569,106,2015-12-03,10.0, Toronto,105,191.0,Toronto Raptors
+2570,108,2015-12-05,-3.0, Philadelphia,105,193.5,Philadelphia 76ers
+2571,85,2015-12-08,4.0, Orlando,74,199.0,Orlando Magic
+2572,111,2015-12-11,-1.0, Minnesota,108,202.0,Minnesota Timberwolves
+2573,114,2015-12-14,4.5, Houston,108,209.5,Houston Rockets
+2574,112,2015-12-15,6.5, Minnesota,100,202.5,Minnesota Timberwolves
+2575,97,2015-12-18,5.5, Utah,88,194.0,Utah Jazz
+2576,130,2015-12-20,-1.0, New Orleans,125,204.5,New Orleans Pelicans
+2577,111,2015-12-22,-5.0, LA Lakers,107,204.5,Los Angeles Lakers
+2578,104,2015-12-23,9.0, Phoenix,96,208.0,Phoenix Suns
+2579,101,2015-12-26,14.5, San Antonio,86,194.5,San Antonio Spurs
+2580,122,2015-12-27,16.5, Oklahoma City,112,207.0,Oklahoma City Thunder
+2581,93,2015-12-29,6.0, Cleveland,87,195.0,Cleveland Cavaliers
+2582,110,2015-12-30,6.5, Portland,103,201.5,Portland Trail Blazers
+2583,111,2016-01-02,15.0, Golden State,108,216.0,Golden State Warriors
+2584,112,2016-01-03,2.0, Portland,106,203.5,Portland Trail Blazers
+2585,78,2016-01-06,3.5, Minnesota,74,201.5,Minnesota Timberwolves
+2586,91,2016-01-08,5.5, Memphis,84,189.0,Memphis Grizzlies
+2587,95,2016-01-10,1.5, Charlotte,92,198.0,Charlotte Hornets
+2588,112,2016-01-13,9.5, Golden State,110,215.5,Golden State Warriors
+2589,98,2016-01-15,2.0, Miami,95,189.5,Miami Heat
+2590,129,2016-01-17,2.5, Indiana,126,200.0,Indiana Pacers
+2591,110,2016-01-19,9.0, Oklahoma City,104,213.0,Oklahoma City Thunder
+2592,102,2016-01-21,2.5, Memphis,101,195.5,Memphis Grizzlies
+2593,104,2016-01-23,4.5, Detroit,101,205.5,Detroit Pistons
+2594,119,2016-01-25,4.0, Atlanta,105,208.0,Atlanta Hawks
+2595,111,2016-01-27,9.5, Boston,103,214.0,Boston Celtics
+2596,117,2016-01-28,7.5, Washington,113,212.0,Washington Wizards
+2597,109,2016-01-30,9.0, Indiana,105,208.5,Indiana Pacers
+2598,112,2016-02-01,5.0, Toronto,93,205.0,Toronto Raptors
+2599,85,2016-02-03,8.0, Utah,81,195.0,Utah Jazz
+2600,115,2016-02-05,-3.0, Chicago,110,207.0,Chicago Bulls
+2601,101,2016-02-07,4.0, New York,96,201.5,New York Knicks
+2602,105,2016-02-08,-2.5, Brooklyn,104,206.0,Brooklyn Nets
+2603,103,2016-02-10,4.0, Detroit,92,207.0,Detroit Pistons
+2604,116,2016-02-19,3.5, Sacramento,110,218.5,Sacramento Kings
+2605,121,2016-02-21,3.5, Boston,101,213.5,Boston Celtics
+2606,114,2016-02-23,-2.5, Sacramento,110,222.5,Sacramento Kings
+2607,87,2016-02-24,11.0, LA Clippers,81,213.5,Los Angeles Clippers
+2608,122,2016-02-26,6.0, Dallas,116,208.0,Dallas Mavericks
+2609,103,2016-02-29,1.0, Memphis,96,204.0,Memphis Grizzlies
+2610,117,2016-03-02,-8.5, LA Lakers,107,212.5,Los Angeles Lakers
+2611,121,2016-03-04,-5.5, Brooklyn,120,209.0,Brooklyn Nets
+2612,116,2016-03-06,3.5, Dallas,114,210.0,Dallas Mavericks
+2613,110,2016-03-08,0.0, New York,94,206.0,New York Knicks
+2614,116,2016-03-10,-9.5, Phoenix,98,215.0,Phoenix Suns
+2615,116,2016-03-12,-1.5, Washington,100,212.5,Washington Wizards
+2616,124,2016-03-14,7.0, Miami,119,209.0,Miami Heat
+2617,116,2016-03-15,3.5, Orlando,110,215.0,Orlando Magic
+2618,116,2016-03-17,8.0, Atlanta,98,210.0,Atlanta Hawks
+2619,101,2016-03-19,9.0, Charlotte,93,213.0,Charlotte Hornets
+2620,124,2016-03-21,11.5, Cleveland,91,212.0,Cleveland Cavaliers
+2621,104,2016-03-23,-8.5, Philadelphia,103,214.0,Philadelphia 76ers
+2622,116,2016-03-25,-4.0, LA Lakers,105,213.5,Los Angeles Lakers
+2623,105,2016-03-27,8.5, LA Clippers,90,208.5,Los Angeles Clippers
+2624,97,2016-03-28,-1.5, Dallas,88,211.5,Dallas Mavericks
+2625,109,2016-03-30,2.5, Memphis,105,204.5,Memphis Grizzlies
+2626,101,2016-03-31,-7.0, New Orleans,95,206.5,New Orleans Pelicans
+2627,115,2016-04-02,-9.5, Sacramento,106,218.0,Sacramento Kings
+2628,124,2016-04-05,9.0, Oklahoma City,102,217.0,Oklahoma City Thunder
+2629,102,2016-04-08,-1.5, San Antonio,98,198.5,San Antonio Spurs
+2630,100,2016-04-10,6.5, Utah,84,191.5,Utah Jazz
+2631,107,2016-04-13,10.0, Portland,99,217.0,Portland Trail Blazers

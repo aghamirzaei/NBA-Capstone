@@ -1,0 +1,115 @@
+,first_team_score,game_date,game_line,second_team_name,second_team_score,total_line,second_team_full_name
+45,114,2017-01-25,-1.5, New Orleans,105,217.5,New Orleans Pelicans
+46,109,2017-01-26,-9.0, Dallas,98,197.0,Dallas Mavericks
+47,107,2017-01-29,8.0, Cleveland,91,217.5,Cleveland Cavaliers
+48,108,2017-01-31,9.5, San Antonio,94,210.0,San Antonio Spurs
+94,113,2017-01-25,9.5, Golden State,103,223.5,Golden State Warriors
+95,110,2017-01-27,-1.0, New York,107,211.5,New York Knicks
+96,109,2017-01-28,-7.0, Sacramento,106,205.0,Sacramento Kings
+97,115,2017-01-31,4.0, Portland,98,215.0,Portland Trail Blazers
+142,114,2017-01-25,-11.0, Philadelphia,109,207.0,Philadelphia 76ers
+143,102,2017-01-27,6.0, Toronto,86,213.5,Toronto Raptors
+144,112,2017-01-28,-2.0, Boston,108,217.0,Boston Celtics
+193,105,2017-01-25,8.0, Portland,98,220.0,Portland Trail Blazers
+194,96,2017-01-26,14.0, Utah,88,202.5,Utah Jazz
+195,120,2017-01-31,-1.0, Denver,116,226.5,Denver Nuggets
+241,100,2017-01-24,-3.0, Orlando,92,204.0,Orlando Magic
+242,119,2017-01-25,1.5, Atlanta,114,203.5,Atlanta Hawks
+243,100,2017-01-27,-7.0, Miami,88,204.0,Miami Heat
+244,121,2017-01-29,-6.5, Philadelphia,108,205.5,Philadelphia 76ers
+287,121,2017-01-24,4.5, LA Clippers,110,204.0,Los Angeles Clippers
+288,114,2017-01-25,11.0, Milwaukee,109,207.0,Milwaukee Bucks
+289,123,2017-01-27,7.0, Houston,118,221.0,Houston Rockets
+290,121,2017-01-29,6.5, Chicago,108,205.5,Chicago Bulls
+291,122,2017-01-30,3.0, Sacramento,119,207.0,Sacramento Kings
+336,108,2017-01-24,2.5, Toronto,106,203.0,Toronto Raptors
+337,119,2017-01-27,-7.0, New Orleans,103,211.5,New Orleans Pelicans
+338,105,2017-01-29,-12.0, Dallas,101,195.5,Dallas Mavericks
+339,108,2017-01-31,-9.5, Oklahoma City,94,210.0,Oklahoma City Thunder
+386,101,2017-01-25,-5.0, Toronto,99,200.0,Toronto Raptors
+387,112,2017-01-27,1.0, Portland,109,205.5,Portland Trail Blazers
+388,102,2017-01-28,7.5, Utah,95,190.5,Utah Jazz
+389,115,2017-01-30,-3.5, Phoenix,96,207.0,Phoenix Suns
+438,120,2017-01-25,-4.0, Boston,109,229.0,Boston Celtics
+439,123,2017-01-27,-7.0, Philadelphia,118,221.0,Philadelphia 76ers
+440,120,2017-01-29,-3.0, Indiana,101,229.0,Indiana Pacers
+441,105,2017-01-31,-12.0, Sacramento,83,225.5,Sacramento Kings
+486,108,2017-01-24,-2.5, San Antonio,106,203.0,San Antonio Spurs
+487,101,2017-01-25,5.0, Memphis,99,200.0,Memphis Grizzlies
+488,102,2017-01-27,-6.0, Milwaukee,86,213.5,Milwaukee Bucks
+489,114,2017-01-29,-11.0, Orlando,113,211.5,Orlando Magic
+490,108,2017-01-31,-7.5, New Orleans,106,212.0,New Orleans Pelicans
+537,116,2017-01-28,-3.0, Miami,103,202.0,Miami Heat
+538,113,2017-01-30,5.0, Boston,109,217.0,Boston Celtics
+582,123,2017-01-24,1.5, Washington,108,216.5,Washington Wizards
+583,120,2017-01-25,4.0, Houston,109,229.0,Houston Rockets
+584,128,2017-01-27,-7.0, Orlando,98,213.0,Orlando Magic
+585,112,2017-01-28,2.0, Milwaukee,108,217.0,Milwaukee Bucks
+586,113,2017-01-30,-5.0, Detroit,109,217.0,Detroit Pistons
+632,109,2017-01-25,-2.5, Brooklyn,106,218.0,Brooklyn Nets
+633,100,2017-01-27,7.0, Chicago,88,204.0,Chicago Bulls
+634,116,2017-01-28,3.0, Detroit,103,202.0,Detroit Pistons
+635,104,2017-01-30,-7.5, Brooklyn,96,218.5,Brooklyn Nets
+682,103,2017-01-24,1.5, Denver,93,210.5,Denver Nuggets
+683,96,2017-01-26,-14.0, LA Lakers,88,202.5,Los Angeles Lakers
+684,102,2017-01-28,-7.5, Memphis,95,190.5,Memphis Grizzlies
+731,100,2017-01-24,3.0, Chicago,92,204.0,Chicago Bulls
+732,128,2017-01-27,7.0, Boston,98,213.0,Boston Celtics
+733,114,2017-01-29,11.0, Toronto,113,211.5,Toronto Raptors
+734,111,2017-01-30,8.0, Minnesota,105,212.5,Minnesota Timberwolves
+781,105,2017-01-25,-8.0, LA Lakers,98,220.0,Los Angeles Lakers
+782,112,2017-01-27,-1.0, Memphis,109,205.5,Memphis Grizzlies
+783,113,2017-01-29,6.0, Golden State,111,225.0,Golden State Warriors
+784,115,2017-01-31,-4.0, Charlotte,98,215.0,Charlotte Hornets
+829,112,2017-01-24,1.5, Minnesota,111,215.5,Minnesota Timberwolves
+830,127,2017-01-26,7.0, Denver,120,232.0,Denver Nuggets
+831,123,2017-01-28,-3.5, Denver,112,227.5,Denver Nuggets
+832,115,2017-01-30,3.5, Memphis,96,207.0,Memphis Grizzlies
+877,116,2017-01-25,11.0, Cleveland,112,215.5,Cleveland Cavaliers
+878,115,2017-01-27,4.5, Indiana,111,211.5,Indiana Pacers
+879,109,2017-01-28,7.0, Charlotte,106,205.0,Charlotte Hornets
+880,122,2017-01-30,-3.0, Philadelphia,119,207.0,Philadelphia 76ers
+881,105,2017-01-31,12.0, Houston,83,225.5,Houston Rockets
+927,113,2017-01-25,-9.5, Charlotte,103,223.5,Charlotte Hornets
+928,144,2017-01-28,-13.0, LA Clippers,98,224.0,Los Angeles Clippers
+929,113,2017-01-29,-6.0, Portland,111,225.0,Portland Trail Blazers
+976,103,2017-01-25,2.5, Dallas,95,200.5,Dallas Mavericks
+977,110,2017-01-27,1.0, Charlotte,107,211.5,Charlotte Hornets
+978,142,2017-01-29,6.0, Atlanta,139,209.5,Atlanta Hawks
+979,117,2017-01-31,8.5, Washington,101,215.0,Washington Wizards
+1025,114,2017-01-25,1.5, Oklahoma City,105,217.5,Oklahoma City Thunder
+1026,119,2017-01-27,7.0, San Antonio,103,211.5,San Antonio Spurs
+1027,107,2017-01-29,1.0, Washington,94,221.5,Washington Wizards
+1028,108,2017-01-31,7.5, Toronto,106,212.0,Toronto Raptors
+1072,116,2017-01-25,-11.0, Sacramento,112,215.5,Sacramento Kings
+1073,124,2017-01-27,-17.0, Brooklyn,116,225.0,Brooklyn Nets
+1074,107,2017-01-29,-8.0, Oklahoma City,91,217.5,Oklahoma City Thunder
+1075,104,2017-01-30,-4.5, Dallas,97,208.5,Dallas Mavericks
+1120,123,2017-01-24,-1.5, Boston,108,216.5,Boston Celtics
+1121,112,2017-01-27,3.0, Atlanta,86,214.0,Atlanta Hawks
+1122,107,2017-01-29,-1.0, New Orleans,94,221.5,New Orleans Pelicans
+1123,117,2017-01-31,-8.5, New York,101,215.0,New York Knicks
+1169,119,2017-01-25,-1.5, Chicago,114,203.5,Chicago Bulls
+1170,112,2017-01-27,-3.0, Washington,86,214.0,Washington Wizards
+1171,142,2017-01-29,-6.0, New York,139,209.5,New York Knicks
+1216,109,2017-01-25,2.5, Miami,106,218.0,Miami Heat
+1217,124,2017-01-27,17.0, Cleveland,116,225.0,Cleveland Cavaliers
+1218,129,2017-01-28,10.5, Minnesota,109,220.5,Minnesota Timberwolves
+1219,104,2017-01-30,7.5, Miami,96,218.5,Miami Heat
+1264,103,2017-01-25,-2.5, New York,95,200.5,New York Knicks
+1265,109,2017-01-26,9.0, Oklahoma City,98,197.0,Oklahoma City Thunder
+1266,105,2017-01-29,12.0, San Antonio,101,195.5,San Antonio Spurs
+1267,104,2017-01-30,4.5, Cleveland,97,208.5,Cleveland Cavaliers
+1312,112,2017-01-24,-1.5, Phoenix,111,215.5,Phoenix Suns
+1313,109,2017-01-26,-3.0, Indiana,103,213.0,Indiana Pacers
+1314,129,2017-01-28,-10.5, Brooklyn,109,220.5,Brooklyn Nets
+1315,111,2017-01-30,-8.0, Orlando,105,212.5,Orlando Magic
+1360,109,2017-01-26,3.0, Minnesota,103,213.0,Minnesota Timberwolves
+1361,115,2017-01-27,-4.5, Sacramento,111,211.5,Sacramento Kings
+1362,120,2017-01-29,3.0, Houston,101,229.0,Houston Rockets
+1409,121,2017-01-24,-4.5, Philadelphia,110,204.0,Philadelphia 76ers
+1410,144,2017-01-28,13.0, Golden State,98,224.0,Golden State Warriors
+1454,103,2017-01-24,-1.5, Utah,93,210.5,Utah Jazz
+1455,127,2017-01-26,-7.0, Phoenix,120,232.0,Phoenix Suns
+1456,123,2017-01-28,3.5, Phoenix,112,227.5,Phoenix Suns
+1457,120,2017-01-31,1.0, LA Lakers,116,226.5,Los Angeles Lakers

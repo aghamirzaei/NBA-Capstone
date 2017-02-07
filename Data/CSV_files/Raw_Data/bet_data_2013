@@ -1,0 +1,2629 @@
+,first_team_score,game_date,game_line,second_team_name,second_team_score,total_line,second_team_full_name
+0,86,2012-11-01,2.0, San Antonio,84,204.0,San Antonio Spurs
+1,106,2012-11-02,-8.5, Portland,92,204.5,Portland Trail Blazers
+2,104,2012-11-04,-9.0, Atlanta,95,199.0,Atlanta Hawks
+3,108,2012-11-06,-9.0, Toronto,88,198.0,Toronto Raptors
+4,97,2012-11-08,-2.5, Chicago,91,190.5,Chicago Bulls
+5,105,2012-11-09,-11.5, Detroit,94,197.5,Detroit Pistons
+6,106,2012-11-11,-10.0, Cleveland,91,202.0,Cleveland Cavaliers
+7,92,2012-11-12,-7.0, Detroit,90,193.5,Detroit Pistons
+8,107,2012-11-14,-5.0, Memphis,97,194.5,Memphis Grizzlies
+9,110,2012-11-16,-6.5, New Orleans,95,187.0,New Orleans Pelicans
+10,119,2012-11-18,-10.0, Golden State,109,197.5,Golden State Warriors
+11,117,2012-11-21,-3.5, LA Clippers,111,198.5,Los Angeles Clippers
+12,108,2012-11-23,-2.5, Boston,100,197.0,Boston Celtics
+13,116,2012-11-24,-4.5, Philadelphia,109,191.5,Philadelphia 76ers
+14,114,2012-11-26,-11.5, Charlotte,69,201.0,Charlotte Hornets
+15,120,2012-11-28,-10.5, Houston,98,210.5,Houston Rockets
+16,106,2012-11-30,-9.5, Utah,94,201.5,Utah Jazz
+17,100,2012-12-01,-8.5, New Orleans,79,193.5,New Orleans Pelicans
+18,117,2012-12-04,-4.5, Brooklyn,111,195.0,Brooklyn Nets
+19,114,2012-12-07,-7.5, LA Lakers,108,211.5,Los Angeles Lakers
+20,104,2012-12-09,-10.0, Indiana,93,196.0,Indiana Pacers
+21,92,2012-12-12,-14.0, New Orleans,88,195.5,New Orleans Pelicans
+22,113,2012-12-14,-13.0, Sacramento,103,203.0,Sacramento Kings
+23,107,2012-12-17,-5.5, San Antonio,93,208.5,San Antonio Spurs
+24,100,2012-12-19,-5.5, Atlanta,92,200.0,Atlanta Hawks
+25,99,2012-12-20,-2.0, Minnesota,93,200.0,Minnesota Timberwolves
+26,103,2012-12-25,2.5, Miami,97,203.5,Miami Heat
+27,111,2012-12-27,-10.5, Dallas,105,207.0,Dallas Mavericks
+28,124,2012-12-29,-4.5, Houston,94,213.0,Houston Rockets
+29,114,2012-12-31,-12.5, Phoenix,96,206.5,Phoenix Suns
+30,110,2013-01-02,-10.0, Brooklyn,93,197.0,Brooklyn Nets
+31,109,2013-01-04,-10.5, Philadelphia,85,196.5,Philadelphia 76ers
+32,104,2013-01-06,-6.5, Toronto,92,196.5,Toronto Raptors
+33,101,2013-01-07,-11.5, Washington,99,194.5,Washington Wizards
+34,106,2013-01-09,-12.5, Minnesota,84,202.0,Minnesota Timberwolves
+35,116,2013-01-11,-6.5, LA Lakers,101,217.0,Los Angeles Lakers
+36,87,2013-01-13,-4.0, Portland,83,202.0,Portland Trail Blazers
+37,102,2013-01-14,-5.0, Phoenix,90,199.5,Phoenix Suns
+38,117,2013-01-16,-9.0, Denver,97,208.5,Denver Nuggets
+39,117,2013-01-18,-5.5, Dallas,114,206.0,Dallas Mavericks
+40,121,2013-01-20,-1.0, Denver,118,208.5,Denver Nuggets
+41,109,2013-01-22,-2.5, LA Clippers,97,200.5,Los Angeles Clippers
+42,104,2013-01-23,-1.0, Golden State,99,208.0,Golden State Warriors
+43,105,2013-01-25,-9.5, Sacramento,95,210.0,Sacramento Kings
+44,105,2013-01-27,-3.5, LA Lakers,96,208.0,Los Angeles Lakers
+45,106,2013-01-31,-9.5, Memphis,89,190.0,Memphis Grizzlies
+46,115,2013-02-02,-10.5, Cleveland,110,205.5,Cleveland Cavaliers
+47,112,2013-02-04,-8.5, Dallas,91,209.5,Dallas Mavericks
+48,119,2013-02-06,-10.5, Golden State,98,214.0,Golden State Warriors
+49,127,2013-02-08,-14.0, Phoenix,96,206.0,Phoenix Suns
+50,97,2013-02-10,-8.0, Phoenix,69,204.0,Phoenix Suns
+51,109,2013-02-12,-6.0, Utah,94,201.0,Utah Jazz
+52,110,2013-02-14,-5.5, Miami,100,205.0,Miami Heat
+53,122,2013-02-20,-3.0, Houston,119,220.5,Houston Rockets
+54,127,2013-02-22,-14.0, Minnesota,111,204.5,Minnesota Timberwolves
+55,102,2013-02-24,-9.0, Chicago,72,194.5,Chicago Bulls
+56,119,2013-02-27,-15.0, New Orleans,74,205.0,New Orleans Pelicans
+57,105,2013-03-01,-1.5, Denver,103,218.5,Denver Nuggets
+58,108,2013-03-03,3.0, LA Clippers,104,206.5,Los Angeles Clippers
+59,122,2013-03-05,-9.5, LA Lakers,105,215.0,Los Angeles Lakers
+60,95,2013-03-07,-8.0, New York,94,204.0,New York Knicks
+61,116,2013-03-08,-15.0, Charlotte,94,202.0,Charlotte Hornets
+62,91,2013-03-10,-11.0, Boston,79,199.0,Boston Celtics
+63,105,2013-03-11,2.5, San Antonio,93,206.0,San Antonio Spurs
+64,110,2013-03-13,-13.5, Utah,87,204.5,Utah Jazz
+65,117,2013-03-15,-17.5, Orlando,104,208.0,Orlando Magic
+66,107,2013-03-17,-5.5, Dallas,101,208.0,Dallas Mavericks
+67,114,2013-03-19,-9.5, Denver,104,218.5,Denver Nuggets
+68,90,2013-03-20,1.5, Memphis,89,188.5,Memphis Grizzlies
+69,97,2013-03-22,-14.0, Orlando,89,207.5,Orlando Magic
+70,103,2013-03-24,-11.0, Portland,83,207.0,Portland Trail Blazers
+71,103,2013-03-27,-15.0, Washington,80,198.5,Washington Wizards
+72,101,2013-03-29,-8.0, Minnesota,93,205.0,Minnesota Timberwolves
+73,109,2013-03-30,-6.0, Milwaukee,99,206.5,Milwaukee Bucks
+74,100,2013-04-04,-7.5, San Antonio,88,201.0,San Antonio Spurs
+75,97,2013-04-05,3.0, Indiana,75,191.5,Indiana Pacers
+76,125,2013-04-07,-7.5, New York,120,194.0,New York Knicks
+77,90,2013-04-09,-3.5, Utah,80,199.5,Utah Jazz
+78,116,2013-04-11,-4.0, Golden State,97,204.5,Golden State Warriors
+79,106,2013-04-12,-9.5, Portland,90,206.0,Portland Trail Blazers
+80,104,2013-04-15,-15.0, Sacramento,95,214.5,Sacramento Kings
+81,95,2013-04-17,-3.5, Milwaukee,89,201.5,Milwaukee Bucks
+82,120,2013-04-21,-10.5, Houston,91,213.5,Houston Rockets
+83,105,2013-04-24,-11.0, Houston,102,213.5,Houston Rockets
+84,104,2013-04-27,1.0, Houston,101,206.5,Houston Rockets
+85,105,2013-04-29,-1.0, Houston,103,206.5,Houston Rockets
+86,107,2013-05-01,-8.5, Houston,100,208.0,Houston Rockets
+87,103,2013-05-03,-1.0, Houston,94,207.0,Houston Rockets
+88,93,2013-05-05,-3.5, Memphis,91,186.5,Memphis Grizzlies
+89,99,2013-05-07,-3.0, Memphis,93,188.5,Memphis Grizzlies
+90,87,2013-05-11,5.0, Memphis,81,186.5,Memphis Grizzlies
+91,103,2013-05-13,4.5, Memphis,97,185.0,Memphis Grizzlies
+92,88,2013-05-15,-4.5, Memphis,84,185.0,Memphis Grizzlies
+93,90,2012-11-02,6.5, Indiana,89,183.0,Indiana Pacers
+94,126,2012-11-03,9.5, Dallas,99,186.5,Dallas Mavericks
+95,117,2012-11-07,3.0, Phoenix,110,193.5,Phoenix Suns
+96,107,2012-11-09,7.5, New Orleans,99,180.5,New Orleans Pelicans
+97,101,2012-11-10,6.0, Dallas,97,200.0,Dallas Mavericks
+98,92,2012-11-13,-2.0, Washington,76,191.0,Washington Wizards
+99,89,2012-11-14,7.0, Minnesota,87,181.5,Minnesota Timberwolves
+100,94,2012-11-17,6.0, Memphis,87,190.5,Memphis Grizzlies
+101,102,2012-11-19,4.0, Milwaukee,98,197.5,Milwaukee Bucks
+102,98,2012-11-21,-2.5, Toronto,97,193.0,Toronto Raptors
+103,101,2012-11-23,3.5, Atlanta,91,190.5,Atlanta Hawks
+104,108,2012-11-24,4.5, Washington,106,188.5,Washington Wizards
+105,114,2012-11-26,11.5, Oklahoma City,69,201.0,Oklahoma City Thunder
+106,94,2012-11-28,9.5, Atlanta,91,193.0,Atlanta Hawks
+107,104,2012-11-30,3.5, Philadelphia,98,188.0,Philadelphia 76ers
+108,118,2012-12-03,-1.5, Portland,112,191.5,Portland Trail Blazers
+109,100,2012-12-05,7.5, New York,98,198.0,New York Knicks
+110,108,2012-12-07,7.0, Milwaukee,93,197.0,Milwaukee Bucks
+111,132,2012-12-08,9.5, San Antonio,102,199.5,San Antonio Spurs
+112,104,2012-12-10,4.5, Golden State,96,202.0,Golden State Warriors
+113,100,2012-12-12,8.0, LA Clippers,94,199.5,Los Angeles Clippers
+114,113,2012-12-13,10.0, Atlanta,90,191.0,Atlanta Hawks
+115,107,2012-12-15,-1.5, Orlando,98,193.0,Orlando Magic
+116,101,2012-12-18,12.5, LA Lakers,100,206.5,Los Angeles Lakers
+117,121,2012-12-19,9.0, Phoenix,104,198.5,Phoenix Suns
+118,115,2012-12-21,10.0, Golden State,100,205.5,Golden State Warriors
+119,110,2012-12-22,16.0, Denver,88,210.0,Denver Nuggets
+120,105,2012-12-26,9.0, Miami,92,201.0,Miami Heat
+121,97,2012-12-28,9.5, Brooklyn,81,196.0,Brooklyn Nets
+122,98,2012-12-29,3.5, New Orleans,95,190.0,New Orleans Pelicans
+123,91,2012-12-31,12.0, Chicago,81,188.5,Chicago Bulls
+124,106,2013-01-04,-1.5, Cleveland,104,196.5,Cleveland Cavaliers
+125,108,2013-01-06,8.0, Detroit,101,194.0,Detroit Pistons
+126,112,2013-01-09,4.5, Utah,102,199.0,Utah Jazz
+127,99,2013-01-11,8.0, Toronto,78,195.0,Toronto Raptors
+128,96,2013-01-12,11.5, Indiana,88,185.0,Indiana Pacers
+129,100,2013-01-14,10.5, Boston,89,192.5,Boston Celtics
+130,103,2013-01-15,7.5, Indiana,76,185.0,Indiana Pacers
+131,106,2013-01-18,6.5, Orlando,100,197.0,Orlando Magic
+132,97,2013-01-19,2.5, Sacramento,93,204.0,Sacramento Kings
+133,100,2013-01-21,7.0, Houston,94,208.5,Houston Rockets
+134,104,2013-01-23,2.5, Atlanta,92,191.0,Atlanta Hawks
+135,102,2013-01-26,-3.0, Minnesota,101,193.5,Minnesota Timberwolves
+136,93,2013-01-28,13.0, Chicago,85,185.0,Chicago Bulls
+137,102,2013-01-30,14.5, San Antonio,78,204.5,San Antonio Spurs
+138,109,2013-02-02,12.0, Houston,95,209.5,Houston Rockets
+139,99,2013-02-04,14.0, Miami,94,198.0,Miami Heat
+140,122,2013-02-06,6.0, Cleveland,95,205.0,Cleveland Cavaliers
+141,100,2013-02-08,6.5, LA Lakers,93,206.0,Los Angeles Lakers
+142,87,2013-02-09,10.0, Philadelphia,76,186.0,Philadelphia 76ers
+143,94,2013-02-11,4.5, Boston,91,191.0,Boston Celtics
+144,101,2013-02-13,11.0, Indiana,77,185.0,Indiana Pacers
+145,105,2013-02-19,5.0, Orlando,92,198.5,Orlando Magic
+146,105,2013-02-20,3.5, Detroit,99,195.5,Detroit Pistons
+147,105,2013-02-22,7.0, Chicago,75,185.0,Chicago Bulls
+148,113,2013-02-23,10.0, Denver,99,209.0,Denver Nuggets
+149,106,2013-02-26,17.0, LA Clippers,84,196.0,Los Angeles Clippers
+150,98,2013-03-01,9.0, Utah,68,193.5,Utah Jazz
+151,119,2013-03-03,8.0, Sacramento,83,208.5,Sacramento Kings
+152,122,2013-03-04,13.0, Portland,105,197.0,Portland Trail Blazers
+153,99,2013-03-06,10.0, Brooklyn,78,191.5,Brooklyn Nets
+154,116,2013-03-08,15.0, Oklahoma City,94,202.0,Oklahoma City Thunder
+155,104,2013-03-09,10.5, Washington,87,187.5,Washington Wizards
+156,100,2013-03-12,10.0, Boston,74,187.0,Boston Celtics
+157,92,2013-03-15,12.5, Toronto,78,194.0,Toronto Raptors
+158,105,2013-03-16,15.0, Boston,88,188.5,Boston Celtics
+159,119,2013-03-18,6.5, Washington,114,188.5,Washington Wizards
+160,107,2013-03-20,6.5, Toronto,101,195.5,Toronto Raptors
+161,92,2013-03-23,-1.0, Detroit,91,199.0,Detroit Pistons
+162,109,2013-03-24,16.0, Miami,77,197.5,Miami Heat
+163,114,2013-03-27,-3.0, Orlando,108,201.0,Orlando Magic
+164,111,2013-03-29,14.0, New York,102,197.5,New York Knicks
+165,100,2013-03-30,10.5, Philadelphia,92,194.5,Philadelphia 76ers
+166,131,2013-04-01,12.5, Milwaukee,102,205.0,Milwaukee Bucks
+167,88,2013-04-03,5.0, Philadelphia,83,196.0,Philadelphia 76ers
+168,89,2013-04-05,3.5, Miami,79,191.5,Miami Heat
+169,105,2013-04-06,15.0, Brooklyn,96,196.0,Brooklyn Nets
+170,94,2013-04-09,13.5, Memphis,75,183.0,Memphis Grizzlies
+171,113,2013-04-12,7.0, Detroit,93,197.0,Detroit Pistons
+172,95,2013-04-13,4.5, Milwaukee,85,204.5,Milwaukee Bucks
+173,106,2013-04-15,-1.5, New York,95,191.5,New York Knicks
+174,105,2013-04-17,-2.5, Cleveland,98,202.5,Cleveland Cavaliers
+175,99,2012-11-02,7.0, Boston,88,196.5,Boston Celtics
+176,105,2012-11-03,-7.0, Cleveland,102,197.5,Cleveland Cavaliers
+177,108,2012-11-07,1.0, Memphis,90,197.5,Memphis Grizzlies
+178,101,2012-11-09,-3.5, Washington,91,192.5,Washington Wizards
+179,96,2012-11-10,1.0, Boston,92,193.5,Boston Celtics
+180,105,2012-11-12,4.0, Philadelphia,96,191.0,Philadelphia 76ers
+181,99,2012-11-14,-4.5, Indiana,85,189.5,Indiana Pacers
+182,117,2012-11-17,-8.0, New Orleans,113,191.0,New Orleans Pelicans
+183,102,2012-11-19,-4.0, Charlotte,98,197.5,Charlotte Hornets
+184,113,2012-11-21,9.5, Miami,106,203.0,Miami Heat
+185,93,2012-11-24,-2.5, Chicago,86,192.0,Chicago Bulls
+186,93,2012-11-26,4.0, Chicago,92,192.0,Chicago Bulls
+187,102,2012-11-28,2.5, New York,88,202.0,New York Knicks
+188,95,2012-11-30,1.5, Minnesota,85,194.5,Minnesota Timberwolves
+189,91,2012-12-01,-3.0, Boston,88,195.5,Boston Celtics
+190,102,2012-12-03,-4.0, New Orleans,81,188.0,New Orleans Pelicans
+191,110,2012-12-05,9.0, San Antonio,99,202.0,San Antonio Spurs
+192,108,2012-12-07,-7.0, Charlotte,93,197.0,Charlotte Hornets
+193,97,2012-12-09,6.0, Brooklyn,88,194.0,Brooklyn Nets
+194,98,2012-12-12,-8.5, Sacramento,85,198.0,Sacramento Kings
+195,90,2012-12-14,-3.0, Cleveland,86,196.0,Cleveland Cavaliers
+196,111,2012-12-15,5.0, LA Clippers,85,194.5,Los Angeles Clippers
+197,98,2012-12-18,-2.5, Indiana,93,185.0,Indiana Pacers
+198,90,2012-12-19,9.0, Memphis,80,187.5,Memphis Grizzlies
+199,99,2012-12-21,5.0, Boston,94,190.5,Boston Celtics
+200,94,2012-12-22,-7.5, Cleveland,82,195.5,Cleveland Cavaliers
+201,108,2012-12-26,-5.0, Brooklyn,93,188.0,Brooklyn Nets
+202,104,2012-12-29,4.5, Miami,85,199.5,Miami Heat
+203,96,2012-12-30,2.5, Detroit,94,191.5,Detroit Pistons
+204,117,2013-01-02,5.5, San Antonio,110,204.0,San Antonio Spurs
+205,115,2013-01-04,-1.0, Houston,101,214.0,Houston Rockets
+206,95,2013-01-05,4.5, Indiana,80,187.5,Indiana Pacers
+207,108,2013-01-08,-6.0, Phoenix,99,200.5,Phoenix Suns
+208,104,2013-01-09,6.0, Chicago,96,190.0,Chicago Bulls
+209,103,2013-01-11,-5.5, Detroit,87,197.0,Detroit Pistons
+210,107,2013-01-13,3.0, Toronto,96,192.5,Toronto Raptors
+211,104,2013-01-15,6.0, LA Lakers,88,212.0,Los Angeles Lakers
+212,98,2013-01-17,-1.0, Phoenix,94,197.0,Phoenix Suns
+213,110,2013-01-19,4.5, Portland,104,196.0,Portland Trail Blazers
+214,110,2013-01-22,-6.5, Philadelphia,102,196.0,Philadelphia 76ers
+215,113,2013-01-25,-4.0, Cleveland,108,202.5,Cleveland Cavaliers
+216,109,2013-01-26,-2.0, Golden State,102,209.0,Golden State Warriors
+217,117,2013-01-29,-1.5, Detroit,90,199.0,Detroit Pistons
+218,104,2013-01-30,-1.0, Chicago,88,190.5,Chicago Bulls
+219,96,2013-02-01,4.5, New York,86,206.0,New York Knicks
+220,107,2013-02-02,-10.0, Orlando,98,201.0,Orlando Magic
+221,112,2013-02-05,7.0, Denver,104,213.0,Denver Nuggets
+222,100,2013-02-06,5.5, Utah,86,200.0,Utah Jazz
+223,105,2013-02-09,-7.5, Detroit,100,205.5,Detroit Pistons
+224,102,2013-02-11,-4.0, Washington,90,199.5,Washington Wizards
+225,94,2013-02-13,-6.0, Philadelphia,92,193.5,Philadelphia 76ers
+226,113,2013-02-19,5.0, Brooklyn,111,193.0,Brooklyn Nets
+227,97,2013-02-20,-4.5, Brooklyn,94,194.0,Brooklyn Nets
+228,103,2013-02-23,-4.5, Atlanta,102,204.5,Atlanta Hawks
+229,95,2013-02-26,5.5, Dallas,90,212.5,Dallas Mavericks
+230,110,2013-02-27,9.0, Houston,107,220.5,Houston Rockets
+231,122,2013-03-02,-6.5, Toronto,114,199.0,Toronto Raptors
+232,109,2013-03-04,-4.5, Utah,108,200.5,Utah Jazz
+233,117,2013-03-06,10.0, LA Clippers,101,206.0,Los Angeles Clippers
+234,103,2013-03-09,2.5, Golden State,93,210.5,Golden State Warriors
+235,115,2013-03-10,1.0, Sacramento,113,216.5,Sacramento Kings
+236,115,2013-03-12,-2.5, Dallas,108,209.5,Dallas Mavericks
+237,106,2013-03-13,-2.0, Washington,93,195.0,Washington Wizards
+238,107,2013-03-15,6.0, Miami,94,202.0,Miami Heat
+239,115,2013-03-17,-9.0, Orlando,109,208.5,Orlando Magic
+240,102,2013-03-19,-5.5, Portland,95,207.5,Portland Trail Blazers
+241,98,2013-03-20,6.0, Atlanta,90,205.5,Atlanta Hawks
+242,102,2013-03-22,7.5, Indiana,78,190.5,Indiana Pacers
+243,104,2013-03-24,-2.5, Atlanta,99,202.5,Atlanta Hawks
+244,100,2013-03-27,-1.0, Philadelphia,92,199.0,Philadelphia 76ers
+245,113,2013-03-28,2.0, LA Lakers,103,210.5,Los Angeles Lakers
+246,109,2013-03-30,6.0, Oklahoma City,99,206.5,Oklahoma City Thunder
+247,131,2013-04-01,-12.5, Charlotte,102,205.0,Charlotte Hornets
+248,107,2013-04-03,-4.5, Minnesota,98,208.5,Minnesota Timberwolves
+249,101,2013-04-05,7.0, New York,83,201.5,New York Knicks
+250,100,2013-04-06,-5.5, Toronto,83,202.5,Toronto Raptors
+251,94,2013-04-09,6.5, Miami,83,197.5,Miami Heat
+252,113,2013-04-10,-5.0, Orlando,103,202.0,Orlando Magic
+253,109,2013-04-12,7.5, Atlanta,104,203.5,Atlanta Hawks
+254,95,2013-04-13,-4.5, Charlotte,85,204.5,Charlotte Hornets
+255,112,2013-04-15,5.5, Denver,111,214.5,Denver Nuggets
+256,95,2013-04-17,3.5, Oklahoma City,89,201.5,Oklahoma City Thunder
+257,110,2013-04-21,13.5, Miami,87,197.5,Miami Heat
+258,98,2013-04-23,14.0, Miami,86,197.0,Miami Heat
+259,104,2013-04-25,7.0, Miami,91,195.0,Miami Heat
+260,88,2013-04-28,8.5, Miami,77,195.0,Miami Heat
+261,99,2012-10-30,-8.5, Dallas,91,186.0,Dallas Mavericks
+262,116,2012-10-31,-2.0, Portland,106,192.5,Portland Trail Blazers
+263,105,2012-11-02,1.5, LA Clippers,95,191.5,Los Angeles Clippers
+264,108,2012-11-04,-8.0, Detroit,79,190.0,Detroit Pistons
+265,95,2012-11-07,3.0, Utah,86,198.0,Utah Jazz
+266,101,2012-11-09,-7.5, Golden State,77,199.0,Golden State Warriors
+267,103,2012-11-11,-10.5, Sacramento,90,192.0,Sacramento Kings
+268,84,2012-11-13,1.0, San Antonio,82,196.0,San Antonio Spurs
+269,114,2012-11-16,-9.5, Phoenix,102,201.5,Phoenix Suns
+270,119,2012-11-18,-7.0, Houston,108,205.5,Houston Rockets
+271,95,2012-11-20,-6.5, Brooklyn,90,207.5,Brooklyn Nets
+272,113,2012-11-21,-5.5, Sacramento,97,204.5,Sacramento Kings
+273,106,2012-11-23,4.5, Memphis,98,200.0,Memphis Grizzlies
+274,115,2012-11-24,-1.0, Dallas,89,205.0,Dallas Mavericks
+275,79,2012-11-27,-9.0, Indiana,77,196.0,Indiana Pacers
+276,122,2012-11-30,-5.5, Denver,103,206.0,Denver Nuggets
+277,113,2012-12-02,-13.5, Orlando,103,197.0,Orlando Magic
+278,107,2012-12-04,1.0, Houston,105,215.0,Houston Rockets
+279,103,2012-12-05,-4.5, New Orleans,87,195.5,New Orleans Pelicans
+280,114,2012-12-07,7.5, Oklahoma City,108,211.5,Oklahoma City Thunder
+281,117,2012-12-09,-7.5, Utah,110,207.5,Utah Jazz
+282,100,2012-12-11,-6.5, Cleveland,94,206.5,Cleveland Cavaliers
+283,116,2012-12-13,5.5, New York,107,206.0,New York Knicks
+284,102,2012-12-14,-6.5, Washington,96,200.0,Washington Wizards
+285,111,2012-12-16,-4.0, Philadelphia,98,197.0,Philadelphia 76ers
+286,101,2012-12-18,-12.5, Charlotte,100,206.5,Charlotte Hornets
+287,118,2012-12-22,-2.0, Golden State,115,215.0,Golden State Warriors
+288,100,2012-12-25,-4.0, New York,94,210.5,New York Knicks
+289,126,2012-12-26,3.5, Denver,114,212.0,Denver Nuggets
+290,104,2012-12-28,-9.5, Portland,87,205.5,Portland Trail Blazers
+291,103,2013-01-01,-9.0, Philadelphia,99,201.5,Philadelphia 76ers
+292,107,2013-01-04,4.5, LA Clippers,102,207.0,Los Angeles Clippers
+293,112,2013-01-06,-5.5, Denver,105,214.0,Denver Nuggets
+294,125,2013-01-08,8.5, Houston,112,223.5,Houston Rockets
+295,108,2013-01-09,13.5, San Antonio,105,214.0,San Antonio Spurs
+296,116,2013-01-11,6.5, Oklahoma City,101,217.0,Oklahoma City Thunder
+297,113,2013-01-13,-10.0, Cleveland,93,209.5,Cleveland Cavaliers
+298,104,2013-01-15,-6.0, Milwaukee,88,212.0,Milwaukee Bucks
+299,99,2013-01-17,-2.5, Miami,90,207.0,Miami Heat
+300,108,2013-01-20,-4.5, Toronto,103,201.0,Toronto Raptors
+301,95,2013-01-21,-1.0, Chicago,83,194.0,Chicago Bulls
+302,106,2013-01-23,3.5, Memphis,93,187.0,Memphis Grizzlies
+303,102,2013-01-25,-5.0, Utah,84,205.0,Utah Jazz
+304,105,2013-01-27,3.5, Oklahoma City,96,208.0,Oklahoma City Thunder
+305,111,2013-01-29,-8.0, New Orleans,106,196.0,New Orleans Pelicans
+306,92,2013-01-30,-3.0, Phoenix,86,204.0,Phoenix Suns
+307,111,2013-02-01,-2.5, Minnesota,100,200.5,Minnesota Timberwolves
+308,98,2013-02-03,-1.5, Detroit,97,201.5,Detroit Pistons
+309,92,2013-02-05,3.5, Brooklyn,83,198.5,Brooklyn Nets
+310,116,2013-02-07,1.5, Boston,95,194.0,Boston Celtics
+311,100,2013-02-08,-6.5, Charlotte,93,206.0,Charlotte Hornets
+312,107,2013-02-10,9.0, Miami,97,203.5,Miami Heat
+313,91,2013-02-12,-9.0, Phoenix,85,202.0,Phoenix Suns
+314,125,2013-02-14,3.5, LA Clippers,101,201.0,Los Angeles Clippers
+315,113,2013-02-20,-7.5, Boston,99,193.5,Boston Celtics
+316,111,2013-02-22,-9.0, Portland,107,203.5,Portland Trail Blazers
+317,103,2013-02-24,3.0, Dallas,99,212.0,Dallas Mavericks
+318,119,2013-02-25,6.5, Denver,108,216.5,Denver Nuggets
+319,116,2013-02-28,-10.0, Minnesota,94,205.5,Minnesota Timberwolves
+320,99,2013-03-03,-5.5, Atlanta,98,206.5,Atlanta Hawks
+321,122,2013-03-05,9.5, Oklahoma City,105,215.0,Oklahoma City Thunder
+322,108,2013-03-06,-2.0, New Orleans,102,202.5,New Orleans Pelicans
+323,118,2013-03-08,-7.5, Toronto,116,207.0,Toronto Raptors
+324,90,2013-03-10,-4.5, Chicago,81,193.5,Chicago Bulls
+325,106,2013-03-12,-8.5, Orlando,97,208.0,Orlando Magic
+326,96,2013-03-13,-3.5, Atlanta,92,204.0,Atlanta Hawks
+327,99,2013-03-15,8.5, Indiana,93,191.0,Indiana Pacers
+328,113,2013-03-17,-8.5, Sacramento,102,216.0,Sacramento Kings
+329,99,2013-03-18,-4.0, Phoenix,76,200.0,Phoenix Suns
+330,103,2013-03-22,-9.0, Washington,100,198.5,Washington Wizards
+331,109,2013-03-25,1.5, Golden State,103,205.5,Golden State Warriors
+332,120,2013-03-27,-4.5, Minnesota,117,205.5,Minnesota Timberwolves
+333,113,2013-03-28,-2.0, Milwaukee,103,210.5,Milwaukee Bucks
+334,103,2013-03-30,-2.5, Sacramento,98,219.0,Sacramento Kings
+335,101,2013-04-02,-4.5, Dallas,81,209.0,Dallas Mavericks
+336,86,2013-04-05,-2.0, Memphis,84,189.5,Memphis Grizzlies
+337,109,2013-04-07,4.5, LA Clippers,95,199.0,Los Angeles Clippers
+338,104,2013-04-09,-8.5, New Orleans,96,193.5,New Orleans Pelicans
+339,113,2013-04-10,-6.5, Portland,106,202.0,Portland Trail Blazers
+340,118,2013-04-12,-7.0, Golden State,116,208.5,Golden State Warriors
+341,91,2013-04-14,3.0, San Antonio,86,193.5,San Antonio Spurs
+342,99,2013-04-17,1.5, Houston,95,206.0,Houston Rockets
+343,91,2013-04-21,9.0, San Antonio,79,191.5,San Antonio Spurs
+344,102,2013-04-24,9.0, San Antonio,91,188.5,San Antonio Spurs
+345,120,2013-04-26,6.5, San Antonio,89,184.0,San Antonio Spurs
+346,103,2013-04-28,11.5, San Antonio,82,190.0,San Antonio Spurs
+347,93,2012-10-31,-6.5, Sacramento,87,191.0,Sacramento Kings
+348,115,2012-11-02,-3.0, Cleveland,86,183.5,Cleveland Cavaliers
+349,89,2012-11-03,-9.5, New Orleans,82,181.5,New Orleans Pelicans
+350,99,2012-11-06,-9.0, Orlando,93,187.0,Orlando Magic
+351,97,2012-11-08,2.5, Oklahoma City,91,190.5,Oklahoma City Thunder
+352,87,2012-11-10,-8.5, Minnesota,80,184.0,Minnesota Timberwolves
+353,101,2012-11-12,-3.0, Boston,95,184.5,Boston Celtics
+354,112,2012-11-14,-3.0, Phoenix,106,191.0,Phoenix Suns
+355,101,2012-11-17,6.0, LA Clippers,80,190.5,Los Angeles Clippers
+356,102,2012-11-18,2.0, Portland,94,191.0,Portland Trail Blazers
+357,93,2012-11-21,1.0, Houston,89,192.0,Houston Rockets
+358,93,2012-11-24,2.5, Milwaukee,86,192.0,Milwaukee Bucks
+359,93,2012-11-26,-4.0, Milwaukee,92,192.0,Milwaukee Bucks
+360,101,2012-11-28,-6.0, Dallas,78,189.5,Dallas Mavericks
+361,93,2012-12-01,-6.5, Philadelphia,88,182.5,Philadelphia 76ers
+362,80,2012-12-04,-4.0, Indiana,76,180.5,Indiana Pacers
+363,95,2012-12-05,-3.5, Cleveland,85,184.0,Cleveland Cavaliers
+364,108,2012-12-07,-2.5, Detroit,104,182.0,Detroit Pistons
+365,93,2012-12-08,2.0, New York,85,188.5,New York Knicks
+366,94,2012-12-11,4.0, LA Clippers,89,188.5,Los Angeles Clippers
+367,96,2012-12-12,2.5, Philadelphia,89,180.5,Philadelphia 76ers
+368,83,2012-12-15,-4.5, Brooklyn,82,184.0,Brooklyn Nets
+369,80,2012-12-17,6.5, Memphis,71,178.5,Memphis Grizzlies
+370,100,2012-12-18,-1.5, Boston,89,181.0,Boston Celtics
+371,110,2012-12-21,6.5, New York,106,187.5,New York Knicks
+372,92,2012-12-22,4.0, Atlanta,75,184.5,Atlanta Hawks
+373,120,2012-12-25,-4.5, Houston,97,197.5,Houston Rockets
+374,87,2012-12-29,-11.0, Washington,77,180.5,Washington Wizards
+375,91,2012-12-31,-12.0, Charlotte,81,188.5,Charlotte Hornets
+376,96,2013-01-02,-2.5, Orlando,94,184.0,Orlando Magic
+377,96,2013-01-04,7.5, Miami,89,189.5,Miami Heat
+378,118,2013-01-07,-8.0, Cleveland,92,186.0,Cleveland Cavaliers
+379,104,2013-01-09,-6.0, Milwaukee,96,190.0,Milwaukee Bucks
+380,108,2013-01-11,4.5, New York,101,194.0,New York Knicks
+381,97,2013-01-12,-8.5, Phoenix,81,189.0,Phoenix Suns
+382,97,2013-01-14,-4.5, Atlanta,58,183.0,Atlanta Hawks
+383,107,2013-01-16,-4.5, Toronto,105,183.0,Toronto Raptors
+384,100,2013-01-18,2.0, Boston,99,181.5,Boston Celtics
+385,85,2013-01-19,2.0, Memphis,82,175.0,Memphis Grizzlies
+386,95,2013-01-21,1.0, LA Lakers,83,194.0,Los Angeles Lakers
+387,85,2013-01-23,-6.5, Detroit,82,182.0,Detroit Pistons
+388,103,2013-01-25,-2.5, Golden State,87,189.0,Golden State Warriors
+389,86,2013-01-26,-1.0, Washington,73,184.0,Washington Wizards
+390,93,2013-01-28,-13.0, Charlotte,85,185.0,Charlotte Hornets
+391,104,2013-01-30,1.0, Milwaukee,88,190.5,Milwaukee Bucks
+392,93,2013-02-01,5.0, Brooklyn,89,180.5,Brooklyn Nets
+393,93,2013-02-02,7.5, Atlanta,76,181.5,Atlanta Hawks
+394,111,2013-02-04,5.5, Indiana,101,176.5,Indiana Pacers
+395,128,2013-02-07,6.0, Denver,96,196.5,Denver Nuggets
+396,93,2013-02-08,4.5, Utah,89,184.0,Utah Jazz
+397,103,2013-02-11,-3.5, San Antonio,89,188.0,San Antonio Spurs
+398,71,2013-02-13,2.5, Boston,69,181.5,Boston Celtics
+399,96,2013-02-19,-1.0, New Orleans,87,181.0,New Orleans Pelicans
+400,86,2013-02-21,3.5, Miami,67,186.0,Miami Heat
+401,105,2013-02-22,-7.0, Charlotte,75,185.0,Charlotte Hornets
+402,102,2013-02-24,9.0, Oklahoma City,72,194.5,Oklahoma City Thunder
+403,101,2013-02-26,-8.5, Cleveland,98,185.5,Cleveland Cavaliers
+404,93,2013-02-28,-7.5, Philadelphia,82,178.0,Philadelphia 76ers
+405,96,2013-03-02,-4.5, Brooklyn,85,177.5,Brooklyn Nets
+406,97,2013-03-03,7.5, Indiana,92,178.5,Indiana Pacers
+407,101,2013-03-06,8.5, San Antonio,83,191.0,San Antonio Spurs
+408,89,2013-03-08,-4.0, Utah,88,185.0,Utah Jazz
+409,90,2013-03-10,4.5, LA Lakers,81,193.5,Los Angeles Lakers
+410,121,2013-03-13,-4.0, Sacramento,79,197.5,Sacramento Kings
+411,113,2013-03-15,5.0, Golden State,95,186.0,Golden State Warriors
+412,119,2013-03-18,3.5, Denver,118,194.5,Denver Nuggets
+413,99,2013-03-21,-6.5, Portland,89,188.5,Portland Trail Blazers
+414,87,2013-03-23,-2.0, Indiana,84,179.0,Indiana Pacers
+415,104,2013-03-24,3.0, Minnesota,97,186.0,Minnesota Timberwolves
+416,101,2013-03-27,6.5, Miami,97,186.0,Miami Heat
+417,100,2013-03-30,5.5, Dallas,98,192.0,Dallas Mavericks
+418,95,2013-03-31,-8.5, Detroit,94,187.0,Detroit Pistons
+419,90,2013-04-02,2.5, Washington,86,187.5,Washington Wizards
+420,92,2013-04-04,5.5, Brooklyn,90,188.5,Brooklyn Nets
+421,87,2013-04-05,-8.0, Orlando,86,191.5,Orlando Magic
+422,99,2013-04-07,-4.5, Detroit,85,185.0,Detroit Pistons
+423,101,2013-04-09,-3.5, Toronto,98,185.0,Toronto Raptors
+424,118,2013-04-11,4.0, New York,111,193.5,New York Knicks
+425,97,2013-04-12,2.5, Toronto,88,188.0,Toronto Raptors
+426,105,2013-04-14,10.0, Miami,93,190.0,Miami Heat
+427,102,2013-04-15,-5.5, Orlando,84,191.0,Orlando Magic
+428,95,2013-04-17,-8.5, Washington,92,186.0,Washington Wizards
+429,106,2013-04-20,4.5, Brooklyn,89,181.5,Brooklyn Nets
+430,90,2013-04-22,5.5, Brooklyn,82,183.0,Brooklyn Nets
+431,79,2013-04-25,-3.5, Brooklyn,76,182.0,Brooklyn Nets
+432,142,2013-04-27,-2.0, Brooklyn,134,176.5,Brooklyn Nets
+433,110,2013-04-29,6.5, Brooklyn,91,180.5,Brooklyn Nets
+434,95,2013-05-02,-1.0, Brooklyn,92,184.0,Brooklyn Nets
+435,99,2013-05-04,7.0, Brooklyn,93,182.5,Brooklyn Nets
+436,93,2013-05-06,13.0, Miami,86,188.0,Miami Heat
+437,115,2013-05-08,13.0, Miami,78,186.0,Miami Heat
+438,104,2013-05-10,8.5, Miami,94,186.0,Miami Heat
+439,88,2013-05-13,8.0, Miami,65,185.0,Miami Heat
+440,94,2013-05-15,14.0, Miami,91,181.5,Miami Heat
+441,84,2012-10-31,2.0, Denver,75,197.5,Denver Nuggets
+442,100,2012-11-04,3.5, New York,84,187.5,New York Knicks
+443,110,2012-11-05,-3.0, New York,88,184.0,New York Knicks
+444,77,2012-11-07,-1.5, New Orleans,62,179.0,New Orleans Pelicans
+445,106,2012-11-09,5.5, Boston,100,180.0,Boston Celtics
+446,93,2012-11-10,3.0, Toronto,83,186.0,Toronto Raptors
+447,105,2012-11-12,-4.0, Milwaukee,96,191.0,Milwaukee Bucks
+448,94,2012-11-14,-7.5, Detroit,76,186.5,Detroit Pistons
+449,99,2012-11-16,-1.5, Utah,93,186.5,Utah Jazz
+450,86,2012-11-18,-6.5, Cleveland,79,190.0,Cleveland Cavaliers
+451,106,2012-11-20,-5.5, Toronto,98,183.5,Toronto Raptors
+452,92,2012-11-21,-4.5, Cleveland,83,182.0,Cleveland Cavaliers
+453,116,2012-11-24,4.5, Oklahoma City,109,191.5,Oklahoma City Thunder
+454,104,2012-11-25,-4.0, Phoenix,101,194.5,Phoenix Suns
+455,100,2012-11-27,-3.0, Dallas,98,192.0,Dallas Mavericks
+456,104,2012-11-30,-3.5, Charlotte,98,188.0,Charlotte Hornets
+457,93,2012-12-01,6.5, Chicago,88,182.5,Chicago Bulls
+458,105,2012-12-04,-3.0, Minnesota,88,187.5,Minnesota Timberwolves
+459,95,2012-12-07,2.0, Boston,94,188.5,Boston Celtics
+460,92,2012-12-08,6.5, Boston,79,185.5,Boston Celtics
+461,104,2012-12-10,-5.5, Detroit,97,186.5,Detroit Pistons
+462,96,2012-12-12,-2.5, Chicago,89,180.5,Chicago Bulls
+463,95,2012-12-14,6.0, Indiana,85,179.0,Indiana Pacers
+464,111,2012-12-16,4.0, LA Lakers,98,197.0,Los Angeles Lakers
+465,107,2012-12-18,6.5, Dallas,100,194.0,Dallas Mavericks
+466,125,2012-12-19,8.5, Houston,103,199.0,Houston Rockets
+467,99,2012-12-21,2.0, Atlanta,80,188.0,Atlanta Hawks
+468,95,2012-12-23,6.0, Brooklyn,92,187.5,Brooklyn Nets
+469,99,2012-12-26,8.5, Memphis,89,182.0,Memphis Grizzlies
+470,96,2012-12-28,6.0, Golden State,89,200.0,Golden State Warriors
+471,89,2012-12-29,3.5, Portland,85,190.0,Portland Trail Blazers
+472,103,2013-01-01,9.0, LA Lakers,99,201.5,Los Angeles Lakers
+473,95,2013-01-02,4.5, Phoenix,89,195.0,Phoenix Suns
+474,109,2013-01-04,10.5, Oklahoma City,85,196.5,Oklahoma City Thunder
+475,109,2013-01-05,13.5, San Antonio,86,198.0,San Antonio Spurs
+476,109,2013-01-08,-1.5, Brooklyn,89,187.0,Brooklyn Nets
+477,90,2013-01-09,5.0, Toronto,72,189.0,Toronto Raptors
+478,107,2013-01-12,-1.0, Houston,100,204.0,Houston Rockets
+479,111,2013-01-15,-3.0, New Orleans,99,183.5,New Orleans Pelicans
+480,108,2013-01-18,-4.0, Toronto,101,190.5,Toronto Raptors
+481,90,2013-01-21,6.0, San Antonio,85,194.5,San Antonio Spurs
+482,110,2013-01-22,6.5, Milwaukee,102,196.0,Milwaukee Bucks
+483,97,2013-01-26,4.0, New York,80,192.0,New York Knicks
+484,103,2013-01-28,1.0, Memphis,100,177.5,Memphis Grizzlies
+485,92,2013-01-30,-3.5, Washington,84,190.0,Washington Wizards
+486,89,2013-02-01,-6.0, Sacramento,80,198.5,Sacramento Kings
+487,78,2013-02-04,-10.0, Orlando,61,188.5,Orlando Magic
+488,88,2013-02-06,-2.0, Indiana,69,180.0,Indiana Pacers
+489,87,2013-02-09,-10.0, Charlotte,76,186.0,Charlotte Hornets
+490,107,2013-02-11,5.0, LA Clippers,90,185.0,Los Angeles Clippers
+491,94,2013-02-13,6.0, Milwaukee,92,193.5,Milwaukee Bucks
+492,94,2013-02-20,4.0, Minnesota,87,186.0,Minnesota Timberwolves
+493,114,2013-02-23,8.5, Miami,90,185.0,Miami Heat
+494,99,2013-02-24,11.0, New York,93,189.5,New York Knicks
+495,98,2013-02-26,-8.5, Orlando,84,185.5,Orlando Magic
+496,93,2013-02-28,7.5, Chicago,82,178.0,Chicago Bulls
+497,104,2013-03-02,2.0, Golden State,97,197.5,Golden State Warriors
+498,90,2013-03-03,6.0, Washington,87,185.5,Washington Wizards
+499,109,2013-03-05,2.5, Boston,101,183.0,Boston Celtics
+500,107,2013-03-06,8.5, Atlanta,96,189.5,Atlanta Hawks
+501,102,2013-03-08,13.0, Miami,93,194.5,Miami Heat
+502,99,2013-03-10,-1.0, Orlando,91,194.0,Orlando Magic
+503,106,2013-03-11,6.5, Brooklyn,97,184.5,Brooklyn Nets
+504,98,2013-03-13,8.0, Miami,94,193.5,Miami Heat
+505,98,2013-03-16,5.5, Indiana,91,182.5,Indiana Pacers
+506,101,2013-03-18,-1.0, Portland,100,194.5,Portland Trail Blazers
+507,101,2013-03-20,11.0, LA Clippers,72,194.5,Los Angeles Clippers
+508,101,2013-03-21,14.5, Denver,100,203.5,Denver Nuggets
+509,117,2013-03-24,3.5, Sacramento,103,206.5,Sacramento Kings
+510,107,2013-03-25,7.5, Utah,91,191.0,Utah Jazz
+511,100,2013-03-27,1.0, Milwaukee,92,199.0,Milwaukee Bucks
+512,97,2013-03-29,-1.5, Cleveland,87,195.0,Cleveland Cavaliers
+513,100,2013-03-30,-10.5, Charlotte,92,194.5,Charlotte Hornets
+514,88,2013-04-03,-5.0, Charlotte,83,196.0,Charlotte Hornets
+515,101,2013-04-05,6.0, Atlanta,90,192.0,Atlanta Hawks
+516,106,2013-04-06,7.0, Miami,87,188.5,Miami Heat
+517,104,2013-04-09,8.5, Brooklyn,83,192.0,Brooklyn Nets
+518,124,2013-04-10,3.5, Atlanta,101,191.0,Atlanta Hawks
+519,97,2013-04-12,5.5, Washington,86,192.0,Washington Wizards
+520,91,2013-04-14,-6.0, Cleveland,77,198.5,Cleveland Cavaliers
+521,109,2013-04-15,4.0, Detroit,101,193.0,Detroit Pistons
+522,105,2013-04-17,2.5, Indiana,95,186.5,Indiana Pacers
+523,99,2012-10-31,-7.0, New Orleans,95,186.5,New Orleans Pelicans
+524,86,2012-11-01,-2.0, Oklahoma City,84,204.0,Oklahoma City Thunder
+525,110,2012-11-03,-7.5, Utah,100,201.5,Utah Jazz
+526,101,2012-11-05,-8.5, Indiana,79,194.0,Indiana Pacers
+527,106,2012-11-07,-1.5, LA Clippers,84,204.0,Los Angeles Clippers
+528,97,2012-11-09,-5.5, Sacramento,86,198.5,Sacramento Kings
+529,112,2012-11-10,-2.5, Portland,109,197.0,Portland Trail Blazers
+530,84,2012-11-13,-1.0, LA Lakers,82,196.0,Los Angeles Lakers
+531,104,2012-11-15,-5.5, New York,100,196.0,New York Knicks
+532,126,2012-11-17,-6.0, Denver,100,202.5,Denver Nuggets
+533,92,2012-11-19,-4.5, LA Clippers,87,199.0,Los Angeles Clippers
+534,112,2012-11-21,-1.0, Boston,100,194.0,Boston Celtics
+535,104,2012-11-23,-4.5, Indiana,97,191.0,Indiana Pacers
+536,111,2012-11-25,-6.0, Toronto,106,195.5,Toronto Raptors
+537,118,2012-11-26,-7.0, Washington,92,196.0,Washington Wizards
+538,110,2012-11-28,-7.5, Orlando,89,196.5,Orlando Magic
+539,105,2012-11-29,13.0, Miami,100,201.5,Miami Heat
+540,99,2012-12-01,-6.0, Memphis,95,196.5,Memphis Grizzlies
+541,110,2012-12-05,-9.0, Milwaukee,99,202.0,Milwaukee Bucks
+542,114,2012-12-07,-8.5, Houston,92,212.5,Houston Rockets
+543,132,2012-12-08,-9.5, Charlotte,102,199.5,Charlotte Hornets
+544,134,2012-12-10,-7.0, Houston,126,212.0,Houston Rockets
+545,99,2012-12-12,-4.0, Utah,96,209.5,Utah Jazz
+546,98,2012-12-13,-7.0, Portland,90,200.5,Portland Trail Blazers
+547,103,2012-12-15,-9.0, Boston,88,198.5,Boston Celtics
+548,107,2012-12-17,5.5, Oklahoma City,93,208.5,Oklahoma City Thunder
+549,112,2012-12-18,2.5, Denver,106,209.5,Denver Nuggets
+550,99,2012-12-21,-13.0, New Orleans,94,195.5,New Orleans Pelicans
+551,129,2012-12-23,-11.0, Dallas,91,207.0,Dallas Mavericks
+552,100,2012-12-26,-14.0, Toronto,80,200.0,Toronto Raptors
+553,122,2012-12-28,-8.0, Houston,116,213.0,Houston Rockets
+554,111,2012-12-30,-6.0, Dallas,86,207.5,Dallas Mavericks
+555,104,2012-12-31,-9.0, Brooklyn,73,198.5,Brooklyn Nets
+556,117,2013-01-02,-5.5, Milwaukee,110,204.0,Milwaukee Bucks
+557,100,2013-01-03,-1.0, New York,83,208.5,New York Knicks
+558,109,2013-01-05,-13.5, Philadelphia,86,198.0,Philadelphia 76ers
+559,95,2013-01-07,-8.0, New Orleans,88,193.5,New Orleans Pelicans
+560,108,2013-01-09,-13.5, LA Lakers,105,214.0,Los Angeles Lakers
+561,101,2013-01-11,2.0, Memphis,98,187.5,Memphis Grizzlies
+562,106,2013-01-13,-12.0, Minnesota,88,199.0,Minnesota Timberwolves
+563,103,2013-01-16,-5.5, Memphis,82,187.0,Memphis Grizzlies
+564,95,2013-01-18,-11.5, Golden State,88,201.5,Golden State Warriors
+565,98,2013-01-19,-3.5, Atlanta,93,194.0,Atlanta Hawks
+566,90,2013-01-21,-6.0, Philadelphia,85,194.5,Philadelphia 76ers
+567,106,2013-01-23,-8.5, New Orleans,102,195.5,New Orleans Pelicans
+568,113,2013-01-25,2.0, Dallas,107,204.5,Dallas Mavericks
+569,108,2013-01-26,-9.0, Phoenix,99,200.5,Phoenix Suns
+570,102,2013-01-30,-14.5, Charlotte,78,204.5,Charlotte Hornets
+571,96,2013-02-02,-12.5, Washington,86,193.5,Washington Wizards
+572,104,2013-02-06,-4.5, Minnesota,94,198.0,Minnesota Timberwolves
+573,119,2013-02-08,-5.5, Detroit,109,197.5,Detroit Pistons
+574,111,2013-02-10,-2.0, Brooklyn,86,195.0,Brooklyn Nets
+575,103,2013-02-11,3.5, Chicago,89,188.0,Chicago Bulls
+576,96,2013-02-13,-8.0, Cleveland,95,206.0,Cleveland Cavaliers
+577,108,2013-02-19,-9.0, Sacramento,102,211.0,Sacramento Kings
+578,116,2013-02-21,4.0, LA Clippers,90,202.0,Los Angeles Clippers
+579,107,2013-02-22,-3.5, Golden State,101,208.5,Golden State Warriors
+580,97,2013-02-24,-9.0, Phoenix,87,199.0,Phoenix Suns
+581,105,2013-02-27,-16.0, Phoenix,101,198.5,Phoenix Suns
+582,130,2013-03-01,-14.5, Sacramento,102,215.0,Sacramento Kings
+583,114,2013-03-03,-13.0, Detroit,75,199.5,Detroit Pistons
+584,101,2013-03-06,-8.5, Chicago,83,191.0,Chicago Bulls
+585,136,2013-03-08,-11.5, Portland,106,202.0,Portland Trail Blazers
+586,105,2013-03-11,-2.5, Oklahoma City,93,206.0,Oklahoma City Thunder
+587,107,2013-03-12,-8.5, Minnesota,83,196.0,Minnesota Timberwolves
+588,92,2013-03-14,-9.5, Dallas,91,206.5,Dallas Mavericks
+589,119,2013-03-16,-15.0, Cleveland,113,200.5,Cleveland Cavaliers
+590,104,2013-03-20,-8.0, Golden State,93,203.0,Golden State Warriors
+591,104,2013-03-22,-11.5, Utah,97,199.0,Utah Jazz
+592,96,2013-03-24,-1.5, Houston,95,212.0,Houston Rockets
+593,100,2013-03-27,-6.5, Denver,99,209.0,Denver Nuggets
+594,104,2013-03-29,-4.0, LA Clippers,102,198.0,Los Angeles Clippers
+595,88,2013-03-31,-9.0, Miami,86,194.5,Miami Heat
+596,92,2013-04-01,6.5, Memphis,90,190.0,Memphis Grizzlies
+597,98,2013-04-03,-12.5, Orlando,84,198.0,Orlando Magic
+598,100,2013-04-04,7.5, Oklahoma City,88,201.0,Oklahoma City Thunder
+599,99,2013-04-06,-10.5, Atlanta,97,192.5,Atlanta Hawks
+600,96,2013-04-10,3.5, Denver,86,202.5,Denver Nuggets
+601,108,2013-04-12,-11.5, Sacramento,101,207.5,Sacramento Kings
+602,91,2013-04-14,-3.0, LA Lakers,86,193.5,Los Angeles Lakers
+603,116,2013-04-15,7.0, Golden State,106,199.0,Golden State Warriors
+604,108,2013-04-17,-9.5, Minnesota,95,199.5,Minnesota Timberwolves
+605,91,2013-04-21,-9.0, LA Lakers,79,191.5,Los Angeles Lakers
+606,102,2013-04-24,-9.0, LA Lakers,91,188.5,Los Angeles Lakers
+607,120,2013-04-26,-6.5, LA Lakers,89,184.0,Los Angeles Lakers
+608,103,2013-04-28,-11.5, LA Lakers,82,190.0,Los Angeles Lakers
+609,129,2013-05-06,-9.5, Golden State,127,202.5,Golden State Warriors
+610,100,2013-05-08,-7.5, Golden State,91,204.5,Golden State Warriors
+611,102,2013-05-10,2.5, Golden State,92,201.5,Golden State Warriors
+612,97,2013-05-12,-1.5, Golden State,87,198.5,Golden State Warriors
+613,109,2013-05-14,-7.0, Golden State,91,194.5,Golden State Warriors
+614,94,2013-05-16,-2.0, Golden State,82,194.5,Golden State Warriors
+615,105,2013-05-19,-4.5, Memphis,83,182.0,Memphis Grizzlies
+616,93,2013-05-21,-5.0, Memphis,89,180.5,Memphis Grizzlies
+617,104,2013-05-25,4.5, Memphis,93,180.0,Memphis Grizzlies
+618,93,2013-05-27,2.5, Memphis,86,182.0,Memphis Grizzlies
+619,92,2013-06-06,5.0, Miami,88,190.0,Miami Heat
+620,103,2013-06-09,6.0, Miami,84,189.5,Miami Heat
+621,113,2013-06-11,-2.0, Miami,77,188.0,Miami Heat
+622,109,2013-06-13,1.0, Miami,93,186.5,Miami Heat
+623,114,2013-06-16,1.0, Miami,104,189.0,Miami Heat
+624,103,2013-06-18,6.5, Miami,100,191.5,Miami Heat
+625,95,2013-06-20,5.5, Miami,88,187.5,Miami Heat
+626,101,2012-10-31,4.5, LA Clippers,92,187.5,Los Angeles Clippers
+627,104,2012-11-02,-1.5, Golden State,94,192.0,Golden State Warriors
+628,103,2012-11-05,-5.5, Utah,94,195.5,Utah Jazz
+629,108,2012-11-07,-1.0, Milwaukee,90,197.5,Milwaukee Bucks
+630,93,2012-11-09,-7.0, Houston,85,194.0,Houston Rockets
+631,104,2012-11-11,1.5, Miami,86,194.5,Miami Heat
+632,107,2012-11-14,5.0, Oklahoma City,97,194.5,Oklahoma City Thunder
+633,105,2012-11-16,-6.5, New York,95,191.0,New York Knicks
+634,94,2012-11-17,-6.0, Charlotte,87,190.5,Charlotte Hornets
+635,97,2012-11-19,-7.0, Denver,92,196.0,Denver Nuggets
+636,106,2012-11-23,-4.5, LA Lakers,98,200.0,Los Angeles Lakers
+637,84,2012-11-26,-11.5, Cleveland,78,193.0,Cleveland Cavaliers
+638,103,2012-11-28,-10.0, Toronto,82,189.0,Toronto Raptors
+639,90,2012-11-30,-10.0, Detroit,78,188.0,Detroit Pistons
+640,99,2012-12-01,6.0, San Antonio,95,196.5,San Antonio Spurs
+641,108,2012-12-04,-10.0, Phoenix,98,196.0,Phoenix Suns
+642,96,2012-12-07,-8.0, New Orleans,89,183.0,New Orleans Pelicans
+643,93,2012-12-08,-7.0, Atlanta,83,189.0,Atlanta Hawks
+644,82,2012-12-12,-6.5, Phoenix,80,194.5,Phoenix Suns
+645,99,2012-12-14,1.0, Denver,94,194.5,Denver Nuggets
+646,99,2012-12-15,2.0, Utah,86,188.0,Utah Jazz
+647,80,2012-12-17,-6.5, Chicago,71,178.5,Chicago Bulls
+648,90,2012-12-19,-9.0, Milwaukee,80,187.5,Milwaukee Bucks
+649,92,2012-12-21,-10.5, Dallas,82,188.5,Dallas Mavericks
+650,121,2012-12-22,1.5, Houston,96,196.5,Houston Rockets
+651,99,2012-12-26,-8.5, Philadelphia,89,182.0,Philadelphia 76ers
+652,81,2012-12-29,-6.0, Denver,72,195.0,Denver Nuggets
+653,88,2012-12-31,-1.5, Indiana,83,176.5,Indiana Pacers
+654,93,2013-01-02,-2.5, Boston,83,180.0,Boston Celtics
+655,86,2013-01-04,-8.0, Portland,84,182.0,Portland Trail Blazers
+656,92,2013-01-06,-4.5, Phoenix,81,184.5,Phoenix Suns
+657,113,2013-01-07,-4.0, Sacramento,81,188.0,Sacramento Kings
+658,94,2013-01-09,1.0, Golden State,87,191.0,Golden State Warriors
+659,101,2013-01-11,-2.0, San Antonio,98,187.5,San Antonio Spurs
+660,104,2013-01-12,-1.0, Dallas,83,187.0,Dallas Mavericks
+661,99,2013-01-14,-4.5, LA Clippers,73,179.5,Los Angeles Clippers
+662,103,2013-01-16,5.5, San Antonio,82,187.0,San Antonio Spurs
+663,85,2013-01-18,-9.5, Sacramento,69,190.5,Sacramento Kings
+664,85,2013-01-19,-2.0, Chicago,82,175.0,Chicago Bulls
+665,82,2013-01-21,-6.0, Indiana,81,170.5,Indiana Pacers
+666,106,2013-01-23,-3.5, LA Lakers,93,187.0,Los Angeles Lakers
+667,101,2013-01-25,-4.0, Brooklyn,77,177.5,Brooklyn Nets
+668,91,2013-01-27,-7.5, New Orleans,83,178.0,New Orleans Pelicans
+669,103,2013-01-28,-1.0, Philadelphia,100,177.5,Philadelphia 76ers
+670,106,2013-01-31,9.5, Oklahoma City,89,190.0,Oklahoma City Thunder
+671,85,2013-02-01,-6.0, Washington,76,180.0,Washington Wizards
+672,96,2013-02-05,-8.5, Phoenix,90,184.0,Phoenix Suns
+673,103,2013-02-06,-2.0, Atlanta,92,182.5,Atlanta Hawks
+674,99,2013-02-08,-3.5, Golden State,93,191.0,Golden State Warriors
+675,105,2013-02-10,-8.5, Minnesota,88,183.0,Minnesota Timberwolves
+676,108,2013-02-12,-11.0, Sacramento,101,190.0,Sacramento Kings
+677,105,2013-02-19,-3.0, Detroit,91,186.5,Detroit Pistons
+678,88,2013-02-20,-1.0, Toronto,82,186.5,Toronto Raptors
+679,88,2013-02-22,-14.0, Orlando,82,186.5,Orlando Magic
+680,76,2013-02-24,-2.5, Brooklyn,72,180.5,Brooklyn Nets
+681,90,2013-02-27,-7.5, Dallas,84,188.0,Dallas Mavericks
+682,98,2013-03-01,7.5, Miami,91,187.5,Miami Heat
+683,108,2013-03-03,-9.0, Orlando,82,184.0,Orlando Magic
+684,91,2013-03-06,-7.5, Portland,85,186.5,Portland Trail Blazers
+685,103,2013-03-08,-4.5, Cleveland,92,186.0,Cleveland Cavaliers
+686,96,2013-03-09,-7.0, New Orleans,85,183.0,New Orleans Pelicans
+687,102,2013-03-12,-1.5, Portland,97,186.5,Portland Trail Blazers
+688,96,2013-03-13,7.0, LA Clippers,85,185.0,Los Angeles Clippers
+689,87,2013-03-15,5.5, Denver,80,195.0,Denver Nuggets
+690,90,2013-03-16,3.0, Utah,84,184.0,Utah Jazz
+691,92,2013-03-18,-13.0, Minnesota,77,183.0,Minnesota Timberwolves
+692,90,2013-03-20,-1.5, Oklahoma City,89,188.5,Oklahoma City Thunder
+693,90,2013-03-22,-6.0, New Orleans,83,179.0,New Orleans Pelicans
+694,110,2013-03-23,-7.0, Boston,106,177.5,Boston Celtics
+695,107,2013-03-25,-5.0, Washington,94,181.0,Washington Wizards
+696,108,2013-03-27,-1.0, New York,101,184.5,New York Knicks
+697,103,2013-03-29,-5.0, Houston,94,195.0,Houston Rockets
+698,99,2013-03-30,-4.0, Minnesota,86,184.0,Minnesota Timberwolves
+699,92,2013-04-01,-6.5, San Antonio,90,190.0,San Antonio Spurs
+700,94,2013-04-03,-7.5, Portland,76,188.5,Portland Trail Blazers
+701,86,2013-04-05,2.0, LA Lakers,84,189.5,Los Angeles Lakers
+702,89,2013-04-07,-5.0, Sacramento,87,195.5,Sacramento Kings
+703,94,2013-04-09,-13.5, Charlotte,75,183.0,Charlotte Hornets
+704,82,2013-04-12,2.5, Houston,78,195.0,Houston Rockets
+705,91,2013-04-13,-2.0, LA Clippers,87,182.0,Los Angeles Clippers
+706,103,2013-04-15,-3.5, Dallas,97,186.5,Dallas Mavericks
+707,86,2013-04-17,-4.5, Utah,70,178.5,Utah Jazz
+708,112,2013-04-20,5.5, LA Clippers,91,178.5,Los Angeles Clippers
+709,93,2013-04-22,6.0, LA Clippers,91,180.0,Los Angeles Clippers
+710,94,2013-04-25,-4.5, LA Clippers,82,178.5,Los Angeles Clippers
+711,104,2013-04-27,-3.0, LA Clippers,83,177.5,Los Angeles Clippers
+712,103,2013-04-30,5.5, LA Clippers,93,180.5,Los Angeles Clippers
+713,118,2013-05-03,-6.0, LA Clippers,105,179.5,Los Angeles Clippers
+714,93,2013-05-05,3.5, Oklahoma City,91,186.5,Oklahoma City Thunder
+715,99,2013-05-07,3.0, Oklahoma City,93,188.5,Oklahoma City Thunder
+716,87,2013-05-11,-5.0, Oklahoma City,81,186.5,Oklahoma City Thunder
+717,103,2013-05-13,-4.5, Oklahoma City,97,185.0,Oklahoma City Thunder
+718,88,2013-05-15,4.5, Oklahoma City,84,185.0,Oklahoma City Thunder
+719,105,2013-05-19,4.5, San Antonio,83,182.0,San Antonio Spurs
+720,93,2013-05-21,5.0, San Antonio,89,180.5,San Antonio Spurs
+721,104,2013-05-25,-4.5, San Antonio,93,180.0,San Antonio Spurs
+722,93,2013-05-27,-2.5, San Antonio,86,182.0,San Antonio Spurs
+723,105,2012-10-31,2.5, Detroit,96,194.0,Detroit Pistons
+724,109,2012-11-02,5.5, Atlanta,102,203.0,Atlanta Hawks
+725,95,2012-11-03,-5.5, Portland,85,206.0,Portland Trail Blazers
+726,93,2012-11-07,-2.5, Denver,87,204.5,Denver Nuggets
+727,93,2012-11-09,7.0, Memphis,85,194.0,Memphis Grizzlies
+728,96,2012-11-10,-7.0, Detroit,82,194.0,Detroit Pistons
+729,113,2012-11-12,6.0, Miami,110,194.5,Miami Heat
+730,100,2012-11-14,-6.5, New Orleans,96,184.0,New Orleans Pelicans
+731,119,2012-11-16,2.0, Portland,117,198.0,Portland Trail Blazers
+732,119,2012-11-18,7.0, LA Lakers,108,205.5,Los Angeles Lakers
+733,102,2012-11-19,6.0, Utah,91,197.0,Utah Jazz
+734,93,2012-11-21,-1.0, Chicago,89,192.0,Chicago Bulls
+735,131,2012-11-23,4.5, New York,103,198.0,New York Knicks
+736,117,2012-11-27,-6.0, Toronto,101,203.0,Toronto Raptors
+737,120,2012-11-28,10.5, Oklahoma City,98,210.5,Oklahoma City Thunder
+738,124,2012-12-01,-6.5, Utah,116,206.5,Utah Jazz
+739,107,2012-12-04,-1.0, LA Lakers,105,215.0,Los Angeles Lakers
+740,114,2012-12-07,8.5, San Antonio,92,212.5,San Antonio Spurs
+741,116,2012-12-08,-6.5, Dallas,109,209.0,Dallas Mavericks
+742,134,2012-12-10,7.0, San Antonio,126,212.0,San Antonio Spurs
+743,99,2012-12-12,-10.5, Washington,93,206.0,Washington Wizards
+744,101,2012-12-14,-2.5, Boston,89,207.0,Boston Celtics
+745,103,2012-12-16,-4.5, Toronto,96,200.0,Toronto Raptors
+746,109,2012-12-17,7.5, New York,96,210.0,New York Knicks
+747,125,2012-12-19,-8.5, Philadelphia,103,199.0,Philadelphia 76ers
+748,121,2012-12-22,-1.5, Memphis,96,196.5,Memphis Grizzlies
+749,120,2012-12-25,4.5, Chicago,97,197.5,Chicago Bulls
+750,87,2012-12-26,5.0, Minnesota,84,211.0,Minnesota Timberwolves
+751,122,2012-12-28,8.0, San Antonio,116,213.0,San Antonio Spurs
+752,124,2012-12-29,4.5, Oklahoma City,94,213.0,Oklahoma City Thunder
+753,123,2012-12-31,-4.5, Atlanta,104,206.0,Atlanta Hawks
+754,104,2013-01-02,-9.5, New Orleans,92,203.0,New Orleans Pelicans
+755,115,2013-01-04,1.0, Milwaukee,101,214.0,Milwaukee Bucks
+756,112,2013-01-05,-6.0, Cleveland,104,213.0,Cleveland Cavaliers
+757,125,2013-01-08,-8.5, LA Lakers,112,223.5,Los Angeles Lakers
+758,88,2013-01-09,-2.5, New Orleans,79,200.5,New Orleans Pelicans
+759,103,2013-01-11,3.0, Boston,91,201.0,Boston Celtics
+760,107,2013-01-12,1.0, Philadelphia,100,204.0,Philadelphia 76ers
+761,117,2013-01-15,-3.5, LA Clippers,109,207.0,Los Angeles Clippers
+762,105,2013-01-16,4.0, Dallas,100,213.5,Dallas Mavericks
+763,105,2013-01-18,4.5, Indiana,95,195.0,Indiana Pacers
+764,92,2013-01-19,-5.5, Minnesota,79,202.5,Minnesota Timberwolves
+765,100,2013-01-21,-7.0, Charlotte,94,208.5,Charlotte Hornets
+766,105,2013-01-23,-3.0, Denver,95,218.0,Denver Nuggets
+767,100,2013-01-25,2.5, New Orleans,82,200.5,New Orleans Pelicans
+768,119,2013-01-26,-4.0, Brooklyn,106,200.5,Brooklyn Nets
+769,125,2013-01-28,3.5, Utah,80,207.5,Utah Jazz
+770,118,2013-01-30,4.0, Denver,110,216.5,Denver Nuggets
+771,109,2013-02-02,-12.0, Charlotte,95,209.5,Charlotte Hornets
+772,140,2013-02-05,-2.5, Golden State,109,217.0,Golden State Warriors
+773,114,2013-02-06,7.5, Miami,108,206.5,Miami Heat
+774,118,2013-02-08,-7.5, Portland,103,210.5,Portland Trail Blazers
+775,117,2013-02-10,-6.5, Sacramento,111,218.0,Sacramento Kings
+776,116,2013-02-12,4.5, Golden State,107,218.0,Golden State Warriors
+777,106,2013-02-13,11.0, LA Clippers,96,208.0,Los Angeles Clippers
+778,122,2013-02-20,3.0, Oklahoma City,119,220.5,Oklahoma City Thunder
+779,106,2013-02-22,-1.5, Brooklyn,96,207.0,Brooklyn Nets
+780,105,2013-02-23,-1.5, Washington,103,211.0,Washington Wizards
+781,110,2013-02-27,-9.0, Milwaukee,107,220.5,Milwaukee Bucks
+782,118,2013-03-01,-9.0, Orlando,110,213.0,Orlando Magic
+783,136,2013-03-03,-5.5, Dallas,103,219.5,Dallas Mavericks
+784,112,2013-03-06,1.5, Dallas,108,221.0,Dallas Mavericks
+785,94,2013-03-08,2.5, Golden State,88,223.0,Golden State Warriors
+786,107,2013-03-09,-7.0, Phoenix,105,211.0,Phoenix Suns
+787,111,2013-03-13,-12.0, Phoenix,81,212.5,Phoenix Suns
+788,108,2013-03-15,-14.5, Minnesota,100,211.0,Minnesota Timberwolves
+789,108,2013-03-17,-7.5, Golden State,78,217.5,Golden State Warriors
+790,100,2013-03-20,-7.5, Utah,93,209.5,Utah Jazz
+791,116,2013-03-22,-12.0, Cleveland,78,212.5,Cleveland Cavaliers
+792,96,2013-03-24,1.5, San Antonio,95,212.0,San Antonio Spurs
+793,100,2013-03-27,-6.0, Indiana,91,197.5,Indiana Pacers
+794,103,2013-03-29,5.0, Memphis,94,195.0,Memphis Grizzlies
+795,98,2013-03-30,3.0, LA Clippers,81,204.0,Los Angeles Clippers
+796,111,2013-04-01,-11.5, Orlando,103,201.0,Orlando Magic
+797,112,2013-04-03,-4.0, Sacramento,102,219.5,Sacramento Kings
+798,116,2013-04-05,-5.0, Portland,98,210.0,Portland Trail Blazers
+799,132,2013-04-06,6.0, Denver,114,210.5,Denver Nuggets
+800,101,2013-04-09,-14.5, Phoenix,98,214.0,Phoenix Suns
+801,82,2013-04-12,-2.5, Memphis,78,195.0,Memphis Grizzlies
+802,121,2013-04-14,-10.5, Sacramento,100,218.5,Sacramento Kings
+803,119,2013-04-15,-8.0, Phoenix,112,209.5,Phoenix Suns
+804,99,2013-04-17,-1.5, LA Lakers,95,206.0,Los Angeles Lakers
+805,120,2013-04-21,10.5, Oklahoma City,91,213.5,Oklahoma City Thunder
+806,105,2013-04-24,11.0, Oklahoma City,102,213.5,Oklahoma City Thunder
+807,104,2013-04-27,-1.0, Oklahoma City,101,206.5,Oklahoma City Thunder
+808,105,2013-04-29,1.0, Oklahoma City,103,206.5,Oklahoma City Thunder
+809,107,2013-05-01,8.5, Oklahoma City,100,208.0,Oklahoma City Thunder
+810,103,2013-05-03,1.0, Oklahoma City,94,207.0,Oklahoma City Thunder
+811,90,2012-10-31,1.0, Indiana,88,190.0,Indiana Pacers
+812,107,2012-11-03,5.5, Brooklyn,100,194.0,Brooklyn Nets
+813,105,2012-11-04,-3.5, Minnesota,86,189.0,Minnesota Timberwolves
+814,108,2012-11-06,9.0, Oklahoma City,88,198.0,Oklahoma City Thunder
+815,109,2012-11-07,7.0, Dallas,104,197.0,Dallas Mavericks
+816,93,2012-11-10,-3.0, Philadelphia,83,186.0,Philadelphia 76ers
+817,140,2012-11-12,3.0, Utah,133,192.5,Utah Jazz
+818,74,2012-11-13,9.0, Indiana,72,185.5,Indiana Pacers
+819,107,2012-11-17,7.0, Boston,89,187.5,Boston Celtics
+820,97,2012-11-18,-4.0, Orlando,86,187.0,Orlando Magic
+821,106,2012-11-20,5.5, Philadelphia,98,183.5,Philadelphia 76ers
+822,98,2012-11-21,2.5, Charlotte,97,193.0,Charlotte Hornets
+823,91,2012-11-23,1.5, Detroit,90,191.5,Detroit Pistons
+824,111,2012-11-25,6.0, San Antonio,106,195.5,San Antonio Spurs
+825,117,2012-11-27,6.0, Houston,101,203.0,Houston Rockets
+826,103,2012-11-28,10.0, Memphis,82,189.0,Memphis Grizzlies
+827,101,2012-11-30,-3.0, Phoenix,97,200.0,Phoenix Suns
+828,113,2012-12-03,10.5, Denver,110,200.5,Denver Nuggets
+829,107,2012-12-05,2.5, Sacramento,100,197.5,Sacramento Kings
+830,131,2012-12-07,6.5, Utah,99,198.0,Utah Jazz
+831,102,2012-12-09,10.0, LA Clippers,83,201.5,Los Angeles Clippers
+832,92,2012-12-10,2.5, Portland,74,194.0,Portland Trail Blazers
+833,94,2012-12-12,6.5, Brooklyn,88,185.0,Brooklyn Nets
+834,95,2012-12-14,5.0, Dallas,74,194.5,Dallas Mavericks
+835,103,2012-12-16,4.5, Houston,96,200.0,Houston Rockets
+836,113,2012-12-18,5.0, Cleveland,99,189.0,Cleveland Cavaliers
+837,97,2012-12-19,-3.0, Detroit,91,186.0,Detroit Pistons
+838,93,2012-12-21,-3.5, Orlando,90,187.0,Orlando Magic
+839,100,2012-12-26,14.0, San Antonio,80,200.0,San Antonio Spurs
+840,104,2012-12-28,3.0, New Orleans,97,183.0,New Orleans Pelicans
+841,123,2012-12-29,3.0, Orlando,88,187.0,Orlando Magic
+842,102,2013-01-02,-4.0, Portland,79,191.5,Portland Trail Blazers
+843,105,2013-01-04,-7.0, Sacramento,96,196.0,Sacramento Kings
+844,104,2013-01-06,6.5, Oklahoma City,92,196.5,Oklahoma City Thunder
+845,90,2013-01-09,-5.0, Philadelphia,72,189.0,Philadelphia 76ers
+846,99,2013-01-11,-8.0, Charlotte,78,195.0,Charlotte Hornets
+847,107,2013-01-13,-3.0, Milwaukee,96,192.5,Milwaukee Bucks
+848,113,2013-01-15,7.0, Brooklyn,106,189.5,Brooklyn Nets
+849,107,2013-01-16,4.5, Chicago,105,183.0,Chicago Bulls
+850,108,2013-01-18,4.0, Philadelphia,101,190.5,Philadelphia 76ers
+851,108,2013-01-20,4.5, LA Lakers,103,201.0,Los Angeles Lakers
+852,123,2013-01-23,10.0, Miami,116,194.5,Miami Heat
+853,97,2013-01-24,4.0, Orlando,95,198.5,Orlando Magic
+854,99,2013-01-26,-7.0, Cleveland,98,200.5,Cleveland Cavaliers
+855,114,2013-01-28,2.0, Golden State,102,200.5,Golden State Warriors
+856,93,2013-01-30,7.0, Atlanta,92,196.5,Atlanta Hawks
+857,98,2013-02-01,4.0, LA Clippers,73,193.5,Los Angeles Clippers
+858,100,2013-02-03,5.0, Miami,85,194.5,Miami Heat
+859,99,2013-02-06,-4.0, Boston,95,192.0,Boston Celtics
+860,100,2013-02-08,7.0, Indiana,98,190.0,Indiana Pacers
+861,102,2013-02-10,-3.5, New Orleans,89,192.0,New Orleans Pelicans
+862,109,2013-02-12,-1.5, Denver,108,206.5,Denver Nuggets
+863,92,2013-02-13,8.0, New York,88,197.5,New York Knicks
+864,96,2013-02-19,3.0, Washington,88,190.5,Washington Wizards
+865,88,2013-02-20,1.0, Memphis,82,186.5,Memphis Grizzlies
+866,100,2013-02-22,1.0, New York,98,193.0,New York Knicks
+867,90,2013-02-25,-5.5, Washington,84,192.0,Washington Wizards
+868,103,2013-02-27,-5.0, Cleveland,92,196.0,Cleveland Cavaliers
+869,93,2013-03-01,2.0, Indiana,81,185.5,Indiana Pacers
+870,122,2013-03-02,6.5, Milwaukee,114,199.0,Milwaukee Bucks
+871,125,2013-03-04,6.5, Golden State,118,205.5,Golden State Warriors
+872,98,2013-03-06,1.0, Phoenix,71,192.0,Phoenix Suns
+873,118,2013-03-08,7.5, LA Lakers,116,207.0,Los Angeles Lakers
+874,100,2013-03-10,-5.5, Cleveland,96,200.5,Cleveland Cavaliers
+875,112,2013-03-13,5.0, Boston,88,189.5,Boston Celtics
+876,92,2013-03-15,-12.5, Charlotte,78,194.0,Charlotte Hornets
+877,108,2013-03-17,7.0, Miami,91,194.5,Miami Heat
+878,107,2013-03-20,-6.5, Charlotte,101,195.5,Charlotte Hornets
+879,99,2013-03-22,-1.0, New York,94,192.5,New York Knicks
+880,110,2013-03-23,7.0, New York,84,191.5,New York Knicks
+881,107,2013-03-27,2.5, Atlanta,88,194.0,Atlanta Hawks
+882,99,2013-03-29,1.5, Detroit,82,195.5,Detroit Pistons
+883,109,2013-03-31,3.5, Washington,92,194.5,Washington Wizards
+884,108,2013-04-01,-7.0, Detroit,98,195.0,Detroit Pistons
+885,88,2013-04-03,-4.5, Washington,78,194.0,Washington Wizards
+886,95,2013-04-05,6.0, Minnesota,93,198.0,Minnesota Timberwolves
+887,100,2013-04-06,5.5, Milwaukee,83,202.5,Milwaukee Bucks
+888,101,2013-04-09,3.5, Chicago,98,185.0,Chicago Bulls
+889,97,2013-04-12,-2.5, Chicago,88,188.0,Chicago Bulls
+890,93,2013-04-14,4.0, Brooklyn,87,194.5,Brooklyn Nets
+891,113,2013-04-16,5.0, Atlanta,96,196.0,Atlanta Hawks
+892,114,2013-04-17,-6.0, Boston,90,195.0,Boston Celtics
+893,105,2012-10-31,-2.5, Houston,96,194.0,Houston Rockets
+894,92,2012-11-02,4.5, Phoenix,89,195.0,Phoenix Suns
+895,108,2012-11-04,8.0, LA Lakers,79,190.0,Los Angeles Lakers
+896,109,2012-11-06,10.0, Denver,97,199.5,Denver Nuggets
+897,105,2012-11-07,6.5, Sacramento,103,192.5,Sacramento Kings
+898,105,2012-11-09,11.5, Oklahoma City,94,197.5,Oklahoma City Thunder
+899,96,2012-11-10,7.0, Houston,82,194.0,Houston Rockets
+900,92,2012-11-12,7.0, Oklahoma City,90,193.5,Oklahoma City Thunder
+901,94,2012-11-14,7.5, Philadelphia,76,186.5,Philadelphia 76ers
+902,110,2012-11-16,-5.0, Orlando,106,187.5,Orlando Magic
+903,103,2012-11-18,4.0, Boston,83,188.5,Boston Celtics
+904,90,2012-11-21,1.0, Orlando,74,189.0,Orlando Magic
+905,91,2012-11-23,-1.5, Toronto,90,191.5,Toronto Raptors
+906,121,2012-11-25,11.0, New York,100,190.0,New York Knicks
+907,108,2012-11-26,1.0, Portland,101,193.0,Portland Trail Blazers
+908,117,2012-11-28,-3.0, Phoenix,77,198.0,Phoenix Suns
+909,90,2012-11-30,10.0, Memphis,78,188.0,Memphis Grizzlies
+910,92,2012-12-01,7.0, Dallas,77,195.0,Dallas Mavericks
+911,89,2012-12-03,-5.0, Cleveland,79,191.5,Cleveland Cavaliers
+912,104,2012-12-05,-1.0, Golden State,97,192.5,Golden State Warriors
+913,108,2012-12-07,2.5, Chicago,104,182.0,Chicago Bulls
+914,104,2012-12-08,-1.0, Cleveland,97,187.5,Cleveland Cavaliers
+915,104,2012-12-10,5.5, Philadelphia,97,186.5,Philadelphia 76ers
+916,101,2012-12-11,4.5, Denver,94,203.5,Denver Nuggets
+917,107,2012-12-14,8.0, Brooklyn,105,190.0,Brooklyn Nets
+918,88,2012-12-15,2.0, Indiana,77,183.0,Indiana Pacers
+919,88,2012-12-17,6.5, LA Clippers,76,192.0,Los Angeles Clippers
+920,97,2012-12-19,3.0, Toronto,91,186.0,Toronto Raptors
+921,100,2012-12-21,-6.5, Washington,68,185.0,Washington Wizards
+922,96,2012-12-22,-1.0, Washington,87,183.0,Washington Wizards
+923,126,2012-12-26,7.5, Atlanta,119,187.0,Atlanta Hawks
+924,109,2012-12-28,6.0, Miami,99,188.5,Miami Heat
+925,96,2012-12-30,-2.5, Milwaukee,94,191.5,Milwaukee Bucks
+926,103,2013-01-01,-7.0, Sacramento,97,195.5,Sacramento Kings
+927,85,2013-01-04,1.5, Atlanta,84,190.5,Atlanta Hawks
+928,108,2013-01-06,-8.0, Charlotte,101,194.0,Charlotte Hornets
+929,103,2013-01-11,5.5, Milwaukee,87,197.0,Milwaukee Bucks
+930,90,2013-01-12,-2.5, Utah,87,192.5,Utah Jazz
+931,102,2013-01-17,5.5, New York,87,198.0,New York Knicks
+932,103,2013-01-20,2.0, Boston,88,184.0,Boston Celtics
+933,105,2013-01-22,-4.5, Orlando,90,194.5,Orlando Magic
+934,85,2013-01-23,6.5, Chicago,82,182.0,Chicago Bulls
+935,110,2013-01-25,9.5, Miami,88,192.5,Miami Heat
+936,104,2013-01-27,2.5, Orlando,102,195.0,Orlando Magic
+937,117,2013-01-29,1.5, Milwaukee,90,199.0,Milwaukee Bucks
+938,98,2013-01-30,8.5, Indiana,79,181.0,Indiana Pacers
+939,117,2013-02-01,-4.5, Cleveland,99,199.5,Cleveland Cavaliers
+940,98,2013-02-03,1.5, LA Lakers,97,201.5,Los Angeles Lakers
+941,99,2013-02-04,10.0, New York,85,200.0,New York Knicks
+942,93,2013-02-06,-2.0, Brooklyn,90,190.0,Brooklyn Nets
+943,119,2013-02-08,5.5, San Antonio,109,197.5,San Antonio Spurs
+944,105,2013-02-09,7.5, Milwaukee,100,205.5,Milwaukee Bucks
+945,105,2013-02-11,-6.5, New Orleans,86,193.5,New Orleans Pelicans
+946,96,2013-02-13,-2.0, Washington,85,190.5,Washington Wizards
+947,105,2013-02-19,3.0, Memphis,91,186.5,Memphis Grizzlies
+948,105,2013-02-20,-3.5, Charlotte,99,195.5,Charlotte Hornets
+949,114,2013-02-22,9.5, Indiana,82,190.0,Indiana Pacers
+950,90,2013-02-23,5.0, Indiana,72,188.5,Indiana Pacers
+951,114,2013-02-25,3.5, Atlanta,103,194.0,Atlanta Hawks
+952,96,2013-02-27,6.5, Washington,95,191.5,Washington Wizards
+953,100,2013-03-01,3.5, New Orleans,95,194.5,New Orleans Pelicans
+954,114,2013-03-03,13.0, San Antonio,75,199.5,San Antonio Spurs
+955,87,2013-03-06,6.0, New York,77,195.5,New York Knicks
+956,102,2013-03-08,4.0, Dallas,99,199.0,Dallas Mavericks
+957,129,2013-03-10,13.0, LA Clippers,97,198.0,Los Angeles Clippers
+958,103,2013-03-11,11.0, Utah,90,195.5,Utah Jazz
+959,105,2013-03-13,11.0, Golden State,97,199.5,Golden State Warriors
+960,112,2013-03-16,10.5, Portland,101,199.5,Portland Trail Blazers
+961,119,2013-03-18,4.5, Brooklyn,82,191.0,Brooklyn Nets
+962,103,2013-03-22,16.0, Miami,89,198.5,Miami Heat
+963,92,2013-03-23,1.0, Charlotte,91,199.0,Charlotte Hornets
+964,105,2013-03-26,2.0, Minnesota,82,195.5,Minnesota Timberwolves
+965,99,2013-03-29,-1.5, Toronto,82,195.5,Toronto Raptors
+966,95,2013-03-31,8.5, Chicago,94,187.0,Chicago Bulls
+967,108,2013-04-01,7.0, Toronto,98,195.0,Toronto Raptors
+968,98,2013-04-03,7.0, Boston,93,197.0,Boston Celtics
+969,107,2013-04-06,6.0, Minnesota,101,195.5,Minnesota Timberwolves
+970,99,2013-04-07,4.5, Chicago,85,185.0,Chicago Bulls
+971,111,2013-04-10,2.5, Cleveland,104,199.5,Cleveland Cavaliers
+972,113,2013-04-12,-7.0, Charlotte,93,197.0,Charlotte Hornets
+973,109,2013-04-15,-4.0, Philadelphia,101,193.0,Philadelphia 76ers
+974,103,2013-04-17,5.0, Brooklyn,99,196.5,Brooklyn Nets
+975,120,2012-10-30,6.0, Miami,107,187.5,Miami Heat
+976,99,2012-11-02,-7.0, Milwaukee,88,196.5,Milwaukee Bucks
+977,89,2012-11-03,-5.5, Washington,86,191.0,Washington Wizards
+978,100,2012-11-07,-9.5, Washington,94,186.0,Washington Wizards
+979,106,2012-11-09,-5.5, Philadelphia,100,180.0,Philadelphia 76ers
+980,96,2012-11-10,-1.0, Milwaukee,92,193.5,Milwaukee Bucks
+981,101,2012-11-12,3.0, Chicago,95,184.5,Chicago Bulls
+982,98,2012-11-14,-5.0, Utah,93,191.0,Utah Jazz
+983,102,2012-11-15,5.0, Brooklyn,97,190.0,Brooklyn Nets
+984,107,2012-11-17,-7.0, Toronto,89,187.5,Toronto Raptors
+985,103,2012-11-18,-4.0, Detroit,83,188.5,Detroit Pistons
+986,112,2012-11-21,1.0, San Antonio,100,194.0,San Antonio Spurs
+987,108,2012-11-23,2.5, Oklahoma City,100,197.0,Oklahoma City Thunder
+988,116,2012-11-25,-5.0, Orlando,110,189.0,Orlando Magic
+989,95,2012-11-28,-4.0, Brooklyn,83,189.5,Brooklyn Nets
+990,96,2012-11-30,-4.5, Portland,78,192.5,Portland Trail Blazers
+991,91,2012-12-01,3.0, Milwaukee,88,195.5,Milwaukee Bucks
+992,104,2012-12-05,-5.5, Minnesota,94,193.0,Minnesota Timberwolves
+993,95,2012-12-07,-2.0, Philadelphia,94,188.5,Philadelphia 76ers
+994,92,2012-12-08,-6.5, Philadelphia,79,185.5,Philadelphia 76ers
+995,117,2012-12-12,-6.0, Dallas,115,197.5,Dallas Mavericks
+996,101,2012-12-14,2.5, Houston,89,207.0,Houston Rockets
+997,103,2012-12-15,9.0, San Antonio,88,198.5,San Antonio Spurs
+998,100,2012-12-18,1.5, Chicago,89,181.0,Chicago Bulls
+999,103,2012-12-19,-9.0, Cleveland,91,191.5,Cleveland Cavaliers
+1000,99,2012-12-21,-5.0, Milwaukee,94,190.5,Milwaukee Bucks
+1001,93,2012-12-25,2.5, Brooklyn,76,184.0,Brooklyn Nets
+1002,106,2012-12-27,9.0, LA Clippers,77,189.0,Los Angeles Clippers
+1003,101,2012-12-29,5.0, Golden State,83,193.5,Golden State Warriors
+1004,118,2012-12-30,-2.5, Sacramento,96,193.5,Sacramento Kings
+1005,93,2013-01-02,2.5, Memphis,83,180.0,Memphis Grizzlies
+1006,94,2013-01-04,-3.0, Indiana,75,181.5,Indiana Pacers
+1007,89,2013-01-05,5.5, Atlanta,81,187.0,Atlanta Hawks
+1008,102,2013-01-07,7.5, New York,96,191.5,New York Knicks
+1009,87,2013-01-09,-9.0, Phoenix,79,192.0,Phoenix Suns
+1010,103,2013-01-11,-3.0, Houston,91,201.0,Houston Rockets
+1011,100,2013-01-14,-10.5, Charlotte,89,192.5,Charlotte Hornets
+1012,90,2013-01-16,-8.5, New Orleans,78,182.5,New Orleans Pelicans
+1013,100,2013-01-18,-2.0, Chicago,99,181.5,Chicago Bulls
+1014,103,2013-01-20,-2.0, Detroit,88,184.0,Detroit Pistons
+1015,95,2013-01-22,-5.0, Cleveland,90,190.5,Cleveland Cavaliers
+1016,89,2013-01-24,1.5, New York,86,189.0,New York Knicks
+1017,123,2013-01-25,5.5, Atlanta,111,184.0,Atlanta Hawks
+1018,100,2013-01-27,3.5, Miami,98,188.5,Miami Heat
+1019,99,2013-01-30,-7.5, Sacramento,81,194.0,Sacramento Kings
+1020,97,2013-02-01,-8.0, Orlando,84,191.0,Orlando Magic
+1021,106,2013-02-03,1.0, LA Clippers,104,183.0,Los Angeles Clippers
+1022,99,2013-02-06,4.0, Toronto,95,192.0,Toronto Raptors
+1023,116,2013-02-07,-1.5, LA Lakers,95,194.0,Los Angeles Lakers
+1024,118,2013-02-10,-2.0, Denver,114,206.0,Denver Nuggets
+1025,94,2013-02-11,-4.5, Charlotte,91,191.0,Charlotte Hornets
+1026,71,2013-02-13,-2.5, Chicago,69,181.5,Chicago Bulls
+1027,97,2013-02-19,9.0, Denver,90,204.0,Denver Nuggets
+1028,113,2013-02-20,7.5, LA Lakers,99,193.5,Los Angeles Lakers
+1029,113,2013-02-22,-1.0, Phoenix,88,189.5,Phoenix Suns
+1030,92,2013-02-24,2.0, Portland,86,192.5,Portland Trail Blazers
+1031,110,2013-02-25,7.5, Utah,107,189.0,Utah Jazz
+1032,94,2013-03-01,-4.0, Golden State,86,197.0,Golden State Warriors
+1033,109,2013-03-05,-2.5, Philadelphia,101,183.0,Philadelphia 76ers
+1034,83,2013-03-06,9.0, Indiana,81,184.5,Indiana Pacers
+1035,107,2013-03-08,-4.5, Atlanta,102,188.5,Atlanta Hawks
+1036,91,2013-03-10,11.0, Oklahoma City,79,199.0,Oklahoma City Thunder
+1037,100,2013-03-12,-10.0, Charlotte,74,187.0,Charlotte Hornets
+1038,112,2013-03-13,-5.0, Toronto,88,189.5,Toronto Raptors
+1039,105,2013-03-16,-15.0, Charlotte,88,188.5,Charlotte Hornets
+1040,105,2013-03-18,5.5, Miami,103,191.5,Miami Heat
+1041,87,2013-03-20,-4.5, New Orleans,86,186.5,New Orleans Pelicans
+1042,104,2013-03-22,4.5, Dallas,94,195.0,Dallas Mavericks
+1043,110,2013-03-23,7.0, Memphis,106,177.5,Memphis Grizzlies
+1044,100,2013-03-26,-2.5, New York,85,194.0,New York Knicks
+1045,93,2013-03-27,-2.5, Cleveland,92,197.0,Cleveland Cavaliers
+1046,118,2013-03-29,-2.5, Atlanta,107,193.5,Atlanta Hawks
+1047,108,2013-03-31,6.5, New York,89,197.5,New York Knicks
+1048,110,2013-04-01,5.5, Minnesota,100,192.5,Minnesota Timberwolves
+1049,98,2013-04-03,-7.0, Detroit,93,197.0,Detroit Pistons
+1050,97,2013-04-05,-5.0, Cleveland,91,199.0,Cleveland Cavaliers
+1051,107,2013-04-07,-7.0, Washington,96,188.5,Washington Wizards
+1052,101,2013-04-10,-3.0, Brooklyn,93,190.5,Brooklyn Nets
+1053,109,2013-04-12,11.5, Miami,101,196.0,Miami Heat
+1054,120,2013-04-13,-4.5, Orlando,88,194.0,Orlando Magic
+1055,114,2013-04-17,6.0, Toronto,90,195.0,Toronto Raptors
+1056,85,2013-04-20,7.5, New York,78,189.0,New York Knicks
+1057,87,2013-04-23,6.5, New York,71,186.5,New York Knicks
+1058,90,2013-04-26,-2.5, New York,76,184.0,New York Knicks
+1059,97,2013-04-28,1.5, New York,90,181.5,New York Knicks
+1060,92,2013-05-01,9.5, New York,86,182.5,New York Knicks
+1061,88,2013-05-03,2.5, New York,80,180.5,New York Knicks
+1062,120,2012-10-30,-6.0, Boston,107,187.5,Boston Celtics
+1063,104,2012-11-02,-6.0, New York,84,198.5,New York Knicks
+1064,119,2012-11-03,-8.5, Denver,116,199.5,Denver Nuggets
+1065,124,2012-11-05,-13.0, Phoenix,99,202.5,Phoenix Suns
+1066,103,2012-11-07,-10.0, Brooklyn,73,207.5,Brooklyn Nets
+1067,95,2012-11-09,-4.0, Atlanta,89,197.5,Atlanta Hawks
+1068,104,2012-11-11,-1.5, Memphis,86,194.5,Memphis Grizzlies
+1069,113,2012-11-12,-6.0, Houston,110,194.5,Houston Rockets
+1070,107,2012-11-14,-1.0, LA Clippers,100,197.0,Los Angeles Clippers
+1071,98,2012-11-15,3.5, Denver,93,202.5,Denver Nuggets
+1072,97,2012-11-17,-6.5, Phoenix,88,202.0,Phoenix Suns
+1073,113,2012-11-21,-9.5, Milwaukee,106,203.0,Milwaukee Bucks
+1074,110,2012-11-24,-15.0, Cleveland,108,197.5,Cleveland Cavaliers
+1075,105,2012-11-29,-13.0, San Antonio,100,201.5,San Antonio Spurs
+1076,102,2012-12-01,-8.0, Brooklyn,89,192.5,Brooklyn Nets
+1077,105,2012-12-04,-10.0, Washington,101,194.5,Washington Wizards
+1078,112,2012-12-06,-9.5, New York,92,199.0,New York Knicks
+1079,106,2012-12-08,-14.5, New Orleans,90,193.0,New Orleans Pelicans
+1080,101,2012-12-10,-6.5, Atlanta,92,198.0,Atlanta Hawks
+1081,97,2012-12-12,-8.5, Golden State,95,206.0,Golden State Warriors
+1082,102,2012-12-15,-15.5, Washington,72,196.0,Washington Wizards
+1083,103,2012-12-18,-8.5, Minnesota,92,200.0,Minnesota Timberwolves
+1084,110,2012-12-20,-5.5, Dallas,95,202.5,Dallas Mavericks
+1085,105,2012-12-22,-7.5, Utah,89,198.5,Utah Jazz
+1086,103,2012-12-25,-2.5, Oklahoma City,97,203.5,Oklahoma City Thunder
+1087,105,2012-12-26,-9.0, Charlotte,92,201.0,Charlotte Hornets
+1088,109,2012-12-28,-6.0, Detroit,99,188.5,Detroit Pistons
+1089,104,2012-12-29,-4.5, Milwaukee,85,199.5,Milwaukee Bucks
+1090,112,2012-12-31,-9.5, Orlando,110,194.5,Orlando Magic
+1091,119,2013-01-02,-10.5, Dallas,109,204.5,Dallas Mavericks
+1092,96,2013-01-04,-7.5, Chicago,89,189.5,Chicago Bulls
+1093,99,2013-01-06,-14.0, Washington,71,191.5,Washington Wizards
+1094,87,2013-01-08,-1.5, Indiana,77,187.0,Indiana Pacers
+1095,92,2013-01-10,-3.5, Portland,90,195.0,Portland Trail Blazers
+1096,128,2013-01-12,-7.5, Sacramento,99,203.5,Sacramento Kings
+1097,104,2013-01-14,-2.5, Utah,97,198.0,Utah Jazz
+1098,92,2013-01-16,-4.5, Golden State,75,200.5,Golden State Warriors
+1099,99,2013-01-17,2.5, LA Lakers,90,207.0,Los Angeles Lakers
+1100,123,2013-01-23,-10.0, Toronto,116,194.5,Toronto Raptors
+1101,110,2013-01-25,-9.5, Detroit,88,192.5,Detroit Pistons
+1102,100,2013-01-27,-3.5, Boston,98,188.5,Boston Celtics
+1103,105,2013-01-30,-2.5, Brooklyn,85,191.5,Brooklyn Nets
+1104,102,2013-02-01,-2.0, Indiana,89,184.5,Indiana Pacers
+1105,100,2013-02-03,-5.0, Toronto,85,194.5,Toronto Raptors
+1106,99,2013-02-04,-14.0, Charlotte,94,198.0,Charlotte Hornets
+1107,114,2013-02-06,-7.5, Houston,108,206.5,Houston Rockets
+1108,111,2013-02-08,-3.5, LA Clippers,89,193.0,Los Angeles Clippers
+1109,107,2013-02-10,-9.0, LA Lakers,97,203.5,Los Angeles Lakers
+1110,117,2013-02-12,-11.0, Portland,104,198.5,Portland Trail Blazers
+1111,110,2013-02-14,5.5, Oklahoma City,100,205.0,Oklahoma City Thunder
+1112,103,2013-02-20,-5.5, Atlanta,90,196.0,Atlanta Hawks
+1113,86,2013-02-21,-3.5, Chicago,67,186.0,Chicago Bulls
+1114,114,2013-02-23,-8.5, Philadelphia,90,185.0,Philadelphia 76ers
+1115,109,2013-02-24,-12.0, Cleveland,105,205.5,Cleveland Cavaliers
+1116,141,2013-02-26,-15.0, Sacramento,129,209.0,Sacramento Kings
+1117,98,2013-03-01,-7.5, Memphis,91,187.5,Memphis Grizzlies
+1118,99,2013-03-03,-4.5, New York,93,196.5,New York Knicks
+1119,97,2013-03-04,-9.5, Minnesota,81,196.0,Minnesota Timberwolves
+1120,97,2013-03-06,-15.5, Orlando,96,203.5,Orlando Magic
+1121,102,2013-03-08,-13.0, Philadelphia,93,194.5,Philadelphia 76ers
+1122,105,2013-03-10,-6.5, Indiana,91,187.5,Indiana Pacers
+1123,98,2013-03-12,-9.5, Atlanta,81,197.0,Atlanta Hawks
+1124,98,2013-03-13,-8.0, Philadelphia,94,193.5,Philadelphia 76ers
+1125,107,2013-03-15,-6.0, Milwaukee,94,202.0,Milwaukee Bucks
+1126,108,2013-03-17,-7.0, Toronto,91,194.5,Toronto Raptors
+1127,105,2013-03-18,-5.5, Boston,103,191.5,Boston Celtics
+1128,98,2013-03-20,-11.5, Cleveland,95,198.0,Cleveland Cavaliers
+1129,103,2013-03-22,-16.0, Detroit,89,198.5,Detroit Pistons
+1130,109,2013-03-24,-16.0, Charlotte,77,197.5,Charlotte Hornets
+1131,108,2013-03-25,-12.0, Orlando,94,198.0,Orlando Magic
+1132,101,2013-03-27,-6.5, Chicago,97,186.0,Chicago Bulls
+1133,108,2013-03-29,-7.5, New Orleans,89,189.0,New Orleans Pelicans
+1134,88,2013-03-31,9.0, San Antonio,86,194.5,San Antonio Spurs
+1135,102,2013-04-02,3.0, New York,90,191.5,New York Knicks
+1136,89,2013-04-05,-3.5, Charlotte,79,191.5,Charlotte Hornets
+1137,106,2013-04-06,-7.0, Philadelphia,87,188.5,Philadelphia 76ers
+1138,94,2013-04-09,-6.5, Milwaukee,83,197.5,Milwaukee Bucks
+1139,103,2013-04-10,4.0, Washington,98,188.0,Washington Wizards
+1140,109,2013-04-12,-11.5, Boston,101,196.0,Boston Celtics
+1141,105,2013-04-14,-10.0, Chicago,93,190.0,Chicago Bulls
+1142,96,2013-04-15,2.0, Cleveland,95,192.0,Cleveland Cavaliers
+1143,105,2013-04-17,-7.0, Orlando,93,193.0,Orlando Magic
+1144,110,2013-04-21,-13.5, Milwaukee,87,197.5,Milwaukee Bucks
+1145,98,2013-04-23,-14.0, Milwaukee,86,197.0,Milwaukee Bucks
+1146,104,2013-04-25,-7.0, Milwaukee,91,195.0,Milwaukee Bucks
+1147,88,2013-04-28,-8.5, Milwaukee,77,195.0,Milwaukee Bucks
+1148,93,2013-05-06,-13.0, Chicago,86,188.0,Chicago Bulls
+1149,115,2013-05-08,-13.0, Chicago,78,186.0,Chicago Bulls
+1150,104,2013-05-10,-8.5, Chicago,94,186.0,Chicago Bulls
+1151,88,2013-05-13,-8.0, Chicago,65,185.0,Chicago Bulls
+1152,94,2013-05-15,-14.0, Chicago,91,181.5,Chicago Bulls
+1153,103,2013-05-22,-8.5, Indiana,102,181.5,Indiana Pacers
+1154,97,2013-05-24,-7.5, Indiana,93,182.5,Indiana Pacers
+1155,114,2013-05-26,-2.0, Indiana,96,182.0,Indiana Pacers
+1156,99,2013-05-28,-3.0, Indiana,92,185.0,Indiana Pacers
+1157,90,2013-05-30,-7.5, Indiana,79,185.5,Indiana Pacers
+1158,91,2013-06-01,-3.0, Indiana,77,183.5,Indiana Pacers
+1159,99,2013-06-03,-7.0, Indiana,76,180.5,Indiana Pacers
+1160,92,2013-06-06,-5.0, San Antonio,88,190.0,San Antonio Spurs
+1161,103,2013-06-09,-6.0, San Antonio,84,189.5,San Antonio Spurs
+1162,113,2013-06-11,2.0, San Antonio,77,188.0,San Antonio Spurs
+1163,109,2013-06-13,-1.0, San Antonio,93,186.5,San Antonio Spurs
+1164,114,2013-06-16,-1.0, San Antonio,104,189.0,San Antonio Spurs
+1165,103,2013-06-18,-6.5, San Antonio,100,191.5,San Antonio Spurs
+1166,95,2013-06-20,-5.5, San Antonio,88,187.5,San Antonio Spurs
+1167,113,2012-10-31,-8.0, Dallas,94,194.5,Dallas Mavericks
+1168,88,2012-11-02,-3.5, New Orleans,86,191.0,New Orleans Pelicans
+1169,110,2012-11-03,7.5, San Antonio,100,201.5,San Antonio Spurs
+1170,103,2012-11-05,5.5, Memphis,94,195.5,Memphis Grizzlies
+1171,95,2012-11-07,-3.0, LA Lakers,86,198.0,Los Angeles Lakers
+1172,104,2012-11-09,5.5, Denver,84,203.0,Denver Nuggets
+1173,94,2012-11-10,-8.5, Phoenix,81,203.5,Phoenix Suns
+1174,140,2012-11-12,-3.0, Toronto,133,192.5,Toronto Raptors
+1175,98,2012-11-14,5.0, Boston,93,191.0,Boston Celtics
+1176,99,2012-11-16,1.5, Philadelphia,93,186.5,Philadelphia 76ers
+1177,83,2012-11-17,-3.5, Washington,76,188.5,Washington Wizards
+1178,102,2012-11-19,-6.0, Houston,91,197.0,Houston Rockets
+1179,104,2012-11-23,-9.0, Sacramento,102,194.5,Sacramento Kings
+1180,108,2012-11-24,-1.0, Sacramento,97,196.0,Sacramento Kings
+1181,105,2012-11-26,-3.0, Denver,103,197.5,Denver Nuggets
+1182,96,2012-11-28,-3.0, New Orleans,84,190.0,New Orleans Pelicans
+1183,106,2012-11-30,9.5, Oklahoma City,94,201.5,Oklahoma City Thunder
+1184,124,2012-12-01,6.5, Houston,116,206.5,Houston Rockets
+1185,105,2012-12-03,2.0, LA Clippers,104,197.0,Los Angeles Clippers
+1186,87,2012-12-05,-8.0, Orlando,81,196.5,Orlando Magic
+1187,131,2012-12-07,-6.5, Toronto,99,198.0,Toronto Raptors
+1188,117,2012-12-09,7.5, LA Lakers,110,207.5,Los Angeles Lakers
+1189,99,2012-12-12,4.0, San Antonio,96,209.5,San Antonio Spurs
+1190,99,2012-12-14,-1.5, Phoenix,84,201.0,Phoenix Suns
+1191,99,2012-12-15,-2.0, Memphis,86,188.0,Memphis Grizzlies
+1192,92,2012-12-18,4.5, Brooklyn,90,194.0,Brooklyn Nets
+1193,104,2012-12-19,3.5, Indiana,84,186.0,Indiana Pacers
+1194,105,2012-12-22,7.5, Miami,89,198.5,Miami Heat
+1195,97,2012-12-23,1.0, Orlando,93,187.5,Orlando Magic
+1196,94,2012-12-26,-4.0, Golden State,83,203.0,Golden State Warriors
+1197,116,2012-12-28,3.0, LA Clippers,114,191.0,Los Angeles Clippers
+1198,107,2012-12-30,10.5, LA Clippers,96,198.0,Los Angeles Clippers
+1199,106,2013-01-02,-3.0, Minnesota,84,196.0,Minnesota Timberwolves
+1200,87,2013-01-04,1.5, Phoenix,80,198.5,Phoenix Suns
+1201,110,2013-01-05,10.5, Denver,91,201.5,Denver Nuggets
+1202,100,2013-01-07,-5.0, Dallas,94,198.5,Dallas Mavericks
+1203,112,2013-01-09,-4.5, Charlotte,102,199.0,Charlotte Hornets
+1204,103,2013-01-11,5.0, Atlanta,95,193.5,Atlanta Hawks
+1205,90,2013-01-12,2.5, Detroit,87,192.5,Detroit Pistons
+1206,104,2013-01-14,2.5, Miami,97,198.0,Miami Heat
+1207,109,2013-01-19,-8.5, Cleveland,98,199.0,Cleveland Cavaliers
+1208,92,2013-01-23,-7.0, Washington,88,194.5,Washington Wizards
+1209,102,2013-01-25,5.0, LA Lakers,84,205.0,Los Angeles Lakers
+1210,114,2013-01-26,-2.0, Indiana,110,183.0,Indiana Pacers
+1211,125,2013-01-28,-3.5, Houston,80,207.5,Houston Rockets
+1212,104,2013-01-30,-8.5, New Orleans,99,188.5,New Orleans Pelicans
+1213,86,2013-02-01,-5.0, Portland,77,195.0,Portland Trail Blazers
+1214,105,2013-02-02,4.5, Portland,99,191.5,Portland Trail Blazers
+1215,98,2013-02-04,-8.5, Sacramento,91,198.5,Sacramento Kings
+1216,100,2013-02-06,-5.5, Milwaukee,86,200.0,Milwaukee Bucks
+1217,93,2013-02-08,-4.5, Chicago,89,184.0,Chicago Bulls
+1218,120,2013-02-09,1.5, Sacramento,109,196.0,Sacramento Kings
+1219,109,2013-02-12,6.0, Oklahoma City,94,201.0,Oklahoma City Thunder
+1220,97,2013-02-13,2.0, Minnesota,93,193.0,Minnesota Timberwolves
+1221,115,2013-02-19,-3.5, Golden State,101,203.5,Golden State Warriors
+1222,107,2013-02-23,10.0, LA Clippers,94,198.0,Los Angeles Clippers
+1223,110,2013-02-25,-7.5, Boston,107,189.0,Boston Celtics
+1224,102,2013-02-27,-3.5, Atlanta,91,197.0,Atlanta Hawks
+1225,98,2013-03-01,-9.0, Charlotte,68,193.5,Charlotte Hornets
+1226,109,2013-03-04,4.5, Milwaukee,108,200.5,Milwaukee Bucks
+1227,104,2013-03-06,1.5, Cleveland,101,201.5,Cleveland Cavaliers
+1228,89,2013-03-08,4.0, Chicago,88,185.0,Chicago Bulls
+1229,113,2013-03-09,6.0, New York,84,191.5,New York Knicks
+1230,103,2013-03-11,-11.0, Detroit,90,195.5,Detroit Pistons
+1231,110,2013-03-13,13.5, Oklahoma City,87,204.5,Oklahoma City Thunder
+1232,90,2013-03-16,-3.0, Memphis,84,184.0,Memphis Grizzlies
+1233,90,2013-03-18,-10.5, New York,83,188.0,New York Knicks
+1234,100,2013-03-20,7.5, Houston,93,209.5,Houston Rockets
+1235,104,2013-03-22,11.5, San Antonio,97,199.0,San Antonio Spurs
+1236,113,2013-03-24,6.0, Dallas,108,199.0,Dallas Mavericks
+1237,107,2013-03-25,-7.5, Philadelphia,91,191.0,Philadelphia 76ers
+1238,103,2013-03-27,-13.5, Phoenix,88,194.5,Phoenix Suns
+1239,105,2013-03-29,1.5, Portland,95,197.5,Portland Trail Blazers
+1240,116,2013-03-30,-4.0, Brooklyn,107,191.5,Brooklyn Nets
+1241,112,2013-04-01,-10.5, Portland,102,200.0,Portland Trail Blazers
+1242,113,2013-04-03,-3.0, Denver,96,205.0,Denver Nuggets
+1243,95,2013-04-05,-8.0, New Orleans,83,193.5,New Orleans Pelicans
+1244,97,2013-04-07,5.0, Golden State,90,200.5,Golden State Warriors
+1245,90,2013-04-09,3.5, Oklahoma City,80,199.5,Oklahoma City Thunder
+1246,107,2013-04-12,-9.5, Minnesota,100,196.5,Minnesota Timberwolves
+1247,96,2013-04-15,-4.5, Minnesota,80,195.5,Minnesota Timberwolves
+1248,86,2013-04-17,4.5, Memphis,70,178.5,Memphis Grizzlies
+1249,102,2012-11-02,6.0, Denver,89,198.0,Denver Nuggets
+1250,115,2012-11-04,-1.0, Phoenix,94,193.5,Phoenix Suns
+1251,99,2012-11-06,9.0, Chicago,93,187.0,Chicago Bulls
+1252,90,2012-11-07,6.0, Minnesota,75,194.0,Minnesota Timberwolves
+1253,107,2012-11-09,3.0, Brooklyn,68,195.0,Brooklyn Nets
+1254,82,2012-11-11,8.5, Brooklyn,74,188.5,Brooklyn Nets
+1255,99,2012-11-13,7.0, New York,89,188.0,New York Knicks
+1256,110,2012-11-16,5.0, Detroit,106,187.5,Detroit Pistons
+1257,97,2012-11-18,4.0, Toronto,86,187.0,Toronto Raptors
+1258,81,2012-11-19,10.0, Atlanta,72,186.0,Atlanta Hawks
+1259,90,2012-11-21,-1.0, Detroit,74,189.0,Detroit Pistons
+1260,108,2012-11-23,-4.5, Cleveland,104,185.0,Cleveland Cavaliers
+1261,116,2012-11-25,5.0, Boston,110,189.0,Boston Celtics
+1262,110,2012-11-28,7.5, San Antonio,89,196.5,San Antonio Spurs
+1263,98,2012-11-30,5.0, Brooklyn,86,184.5,Brooklyn Nets
+1264,113,2012-12-02,13.5, LA Lakers,103,197.0,Los Angeles Lakers
+1265,102,2012-12-03,9.5, Golden State,94,196.5,Golden State Warriors
+1266,87,2012-12-05,8.0, Utah,81,196.5,Utah Jazz
+1267,91,2012-12-07,3.0, Sacramento,82,194.5,Sacramento Kings
+1268,98,2012-12-09,4.5, Phoenix,90,198.0,Phoenix Suns
+1269,86,2012-12-12,5.0, Atlanta,80,189.5,Atlanta Hawks
+1270,99,2012-12-14,4.0, Golden State,85,193.5,Golden State Warriors
+1271,107,2012-12-15,1.5, Charlotte,98,193.0,Charlotte Hornets
+1272,102,2012-12-17,3.5, Minnesota,93,193.0,Minnesota Timberwolves
+1273,90,2012-12-19,-7.5, Washington,83,184.5,Washington Wizards
+1274,93,2012-12-21,3.5, Toronto,90,187.0,Toronto Raptors
+1275,97,2012-12-23,-1.0, Utah,93,187.5,Utah Jazz
+1276,97,2012-12-26,-3.0, New Orleans,94,182.0,New Orleans Pelicans
+1277,105,2012-12-28,-1.5, Washington,97,182.5,Washington Wizards
+1278,123,2012-12-29,-3.0, Toronto,88,187.0,Toronto Raptors
+1279,112,2012-12-31,9.5, Miami,110,194.5,Miami Heat
+1280,96,2013-01-02,2.5, Chicago,94,184.0,Chicago Bulls
+1281,114,2013-01-05,6.0, New York,106,195.5,New York Knicks
+1282,125,2013-01-07,7.0, Portland,119,193.0,Portland Trail Blazers
+1283,108,2013-01-09,11.5, Denver,105,204.0,Denver Nuggets
+1284,104,2013-01-12,12.5, LA Clippers,101,198.5,Los Angeles Clippers
+1285,120,2013-01-14,1.5, Washington,91,191.5,Washington Wizards
+1286,97,2013-01-16,2.0, Indiana,86,186.5,Indiana Pacers
+1287,106,2013-01-18,-6.5, Charlotte,100,197.0,Charlotte Hornets
+1288,111,2013-01-20,3.0, Dallas,105,201.5,Dallas Mavericks
+1289,105,2013-01-22,4.5, Detroit,90,194.5,Detroit Pistons
+1290,97,2013-01-24,-4.0, Toronto,95,198.5,Toronto Raptors
+1291,104,2013-01-27,-2.5, Detroit,102,195.0,Detroit Pistons
+1292,97,2013-01-28,9.5, Brooklyn,77,195.5,Brooklyn Nets
+1293,113,2013-01-30,8.5, New York,97,196.0,New York Knicks
+1294,97,2013-02-01,8.0, Boston,84,191.0,Boston Celtics
+1295,107,2013-02-02,10.0, Milwaukee,98,201.0,Milwaukee Bucks
+1296,78,2013-02-04,10.0, Philadelphia,61,188.5,Philadelphia 76ers
+1297,86,2013-02-06,5.0, LA Clippers,76,184.0,Los Angeles Clippers
+1298,119,2013-02-08,7.0, Cleveland,108,200.0,Cleveland Cavaliers
+1299,110,2013-02-10,2.5, Portland,104,197.0,Portland Trail Blazers
+1300,108,2013-02-13,2.5, Atlanta,76,200.0,Atlanta Hawks
+1301,105,2013-02-19,-5.0, Charlotte,92,198.5,Charlotte Hornets
+1302,111,2013-02-20,11.5, Dallas,96,206.0,Dallas Mavericks
+1303,88,2013-02-22,14.0, Memphis,82,186.5,Memphis Grizzlies
+1304,118,2013-02-23,5.0, Cleveland,94,199.5,Cleveland Cavaliers
+1305,98,2013-02-26,8.5, Philadelphia,84,185.5,Philadelphia 76ers
+1306,125,2013-02-27,-2.0, Sacramento,101,206.0,Sacramento Kings
+1307,118,2013-03-01,9.0, Houston,110,213.0,Houston Rockets
+1308,108,2013-03-03,9.0, Memphis,82,184.0,Memphis Grizzlies
+1309,105,2013-03-04,9.0, New Orleans,102,194.5,New Orleans Pelicans
+1310,97,2013-03-06,15.5, Miami,96,203.5,Miami Heat
+1311,115,2013-03-08,9.5, Indiana,86,189.5,Indiana Pacers
+1312,99,2013-03-10,1.0, Philadelphia,91,194.0,Philadelphia 76ers
+1313,106,2013-03-12,8.5, LA Lakers,97,208.0,Los Angeles Lakers
+1314,117,2013-03-15,17.5, Oklahoma City,104,208.0,Oklahoma City Thunder
+1315,115,2013-03-17,9.0, Milwaukee,109,208.5,Milwaukee Bucks
+1316,95,2013-03-19,11.0, Indiana,73,195.0,Indiana Pacers
+1317,106,2013-03-20,10.5, New York,94,198.0,New York Knicks
+1318,97,2013-03-22,14.0, Oklahoma City,89,207.5,Oklahoma City Thunder
+1319,108,2013-03-25,12.0, Miami,94,198.0,Miami Heat
+1320,114,2013-03-27,3.0, Charlotte,108,201.0,Charlotte Hornets
+1321,97,2013-03-29,4.0, Washington,92,197.5,Washington Wizards
+1322,97,2013-03-30,10.0, Atlanta,88,203.0,Atlanta Hawks
+1323,111,2013-04-01,11.5, Houston,103,201.0,Houston Rockets
+1324,98,2013-04-03,12.5, San Antonio,84,198.0,San Antonio Spurs
+1325,87,2013-04-05,8.0, Chicago,86,191.5,Chicago Bulls
+1326,91,2013-04-07,5.5, Cleveland,85,202.5,Cleveland Cavaliers
+1327,113,2013-04-10,5.0, Milwaukee,103,202.0,Milwaukee Bucks
+1328,120,2013-04-13,4.5, Boston,88,194.0,Boston Celtics
+1329,102,2013-04-15,5.5, Chicago,84,191.0,Chicago Bulls
+1330,105,2013-04-17,7.0, Miami,93,193.0,Miami Heat
+1331,116,2012-10-31,2.0, LA Lakers,106,192.5,Los Angeles Lakers
+1332,106,2012-11-02,8.5, Oklahoma City,92,204.5,Oklahoma City Thunder
+1333,95,2012-11-03,5.5, Houston,85,206.0,Houston Rockets
+1334,114,2012-11-05,4.0, Dallas,91,198.5,Dallas Mavericks
+1335,103,2012-11-08,1.0, LA Clippers,90,202.0,Los Angeles Clippers
+1336,112,2012-11-10,2.5, San Antonio,109,197.0,San Antonio Spurs
+1337,95,2012-11-12,-2.5, Atlanta,87,193.5,Atlanta Hawks
+1338,103,2012-11-13,2.5, Sacramento,86,197.5,Sacramento Kings
+1339,119,2012-11-16,-2.0, Houston,117,198.0,Houston Rockets
+1340,102,2012-11-18,-2.0, Chicago,94,191.0,Chicago Bulls
+1341,114,2012-11-21,2.0, Phoenix,87,201.5,Phoenix Suns
+1342,103,2012-11-23,-2.0, Minnesota,95,197.5,Minnesota Timberwolves
+1343,98,2012-11-25,7.5, Brooklyn,85,193.5,Brooklyn Nets
+1344,108,2012-11-26,-1.0, Detroit,101,193.0,Detroit Pistons
+1345,84,2012-11-28,-3.0, Washington,82,193.5,Washington Wizards
+1346,96,2012-11-30,4.5, Boston,78,192.5,Boston Celtics
+1347,118,2012-12-01,1.5, Cleveland,117,193.0,Cleveland Cavaliers
+1348,118,2012-12-03,1.5, Charlotte,112,191.5,Charlotte Hornets
+1349,99,2012-12-05,4.0, Indiana,92,186.5,Indiana Pacers
+1350,99,2012-12-08,-7.0, Sacramento,80,197.5,Sacramento Kings
+1351,92,2012-12-10,-2.5, Toronto,74,194.0,Toronto Raptors
+1352,98,2012-12-13,7.0, San Antonio,90,200.5,San Antonio Spurs
+1353,95,2012-12-16,-5.0, New Orleans,94,185.5,New Orleans Pelicans
+1354,101,2012-12-20,6.0, Denver,93,200.5,Denver Nuggets
+1355,96,2012-12-22,-4.5, Phoenix,93,195.5,Phoenix Suns
+1356,108,2012-12-23,1.0, Sacramento,96,195.5,Sacramento Kings
+1357,109,2012-12-26,-7.5, Sacramento,91,199.0,Sacramento Kings
+1358,104,2012-12-28,9.5, LA Lakers,87,205.5,Los Angeles Lakers
+1359,89,2012-12-29,-3.5, Philadelphia,85,190.0,Philadelphia 76ers
+1360,105,2013-01-01,9.5, New York,100,196.5,New York Knicks
+1361,102,2013-01-02,4.0, Toronto,79,191.5,Toronto Raptors
+1362,86,2013-01-04,8.0, Memphis,84,182.0,Memphis Grizzlies
+1363,102,2013-01-05,6.5, Minnesota,97,190.5,Minnesota Timberwolves
+1364,125,2013-01-07,-7.0, Orlando,119,193.0,Orlando Magic
+1365,92,2013-01-10,3.5, Miami,90,195.0,Miami Heat
+1366,103,2013-01-11,8.0, Golden State,97,199.5,Golden State Warriors
+1367,87,2013-01-13,4.0, Oklahoma City,83,202.0,Oklahoma City Thunder
+1368,115,2013-01-15,9.0, Denver,111,202.0,Denver Nuggets
+1369,93,2013-01-16,-6.0, Cleveland,88,197.5,Cleveland Cavaliers
+1370,110,2013-01-19,-4.5, Milwaukee,104,196.0,Milwaukee Bucks
+1371,98,2013-01-21,-7.0, Washington,95,195.5,Washington Wizards
+1372,100,2013-01-23,-1.0, Indiana,80,181.5,Indiana Pacers
+1373,101,2013-01-26,1.0, LA Clippers,100,190.5,Los Angeles Clippers
+1374,96,2013-01-27,10.0, LA Clippers,83,192.5,Los Angeles Clippers
+1375,106,2013-01-29,-3.0, Dallas,104,201.5,Dallas Mavericks
+1376,86,2013-02-01,5.0, Utah,77,195.0,Utah Jazz
+1377,105,2013-02-02,-4.5, Utah,99,191.5,Utah Jazz
+1378,100,2013-02-04,4.0, Minnesota,98,192.5,Minnesota Timberwolves
+1379,105,2013-02-06,5.5, Dallas,99,201.0,Dallas Mavericks
+1380,118,2013-02-08,7.5, Houston,103,210.5,Houston Rockets
+1381,110,2013-02-10,-2.5, Orlando,104,197.0,Orlando Magic
+1382,117,2013-02-12,11.0, Miami,104,198.5,Miami Heat
+1383,99,2013-02-13,4.5, New Orleans,63,193.0,New Orleans Pelicans
+1384,102,2013-02-19,-6.5, Phoenix,98,192.5,Phoenix Suns
+1385,111,2013-02-22,9.0, LA Lakers,107,203.5,Los Angeles Lakers
+1386,92,2013-02-24,-2.0, Boston,86,192.5,Boston Celtics
+1387,111,2013-02-27,2.5, Denver,109,212.0,Denver Nuggets
+1388,109,2013-03-02,-8.0, Minnesota,94,197.5,Minnesota Timberwolves
+1389,122,2013-03-04,-13.0, Charlotte,105,197.0,Charlotte Hornets
+1390,91,2013-03-06,7.5, Memphis,85,186.5,Memphis Grizzlies
+1391,136,2013-03-08,11.5, San Antonio,106,202.0,San Antonio Spurs
+1392,98,2013-03-10,-4.0, New Orleans,96,196.0,New Orleans Pelicans
+1393,102,2013-03-12,1.5, Memphis,97,186.5,Memphis Grizzlies
+1394,105,2013-03-14,-7.0, New York,90,193.5,New York Knicks
+1395,112,2013-03-16,-10.5, Detroit,101,199.5,Detroit Pistons
+1396,101,2013-03-18,1.0, Philadelphia,100,194.5,Philadelphia 76ers
+1397,102,2013-03-19,5.5, Milwaukee,95,207.5,Milwaukee Bucks
+1398,99,2013-03-21,6.5, Chicago,89,188.5,Chicago Bulls
+1399,104,2013-03-22,7.5, Atlanta,93,201.5,Atlanta Hawks
+1400,103,2013-03-24,11.0, Oklahoma City,83,207.0,Oklahoma City Thunder
+1401,111,2013-03-27,-3.5, Brooklyn,93,196.0,Brooklyn Nets
+1402,105,2013-03-29,-1.5, Utah,95,197.5,Utah Jazz
+1403,125,2013-03-30,9.5, Golden State,98,200.5,Golden State Warriors
+1404,112,2013-04-01,10.5, Utah,102,200.0,Utah Jazz
+1405,94,2013-04-03,7.5, Memphis,76,188.5,Memphis Grizzlies
+1406,116,2013-04-05,5.0, Houston,98,210.0,Houston Rockets
+1407,96,2013-04-07,4.0, Dallas,91,206.5,Dallas Mavericks
+1408,113,2013-04-10,6.5, LA Lakers,106,202.0,Los Angeles Lakers
+1409,106,2013-04-12,9.5, Oklahoma City,90,206.0,Oklahoma City Thunder
+1410,118,2013-04-14,15.0, Denver,109,208.5,Denver Nuggets
+1411,93,2013-04-16,16.0, LA Clippers,77,205.0,Los Angeles Clippers
+1412,99,2013-04-17,8.5, Golden State,88,207.0,Golden State Warriors
+1413,87,2012-10-31,-2.0, Golden State,85,202.0,Golden State Warriors
+1414,92,2012-11-02,-4.5, Detroit,89,195.0,Detroit Pistons
+1415,115,2012-11-04,1.0, Orlando,94,193.5,Orlando Magic
+1416,124,2012-11-05,13.0, Miami,99,202.5,Miami Heat
+1417,117,2012-11-07,-3.0, Charlotte,110,193.5,Charlotte Hornets
+1418,107,2012-11-09,-3.0, Cleveland,105,201.0,Cleveland Cavaliers
+1419,94,2012-11-10,8.5, Utah,81,203.5,Utah Jazz
+1420,110,2012-11-12,4.5, Denver,100,203.0,Denver Nuggets
+1421,112,2012-11-14,3.0, Chicago,106,191.0,Chicago Bulls
+1422,114,2012-11-16,9.5, LA Lakers,102,201.5,Los Angeles Lakers
+1423,97,2012-11-17,6.5, Miami,88,202.0,Miami Heat
+1424,114,2012-11-21,-2.0, Portland,87,201.5,Portland Trail Blazers
+1425,111,2012-11-23,-5.5, New Orleans,108,195.0,New Orleans Pelicans
+1426,104,2012-11-25,4.0, Philadelphia,101,194.5,Philadelphia 76ers
+1427,91,2012-11-27,-3.5, Cleveland,78,201.0,Cleveland Cavaliers
+1428,117,2012-11-28,3.0, Detroit,77,198.0,Detroit Pistons
+1429,101,2012-11-30,3.0, Toronto,97,200.0,Toronto Raptors
+1430,106,2012-12-02,11.5, New York,99,200.0,New York Knicks
+1431,108,2012-12-04,10.0, Memphis,98,196.0,Memphis Grizzlies
+1432,97,2012-12-06,-4.0, Dallas,94,205.0,Dallas Mavericks
+1433,117,2012-12-08,10.5, LA Clippers,99,200.5,Los Angeles Clippers
+1434,98,2012-12-09,-4.5, Orlando,90,198.0,Orlando Magic
+1435,82,2012-12-12,6.5, Memphis,80,194.5,Memphis Grizzlies
+1436,99,2012-12-14,1.5, Utah,84,201.0,Utah Jazz
+1437,101,2012-12-17,-7.0, Sacramento,90,197.0,Sacramento Kings
+1438,121,2012-12-19,-9.0, Charlotte,104,198.5,Charlotte Hornets
+1439,96,2012-12-22,4.5, Portland,93,195.5,Portland Trail Blazers
+1440,103,2012-12-23,6.5, LA Clippers,77,195.5,Los Angeles Clippers
+1441,99,2012-12-26,-2.0, New York,97,195.5,New York Knicks
+1442,97,2012-12-28,8.5, Indiana,91,188.5,Indiana Pacers
+1443,111,2012-12-29,8.5, Minnesota,107,194.5,Minnesota Timberwolves
+1444,114,2012-12-31,12.5, Oklahoma City,96,206.5,Oklahoma City Thunder
+1445,95,2013-01-02,-4.5, Philadelphia,89,195.0,Philadelphia 76ers
+1446,87,2013-01-04,-1.5, Utah,80,198.5,Utah Jazz
+1447,92,2013-01-06,4.5, Memphis,81,184.5,Memphis Grizzlies
+1448,108,2013-01-08,6.0, Milwaukee,99,200.5,Milwaukee Bucks
+1449,87,2013-01-09,9.0, Boston,79,192.0,Boston Celtics
+1450,99,2013-01-11,7.5, Brooklyn,79,194.5,Brooklyn Nets
+1451,97,2013-01-12,8.5, Chicago,81,189.0,Chicago Bulls
+1452,102,2013-01-14,5.0, Oklahoma City,90,199.5,Oklahoma City Thunder
+1453,98,2013-01-17,1.0, Milwaukee,94,197.0,Milwaukee Bucks
+1454,106,2013-01-23,3.0, Sacramento,96,202.0,Sacramento Kings
+1455,93,2013-01-24,6.5, LA Clippers,88,191.0,Los Angeles Clippers
+1456,108,2013-01-26,9.0, San Antonio,99,200.5,San Antonio Spurs
+1457,110,2013-01-27,8.0, Dallas,95,202.5,Dallas Mavericks
+1458,92,2013-01-30,3.0, LA Lakers,86,204.0,Los Angeles Lakers
+1459,109,2013-02-01,-2.5, Dallas,99,201.0,Dallas Mavericks
+1460,113,2013-02-02,10.5, Golden State,93,202.5,Golden State Warriors
+1461,96,2013-02-05,8.5, Memphis,90,184.0,Memphis Grizzlies
+1462,93,2013-02-06,6.5, New Orleans,84,194.5,New Orleans Pelicans
+1463,127,2013-02-08,14.0, Oklahoma City,96,206.0,Oklahoma City Thunder
+1464,97,2013-02-10,8.0, Oklahoma City,69,204.0,Oklahoma City Thunder
+1465,91,2013-02-12,9.0, LA Lakers,85,202.0,Los Angeles Lakers
+1466,102,2013-02-19,6.5, Portland,98,192.5,Portland Trail Blazers
+1467,108,2013-02-20,8.5, Golden State,98,206.0,Golden State Warriors
+1468,113,2013-02-22,1.0, Boston,88,189.5,Boston Celtics
+1469,97,2013-02-24,9.0, San Antonio,87,199.0,San Antonio Spurs
+1470,84,2013-02-26,-1.5, Minnesota,83,197.5,Minnesota Timberwolves
+1471,105,2013-02-27,16.0, San Antonio,101,198.5,San Antonio Spurs
+1472,92,2013-03-01,4.0, Atlanta,87,194.0,Atlanta Hawks
+1473,98,2013-03-06,-1.0, Toronto,71,192.0,Toronto Raptors
+1474,121,2013-03-08,7.5, Sacramento,112,210.0,Sacramento Kings
+1475,107,2013-03-09,7.0, Houston,105,211.0,Houston Rockets
+1476,108,2013-03-11,9.0, Denver,93,212.5,Denver Nuggets
+1477,111,2013-03-13,12.0, Houston,81,212.5,Houston Rockets
+1478,107,2013-03-15,9.0, Atlanta,94,193.0,Atlanta Hawks
+1479,127,2013-03-16,7.5, Washington,105,189.5,Washington Wizards
+1480,99,2013-03-18,4.0, LA Lakers,76,200.0,Los Angeles Lakers
+1481,88,2013-03-20,1.0, Washington,79,194.0,Washington Wizards
+1482,117,2013-03-22,-1.5, Minnesota,86,194.0,Minnesota Timberwolves
+1483,102,2013-03-24,6.0, Brooklyn,100,189.5,Brooklyn Nets
+1484,103,2013-03-27,13.5, Utah,88,194.5,Utah Jazz
+1485,117,2013-03-28,3.5, Sacramento,103,206.5,Sacramento Kings
+1486,112,2013-03-30,10.0, Indiana,104,189.5,Indiana Pacers
+1487,126,2013-04-03,17.0, LA Clippers,101,201.0,Los Angeles Clippers
+1488,111,2013-04-05,8.0, Golden State,107,203.5,Golden State Warriors
+1489,95,2013-04-07,2.0, New Orleans,92,195.5,New Orleans Pelicans
+1490,101,2013-04-09,14.5, Houston,98,214.0,Houston Rockets
+1491,102,2013-04-10,13.5, Dallas,91,204.0,Dallas Mavericks
+1492,105,2013-04-13,4.5, Minnesota,93,201.5,Minnesota Timberwolves
+1493,119,2013-04-15,8.0, Houston,112,209.5,Houston Rockets
+1494,118,2013-04-17,13.0, Denver,98,211.5,Denver Nuggets
+1495,93,2012-10-31,6.5, Chicago,87,191.0,Chicago Bulls
+1496,92,2012-11-02,3.0, Minnesota,80,195.0,Minnesota Timberwolves
+1497,106,2012-11-03,7.5, Indiana,98,189.0,Indiana Pacers
+1498,94,2012-11-05,-2.0, Golden State,92,198.0,Golden State Warriors
+1499,105,2012-11-07,-6.5, Detroit,103,192.5,Detroit Pistons
+1500,97,2012-11-09,5.5, San Antonio,86,198.5,San Antonio Spurs
+1501,103,2012-11-11,10.5, LA Lakers,90,192.0,Los Angeles Lakers
+1502,103,2012-11-13,-2.5, Portland,86,197.5,Portland Trail Blazers
+1503,112,2012-11-16,2.0, Atlanta,96,188.5,Atlanta Hawks
+1504,99,2012-11-18,3.5, Brooklyn,90,192.0,Brooklyn Nets
+1505,113,2012-11-21,5.5, LA Lakers,97,204.5,Los Angeles Lakers
+1506,104,2012-11-23,9.0, Utah,102,194.5,Utah Jazz
+1507,108,2012-11-24,1.0, Utah,97,196.0,Utah Jazz
+1508,97,2012-11-27,-1.0, Minnesota,89,195.0,Minnesota Timberwolves
+1509,97,2012-11-30,1.5, Indiana,92,187.5,Indiana Pacers
+1510,116,2012-12-01,12.5, LA Clippers,81,196.5,Los Angeles Clippers
+1511,107,2012-12-05,-2.5, Toronto,100,197.5,Toronto Raptors
+1512,91,2012-12-07,-3.0, Orlando,82,194.5,Orlando Magic
+1513,99,2012-12-08,7.0, Portland,80,197.5,Portland Trail Blazers
+1514,119,2012-12-10,6.5, Dallas,96,200.5,Dallas Mavericks
+1515,98,2012-12-12,8.5, Milwaukee,85,198.0,Milwaukee Bucks
+1516,113,2012-12-14,13.0, Oklahoma City,103,203.0,Oklahoma City Thunder
+1517,122,2012-12-16,4.5, Denver,97,205.0,Denver Nuggets
+1518,101,2012-12-17,7.0, Phoenix,90,197.0,Phoenix Suns
+1519,131,2012-12-19,3.5, Golden State,127,201.0,Golden State Warriors
+1520,97,2012-12-21,13.5, LA Clippers,85,202.5,Los Angeles Clippers
+1521,108,2012-12-23,-1.0, Portland,96,195.5,Portland Trail Blazers
+1522,109,2012-12-26,7.5, Portland,91,199.0,Portland Trail Blazers
+1523,106,2012-12-28,3.0, New York,105,198.5,New York Knicks
+1524,118,2012-12-30,2.5, Boston,96,193.5,Boston Celtics
+1525,103,2013-01-01,7.0, Detroit,97,195.5,Detroit Pistons
+1526,97,2013-01-02,3.5, Cleveland,94,199.5,Cleveland Cavaliers
+1527,105,2013-01-04,7.0, Toronto,96,196.0,Toronto Raptors
+1528,113,2013-01-05,7.0, Brooklyn,93,196.0,Brooklyn Nets
+1529,113,2013-01-07,4.0, Memphis,81,188.0,Memphis Grizzlies
+1530,117,2013-01-10,-2.5, Dallas,112,205.5,Dallas Mavericks
+1531,128,2013-01-12,7.5, Miami,99,203.5,Miami Heat
+1532,124,2013-01-14,-6.5, Cleveland,118,205.5,Cleveland Cavaliers
+1533,95,2013-01-16,-5.0, Washington,94,207.5,Washington Wizards
+1534,85,2013-01-18,9.5, Memphis,69,190.5,Memphis Grizzlies
+1535,97,2013-01-19,-2.5, Charlotte,93,204.0,Charlotte Hornets
+1536,114,2013-01-21,5.5, New Orleans,105,193.5,New Orleans Pelicans
+1537,106,2013-01-23,-3.0, Phoenix,96,202.0,Phoenix Suns
+1538,105,2013-01-25,9.5, Oklahoma City,95,210.0,Oklahoma City Thunder
+1539,121,2013-01-26,12.5, Denver,93,213.5,Denver Nuggets
+1540,96,2013-01-28,7.0, Washington,94,204.0,Washington Wizards
+1541,99,2013-01-30,7.5, Boston,81,194.0,Boston Celtics
+1542,89,2013-02-01,6.0, Philadelphia,80,198.5,Philadelphia 76ers
+1543,120,2013-02-02,11.5, New York,81,203.0,New York Knicks
+1544,98,2013-02-04,8.5, Utah,91,198.5,Utah Jazz
+1545,120,2013-02-09,-1.5, Utah,109,196.0,Utah Jazz
+1546,117,2013-02-10,6.5, Houston,111,218.0,Houston Rockets
+1547,108,2013-02-12,11.0, Memphis,101,190.0,Memphis Grizzlies
+1548,123,2013-02-13,10.0, Dallas,100,211.5,Dallas Mavericks
+1549,108,2013-02-19,9.0, San Antonio,102,211.0,San Antonio Spurs
+1550,122,2013-02-22,8.0, Atlanta,108,205.0,Atlanta Hawks
+1551,110,2013-02-24,7.0, New Orleans,95,204.5,New Orleans Pelicans
+1552,141,2013-02-26,15.0, Miami,129,209.0,Miami Heat
+1553,125,2013-02-27,2.0, Orlando,101,206.0,Orlando Magic
+1554,130,2013-03-01,14.5, San Antonio,102,215.0,San Antonio Spurs
+1555,119,2013-03-03,-8.0, Charlotte,83,208.5,Charlotte Hornets
+1556,120,2013-03-05,5.0, Denver,113,224.0,Denver Nuggets
+1557,87,2013-03-06,11.0, Golden State,83,224.0,Golden State Warriors
+1558,121,2013-03-08,-7.5, Phoenix,112,210.0,Phoenix Suns
+1559,115,2013-03-10,-1.0, Milwaukee,113,216.5,Milwaukee Bucks
+1560,121,2013-03-13,4.0, Chicago,79,197.5,Chicago Bulls
+1561,113,2013-03-17,8.5, LA Lakers,102,216.0,Los Angeles Lakers
+1562,116,2013-03-19,8.5, LA Clippers,101,212.5,Los Angeles Clippers
+1563,101,2013-03-21,-6.0, Minnesota,98,211.5,Minnesota Timberwolves
+1564,101,2013-03-23,11.5, Denver,95,221.5,Denver Nuggets
+1565,117,2013-03-24,-3.5, Philadelphia,103,206.5,Philadelphia 76ers
+1566,105,2013-03-27,8.5, Golden State,98,214.5,Golden State Warriors
+1567,117,2013-03-28,-3.5, Phoenix,103,206.5,Phoenix Suns
+1568,103,2013-03-30,2.5, LA Lakers,98,219.0,Los Angeles Lakers
+1569,112,2013-04-03,4.0, Houston,102,219.5,Houston Rockets
+1570,117,2013-04-05,-1.5, Dallas,108,212.0,Dallas Mavericks
+1571,89,2013-04-07,5.0, Memphis,87,195.5,Memphis Grizzlies
+1572,121,2013-04-10,-5.5, New Orleans,110,206.0,New Orleans Pelicans
+1573,108,2013-04-12,11.5, San Antonio,101,207.5,San Antonio Spurs
+1574,121,2013-04-14,10.5, Houston,100,218.5,Houston Rockets
+1575,104,2013-04-15,15.0, Oklahoma City,95,214.5,Oklahoma City Thunder
+1576,112,2013-04-17,7.0, LA Clippers,108,206.0,Los Angeles Clippers
+1577,87,2012-10-31,2.0, Phoenix,85,202.0,Phoenix Suns
+1578,104,2012-11-02,1.5, Memphis,94,192.0,Memphis Grizzlies
+1579,114,2012-11-03,8.5, LA Clippers,110,197.5,Los Angeles Clippers
+1580,94,2012-11-05,2.0, Sacramento,92,198.0,Sacramento Kings
+1581,106,2012-11-07,-6.0, Cleveland,96,200.5,Cleveland Cavaliers
+1582,101,2012-11-09,7.5, LA Lakers,77,199.0,Los Angeles Lakers
+1583,107,2012-11-10,2.5, Denver,101,202.5,Denver Nuggets
+1584,92,2012-11-14,-1.0, Atlanta,88,192.5,Atlanta Hawks
+1585,106,2012-11-16,-1.0, Minnesota,98,186.5,Minnesota Timberwolves
+1586,119,2012-11-18,10.0, Oklahoma City,109,197.5,Oklahoma City Thunder
+1587,105,2012-11-19,5.0, Dallas,101,200.0,Dallas Mavericks
+1588,102,2012-11-21,-2.5, Brooklyn,93,194.5,Brooklyn Nets
+1589,102,2012-11-23,6.5, Denver,91,201.0,Denver Nuggets
+1590,96,2012-11-24,-3.0, Minnesota,85,197.0,Minnesota Timberwolves
+1591,106,2012-11-29,1.5, Denver,105,199.5,Denver Nuggets
+1592,103,2012-12-01,-5.0, Indiana,92,188.5,Indiana Pacers
+1593,102,2012-12-03,-9.5, Orlando,94,196.5,Orlando Magic
+1594,104,2012-12-05,1.0, Detroit,97,192.5,Detroit Pistons
+1595,109,2012-12-07,6.5, Brooklyn,102,195.5,Brooklyn Nets
+1596,101,2012-12-08,-4.5, Washington,97,196.5,Washington Wizards
+1597,104,2012-12-10,-4.5, Charlotte,96,202.0,Charlotte Hornets
+1598,97,2012-12-12,8.5, Miami,95,206.0,Miami Heat
+1599,99,2012-12-14,-4.0, Orlando,85,193.5,Orlando Magic
+1600,115,2012-12-15,6.5, Atlanta,93,196.5,Atlanta Hawks
+1601,103,2012-12-18,-7.5, New Orleans,96,192.5,New Orleans Pelicans
+1602,131,2012-12-19,-3.5, Sacramento,127,201.0,Sacramento Kings
+1603,115,2012-12-21,-10.0, Charlotte,100,205.5,Charlotte Hornets
+1604,118,2012-12-22,2.0, LA Lakers,115,215.0,Los Angeles Lakers
+1605,94,2012-12-26,4.0, Utah,83,203.0,Utah Jazz
+1606,96,2012-12-28,-6.0, Philadelphia,89,200.0,Philadelphia 76ers
+1607,101,2012-12-29,-5.0, Boston,83,193.5,Boston Celtics
+1608,115,2013-01-02,1.5, LA Clippers,94,201.5,Los Angeles Clippers
+1609,115,2013-01-05,6.5, LA Clippers,89,202.5,Los Angeles Clippers
+1610,94,2013-01-09,-1.0, Memphis,87,191.0,Memphis Grizzlies
+1611,103,2013-01-11,-8.0, Portland,97,199.5,Portland Trail Blazers
+1612,116,2013-01-13,6.5, Denver,105,209.0,Denver Nuggets
+1613,92,2013-01-16,4.5, Miami,75,200.5,Miami Heat
+1614,95,2013-01-18,11.5, San Antonio,88,201.5,San Antonio Spurs
+1615,116,2013-01-19,5.0, New Orleans,112,187.0,New Orleans Pelicans
+1616,106,2013-01-21,4.5, LA Clippers,99,198.0,Los Angeles Clippers
+1617,104,2013-01-23,1.0, Oklahoma City,99,208.0,Oklahoma City Thunder
+1618,103,2013-01-25,2.5, Chicago,87,189.0,Chicago Bulls
+1619,109,2013-01-26,2.0, Milwaukee,102,209.0,Milwaukee Bucks
+1620,114,2013-01-28,-2.0, Toronto,102,200.5,Toronto Raptors
+1621,108,2013-01-29,3.0, Cleveland,95,200.5,Cleveland Cavaliers
+1622,100,2013-01-31,-4.0, Dallas,97,203.5,Dallas Mavericks
+1623,113,2013-02-02,-10.5, Phoenix,93,202.5,Phoenix Suns
+1624,140,2013-02-05,2.5, Houston,109,217.0,Houston Rockets
+1625,119,2013-02-06,10.5, Oklahoma City,98,214.0,Oklahoma City Thunder
+1626,99,2013-02-08,3.5, Memphis,93,191.0,Memphis Grizzlies
+1627,116,2013-02-09,5.5, Dallas,91,211.5,Dallas Mavericks
+1628,116,2013-02-12,-4.5, Houston,107,218.0,Houston Rockets
+1629,115,2013-02-19,3.5, Utah,101,203.5,Utah Jazz
+1630,108,2013-02-20,-8.5, Phoenix,98,206.0,Phoenix Suns
+1631,107,2013-02-22,3.5, San Antonio,101,208.5,San Antonio Spurs
+1632,100,2013-02-24,-2.0, Minnesota,99,205.5,Minnesota Timberwolves
+1633,108,2013-02-26,8.5, Indiana,97,196.5,Indiana Pacers
+1634,109,2013-02-27,7.5, New York,105,205.0,New York Knicks
+1635,94,2013-03-01,4.0, Boston,86,197.0,Boston Celtics
+1636,104,2013-03-02,-2.0, Philadelphia,97,197.5,Philadelphia 76ers
+1637,125,2013-03-04,-6.5, Toronto,118,205.5,Toronto Raptors
+1638,87,2013-03-06,-11.0, Sacramento,83,224.0,Sacramento Kings
+1639,94,2013-03-08,-2.5, Houston,88,223.0,Houston Rockets
+1640,103,2013-03-09,-2.5, Milwaukee,93,210.5,Milwaukee Bucks
+1641,92,2013-03-11,-2.5, New York,63,202.0,New York Knicks
+1642,105,2013-03-13,-11.0, Detroit,97,199.5,Detroit Pistons
+1643,113,2013-03-15,-5.0, Chicago,95,186.0,Chicago Bulls
+1644,108,2013-03-17,7.5, Houston,78,217.5,Houston Rockets
+1645,93,2013-03-18,-3.5, New Orleans,72,196.0,New Orleans Pelicans
+1646,104,2013-03-20,8.0, San Antonio,93,203.0,San Antonio Spurs
+1647,101,2013-03-23,-8.5, Washington,92,195.0,Washington Wizards
+1648,109,2013-03-25,-1.5, LA Lakers,103,205.5,Los Angeles Lakers
+1649,105,2013-03-27,-8.5, Sacramento,98,214.5,Sacramento Kings
+1650,125,2013-03-30,-9.5, Portland,98,200.5,Portland Trail Blazers
+1651,98,2013-04-03,-7.5, New Orleans,88,197.0,New Orleans Pelicans
+1652,111,2013-04-05,-8.0, Phoenix,107,203.5,Phoenix Suns
+1653,97,2013-04-07,-5.0, Utah,90,200.5,Utah Jazz
+1654,105,2013-04-09,-7.0, Minnesota,89,204.0,Minnesota Timberwolves
+1655,116,2013-04-11,4.0, Oklahoma City,97,204.5,Oklahoma City Thunder
+1656,118,2013-04-12,7.0, LA Lakers,116,208.5,Los Angeles Lakers
+1657,116,2013-04-15,-7.0, San Antonio,106,199.0,San Antonio Spurs
+1658,99,2013-04-17,-8.5, Portland,88,207.0,Portland Trail Blazers
+1659,97,2013-04-20,7.5, Denver,95,211.5,Denver Nuggets
+1660,131,2013-04-23,8.5, Denver,117,208.0,Denver Nuggets
+1661,110,2013-04-26,1.5, Denver,108,210.5,Denver Nuggets
+1662,115,2013-04-28,2.0, Denver,101,212.5,Denver Nuggets
+1663,107,2013-04-30,7.5, Denver,100,211.0,Denver Nuggets
+1664,92,2013-05-02,-2.5, Denver,88,212.0,Denver Nuggets
+1665,129,2013-05-06,9.5, San Antonio,127,202.5,San Antonio Spurs
+1666,100,2013-05-08,7.5, San Antonio,91,204.5,San Antonio Spurs
+1667,102,2013-05-10,-2.5, San Antonio,92,201.5,San Antonio Spurs
+1668,97,2013-05-12,1.5, San Antonio,87,198.5,San Antonio Spurs
+1669,109,2013-05-14,7.0, San Antonio,91,194.5,San Antonio Spurs
+1670,94,2013-05-16,2.0, San Antonio,82,194.5,San Antonio Spurs
+1671,104,2012-11-02,6.0, Miami,84,198.5,Miami Heat
+1672,100,2012-11-04,-3.5, Philadelphia,84,187.5,Philadelphia 76ers
+1673,110,2012-11-05,3.0, Philadelphia,88,184.0,Philadelphia 76ers
+1674,104,2012-11-09,-6.5, Dallas,94,198.5,Dallas Mavericks
+1675,99,2012-11-13,-7.0, Orlando,89,188.0,Orlando Magic
+1676,104,2012-11-15,5.5, San Antonio,100,196.0,San Antonio Spurs
+1677,105,2012-11-16,6.5, Memphis,95,191.0,Memphis Grizzlies
+1678,88,2012-11-18,-7.0, Indiana,76,186.0,Indiana Pacers
+1679,102,2012-11-20,-7.5, New Orleans,80,186.0,New Orleans Pelicans
+1680,114,2012-11-21,-3.5, Dallas,111,193.5,Dallas Mavericks
+1681,131,2012-11-23,-4.5, Houston,103,198.0,Houston Rockets
+1682,121,2012-11-25,-11.0, Detroit,100,190.0,Detroit Pistons
+1683,96,2012-11-26,-1.0, Brooklyn,89,192.5,Brooklyn Nets
+1684,102,2012-11-28,-2.5, Milwaukee,88,202.0,Milwaukee Bucks
+1685,108,2012-11-30,-12.0, Washington,87,190.0,Washington Wizards
+1686,106,2012-12-02,-11.5, Phoenix,99,200.0,Phoenix Suns
+1687,100,2012-12-05,-7.5, Charlotte,98,198.0,Charlotte Hornets
+1688,112,2012-12-06,9.5, Miami,92,199.0,Miami Heat
+1689,93,2012-12-08,-2.0, Chicago,85,188.5,Chicago Bulls
+1690,112,2012-12-09,-4.0, Denver,106,204.0,Denver Nuggets
+1691,100,2012-12-11,-3.5, Brooklyn,97,195.5,Brooklyn Nets
+1692,116,2012-12-13,-5.5, LA Lakers,107,206.0,Los Angeles Lakers
+1693,103,2012-12-15,-10.5, Cleveland,102,194.0,Cleveland Cavaliers
+1694,109,2012-12-17,-7.5, Houston,96,210.0,Houston Rockets
+1695,100,2012-12-19,-5.5, Brooklyn,86,193.0,Brooklyn Nets
+1696,110,2012-12-21,-6.5, Chicago,106,187.5,Chicago Bulls
+1697,94,2012-12-23,-8.0, Minnesota,91,200.5,Minnesota Timberwolves
+1698,100,2012-12-25,4.0, LA Lakers,94,210.5,Los Angeles Lakers
+1699,99,2012-12-26,2.0, Phoenix,97,195.5,Phoenix Suns
+1700,106,2012-12-28,-3.0, Sacramento,105,198.5,Sacramento Kings
+1701,105,2013-01-01,-9.5, Portland,100,196.5,Portland Trail Blazers
+1702,100,2013-01-03,1.0, San Antonio,83,208.5,San Antonio Spurs
+1703,114,2013-01-05,-6.0, Orlando,106,195.5,Orlando Magic
+1704,102,2013-01-07,-7.5, Boston,96,191.5,Boston Celtics
+1705,81,2013-01-10,5.5, Indiana,76,184.0,Indiana Pacers
+1706,108,2013-01-11,-4.5, Chicago,101,194.0,Chicago Bulls
+1707,100,2013-01-13,-7.0, New Orleans,87,190.0,New Orleans Pelicans
+1708,102,2013-01-17,-5.5, Detroit,87,198.0,Detroit Pistons
+1709,88,2013-01-21,-3.0, Brooklyn,85,193.0,Brooklyn Nets
+1710,89,2013-01-24,-1.5, Boston,86,189.0,Boston Celtics
+1711,97,2013-01-26,-4.0, Philadelphia,80,192.0,Philadelphia 76ers
+1712,106,2013-01-27,-5.5, Atlanta,104,194.0,Atlanta Hawks
+1713,113,2013-01-30,-8.5, Orlando,97,196.0,Orlando Magic
+1714,96,2013-02-01,-4.5, Milwaukee,86,206.0,Milwaukee Bucks
+1715,120,2013-02-02,-11.5, Sacramento,81,203.0,Sacramento Kings
+1716,99,2013-02-04,-10.0, Detroit,85,200.0,Detroit Pistons
+1717,106,2013-02-06,-4.5, Washington,96,190.0,Washington Wizards
+1718,100,2013-02-08,-6.5, Minnesota,94,195.5,Minnesota Timberwolves
+1719,102,2013-02-10,-3.5, LA Clippers,88,192.0,Los Angeles Clippers
+1720,92,2013-02-13,-8.0, Toronto,88,197.5,Toronto Raptors
+1721,125,2013-02-20,4.0, Indiana,91,185.0,Indiana Pacers
+1722,100,2013-02-22,-1.0, Toronto,98,193.0,Toronto Raptors
+1723,99,2013-02-24,-11.0, Philadelphia,93,189.5,Philadelphia 76ers
+1724,109,2013-02-27,-7.5, Golden State,105,205.0,Golden State Warriors
+1725,96,2013-03-01,-3.0, Washington,88,193.0,Washington Wizards
+1726,99,2013-03-03,4.5, Miami,93,196.5,Miami Heat
+1727,102,2013-03-04,-3.0, Cleveland,97,204.0,Cleveland Cavaliers
+1728,87,2013-03-06,-6.0, Detroit,77,195.5,Detroit Pistons
+1729,95,2013-03-07,8.0, Oklahoma City,94,204.0,Oklahoma City Thunder
+1730,113,2013-03-09,-6.0, Utah,84,191.5,Utah Jazz
+1731,92,2013-03-11,2.5, Golden State,63,202.0,Golden State Warriors
+1732,117,2013-03-13,8.5, Denver,94,207.0,Denver Nuggets
+1733,105,2013-03-14,7.0, Portland,90,193.5,Portland Trail Blazers
+1734,93,2013-03-17,13.0, LA Clippers,80,193.5,Los Angeles Clippers
+1735,90,2013-03-18,10.5, Utah,83,188.0,Utah Jazz
+1736,106,2013-03-20,-10.5, Orlando,94,198.0,Orlando Magic
+1737,99,2013-03-22,1.0, Toronto,94,192.5,Toronto Raptors
+1738,110,2013-03-23,-7.0, Toronto,84,191.5,Toronto Raptors
+1739,100,2013-03-26,2.5, Boston,85,194.0,Boston Celtics
+1740,108,2013-03-27,1.0, Memphis,101,184.5,Memphis Grizzlies
+1741,111,2013-03-29,-14.0, Charlotte,102,197.5,Charlotte Hornets
+1742,108,2013-03-31,-6.5, Boston,89,197.5,Boston Celtics
+1743,102,2013-04-02,-3.0, Miami,90,191.5,Miami Heat
+1744,95,2013-04-03,1.5, Atlanta,82,195.0,Atlanta Hawks
+1745,101,2013-04-05,-7.0, Milwaukee,83,201.5,Milwaukee Bucks
+1746,125,2013-04-07,7.5, Oklahoma City,120,194.0,Oklahoma City Thunder
+1747,120,2013-04-09,-8.5, Washington,99,197.5,Washington Wizards
+1748,118,2013-04-11,-4.0, Chicago,111,193.5,Chicago Bulls
+1749,101,2013-04-12,-4.0, Cleveland,91,209.0,Cleveland Cavaliers
+1750,90,2013-04-14,-3.0, Indiana,80,193.0,Indiana Pacers
+1751,106,2013-04-15,1.5, Charlotte,95,191.5,Charlotte Hornets
+1752,98,2013-04-17,-5.0, Atlanta,92,193.5,Atlanta Hawks
+1753,85,2013-04-20,-7.5, Boston,78,189.0,Boston Celtics
+1754,87,2013-04-23,-6.5, Boston,71,186.5,Boston Celtics
+1755,90,2013-04-26,2.5, Boston,76,184.0,Boston Celtics
+1756,97,2013-04-28,-1.5, Boston,90,181.5,Boston Celtics
+1757,92,2013-05-01,-9.5, Boston,86,182.5,Boston Celtics
+1758,88,2013-05-03,-2.5, Boston,80,180.5,Boston Celtics
+1759,102,2013-05-05,-5.5, Indiana,95,181.5,Indiana Pacers
+1760,105,2013-05-07,-6.0, Indiana,79,183.5,Indiana Pacers
+1761,82,2013-05-11,5.0, Indiana,71,183.0,Indiana Pacers
+1762,93,2013-05-14,5.0, Indiana,82,180.0,Indiana Pacers
+1763,85,2013-05-16,-5.0, Indiana,75,181.5,Indiana Pacers
+1764,106,2013-05-18,5.5, Indiana,99,179.5,Indiana Pacers
+1765,99,2012-10-31,7.0, San Antonio,95,186.5,San Antonio Spurs
+1766,88,2012-11-02,3.5, Utah,86,191.0,Utah Jazz
+1767,89,2012-11-03,9.5, Chicago,82,181.5,Chicago Bulls
+1768,77,2012-11-07,1.5, Philadelphia,62,179.0,Philadelphia 76ers
+1769,107,2012-11-09,-7.5, Charlotte,99,180.5,Charlotte Hornets
+1770,100,2012-11-14,6.5, Houston,96,184.0,Houston Rockets
+1771,110,2012-11-16,6.5, Oklahoma City,95,187.0,Oklahoma City Thunder
+1772,117,2012-11-17,8.0, Milwaukee,113,191.0,Milwaukee Bucks
+1773,102,2012-11-20,7.5, New York,80,186.0,New York Knicks
+1774,115,2012-11-21,7.5, Indiana,107,181.0,Indiana Pacers
+1775,111,2012-11-23,5.5, Phoenix,108,195.0,Phoenix Suns
+1776,102,2012-11-25,10.0, Denver,84,194.0,Denver Nuggets
+1777,105,2012-11-26,13.5, LA Clippers,98,189.0,Los Angeles Clippers
+1778,96,2012-11-28,3.0, Utah,84,190.0,Utah Jazz
+1779,100,2012-12-01,8.5, Oklahoma City,79,193.5,Oklahoma City Thunder
+1780,102,2012-12-03,4.0, Milwaukee,81,188.0,Milwaukee Bucks
+1781,103,2012-12-05,4.5, LA Lakers,87,195.5,Los Angeles Lakers
+1782,96,2012-12-07,8.0, Memphis,89,183.0,Memphis Grizzlies
+1783,106,2012-12-08,14.5, Miami,90,193.0,Miami Heat
+1784,77,2012-12-11,-5.5, Washington,70,188.0,Washington Wizards
+1785,92,2012-12-12,14.0, Oklahoma City,88,195.5,Oklahoma City Thunder
+1786,113,2012-12-14,4.5, Minnesota,102,184.0,Minnesota Timberwolves
+1787,95,2012-12-16,5.0, Portland,94,185.5,Portland Trail Blazers
+1788,103,2012-12-18,7.5, Golden State,96,192.5,Golden State Warriors
+1789,93,2012-12-19,14.0, LA Clippers,77,189.0,Los Angeles Clippers
+1790,99,2012-12-21,13.0, San Antonio,94,195.5,San Antonio Spurs
+1791,81,2012-12-22,3.5, Indiana,75,178.5,Indiana Pacers
+1792,97,2012-12-26,3.0, Orlando,94,182.0,Orlando Magic
+1793,104,2012-12-28,-3.0, Toronto,97,183.0,Toronto Raptors
+1794,98,2012-12-29,-3.5, Charlotte,95,190.0,Charlotte Hornets
+1795,95,2013-01-01,2.0, Atlanta,86,184.5,Atlanta Hawks
+1796,104,2013-01-02,9.5, Houston,92,203.0,Houston Rockets
+1797,99,2013-01-05,6.0, Dallas,96,193.5,Dallas Mavericks
+1798,95,2013-01-07,8.0, San Antonio,88,193.5,San Antonio Spurs
+1799,88,2013-01-09,2.5, Houston,79,200.5,Houston Rockets
+1800,104,2013-01-11,-3.0, Minnesota,92,181.5,Minnesota Timberwolves
+1801,100,2013-01-13,7.0, New York,87,190.0,New York Knicks
+1802,111,2013-01-15,3.0, Philadelphia,99,183.5,Philadelphia 76ers
+1803,90,2013-01-16,8.5, Boston,78,182.5,Boston Celtics
+1804,116,2013-01-19,-5.0, Golden State,112,187.0,Golden State Warriors
+1805,114,2013-01-21,-5.5, Sacramento,105,193.5,Sacramento Kings
+1806,106,2013-01-23,8.5, San Antonio,102,195.5,San Antonio Spurs
+1807,100,2013-01-25,-2.5, Houston,82,200.5,Houston Rockets
+1808,91,2013-01-27,7.5, Memphis,83,178.0,Memphis Grizzlies
+1809,111,2013-01-29,8.0, LA Lakers,106,196.0,Los Angeles Lakers
+1810,104,2013-01-30,8.5, Utah,99,188.5,Utah Jazz
+1811,113,2013-02-01,7.5, Denver,98,204.5,Denver Nuggets
+1812,115,2013-02-02,3.0, Minnesota,86,189.5,Minnesota Timberwolves
+1813,93,2013-02-06,-6.5, Phoenix,84,194.5,Phoenix Suns
+1814,111,2013-02-08,5.0, Atlanta,100,192.5,Atlanta Hawks
+1815,102,2013-02-10,3.5, Toronto,89,192.0,Toronto Raptors
+1816,105,2013-02-11,6.5, Detroit,86,193.5,Detroit Pistons
+1817,99,2013-02-13,-4.5, Portland,63,193.0,Portland Trail Blazers
+1818,96,2013-02-19,1.0, Chicago,87,181.0,Chicago Bulls
+1819,105,2013-02-20,3.5, Cleveland,100,196.5,Cleveland Cavaliers
+1820,104,2013-02-22,1.0, Dallas,100,199.0,Dallas Mavericks
+1821,110,2013-02-24,-7.0, Sacramento,95,204.5,Sacramento Kings
+1822,101,2013-02-26,-3.0, Brooklyn,97,185.0,Brooklyn Nets
+1823,119,2013-02-27,15.0, Oklahoma City,74,205.0,Oklahoma City Thunder
+1824,100,2013-03-01,-3.5, Detroit,95,194.5,Detroit Pistons
+1825,105,2013-03-04,-9.0, Orlando,102,194.5,Orlando Magic
+1826,108,2013-03-06,2.0, LA Lakers,102,202.5,Los Angeles Lakers
+1827,96,2013-03-09,7.0, Memphis,85,183.0,Memphis Grizzlies
+1828,98,2013-03-10,4.0, Portland,96,196.0,Portland Trail Blazers
+1829,108,2013-03-12,6.0, Brooklyn,98,184.0,Brooklyn Nets
+1830,96,2013-03-15,3.5, Washington,87,187.0,Washington Wizards
+1831,97,2013-03-17,1.5, Minnesota,95,191.0,Minnesota Timberwolves
+1832,93,2013-03-18,3.5, Golden State,72,196.0,Golden State Warriors
+1833,87,2013-03-20,4.5, Boston,86,186.5,Boston Celtics
+1834,90,2013-03-22,6.0, Memphis,83,179.0,Memphis Grizzlies
+1835,110,2013-03-25,7.0, Denver,86,197.0,Denver Nuggets
+1836,105,2013-03-27,5.5, LA Clippers,91,188.0,Los Angeles Clippers
+1837,108,2013-03-29,7.5, Miami,89,189.0,Miami Heat
+1838,112,2013-03-31,-5.5, Cleveland,92,193.0,Cleveland Cavaliers
+1839,98,2013-04-03,7.5, Golden State,88,197.0,Golden State Warriors
+1840,95,2013-04-05,8.0, Utah,83,193.5,Utah Jazz
+1841,95,2013-04-07,-2.0, Phoenix,92,195.5,Phoenix Suns
+1842,104,2013-04-09,8.5, LA Lakers,96,193.5,Los Angeles Lakers
+1843,121,2013-04-10,5.5, Sacramento,110,206.0,Sacramento Kings
+1844,96,2013-04-12,9.0, LA Clippers,93,192.0,Los Angeles Clippers
+1845,107,2013-04-14,3.0, Dallas,89,196.0,Dallas Mavericks
+1846,99,2013-04-17,8.5, Dallas,87,197.0,Dallas Mavericks
+1847,94,2012-10-30,-6.0, Washington,84,191.0,Washington Wizards
+1848,115,2012-11-02,3.0, Chicago,86,183.5,Chicago Bulls
+1849,105,2012-11-03,7.0, Milwaukee,102,197.5,Milwaukee Bucks
+1850,108,2012-11-05,10.0, LA Clippers,101,199.5,Los Angeles Clippers
+1851,106,2012-11-07,6.0, Golden State,96,200.5,Golden State Warriors
+1852,107,2012-11-09,3.0, Phoenix,105,201.0,Phoenix Suns
+1853,106,2012-11-11,10.0, Oklahoma City,91,202.0,Oklahoma City Thunder
+1854,114,2012-11-13,5.5, Brooklyn,101,196.0,Brooklyn Nets
+1855,103,2012-11-17,-2.5, Dallas,95,199.5,Dallas Mavericks
+1856,86,2012-11-18,6.5, Philadelphia,79,190.0,Philadelphia 76ers
+1857,92,2012-11-21,4.5, Philadelphia,83,182.0,Philadelphia 76ers
+1858,108,2012-11-23,4.5, Orlando,104,185.0,Orlando Magic
+1859,110,2012-11-24,15.0, Miami,108,197.5,Miami Heat
+1860,84,2012-11-26,11.5, Memphis,78,193.0,Memphis Grizzlies
+1861,91,2012-11-27,3.5, Phoenix,78,201.0,Phoenix Suns
+1862,113,2012-11-30,8.0, Atlanta,111,189.0,Atlanta Hawks
+1863,118,2012-12-01,-1.5, Portland,117,193.0,Portland Trail Blazers
+1864,89,2012-12-03,5.0, Detroit,79,191.5,Detroit Pistons
+1865,95,2012-12-05,3.5, Chicago,85,184.0,Chicago Bulls
+1866,91,2012-12-07,8.5, Minnesota,73,191.0,Minnesota Timberwolves
+1867,104,2012-12-08,1.0, Detroit,97,187.5,Detroit Pistons
+1868,100,2012-12-11,6.5, LA Lakers,94,206.5,Los Angeles Lakers
+1869,96,2012-12-12,7.5, Indiana,81,189.0,Indiana Pacers
+1870,90,2012-12-14,3.0, Milwaukee,86,196.0,Milwaukee Bucks
+1871,103,2012-12-15,10.5, New York,102,194.0,New York Knicks
+1872,113,2012-12-18,-5.0, Toronto,99,189.0,Toronto Raptors
+1873,103,2012-12-19,9.0, Boston,91,191.5,Boston Celtics
+1874,99,2012-12-21,4.5, Indiana,89,187.0,Indiana Pacers
+1875,94,2012-12-22,7.5, Milwaukee,82,195.5,Milwaukee Bucks
+1876,87,2012-12-26,1.0, Washington,84,189.0,Washington Wizards
+1877,102,2012-12-28,5.0, Atlanta,94,189.5,Atlanta Hawks
+1878,103,2012-12-29,8.5, Brooklyn,100,190.0,Brooklyn Nets
+1879,97,2013-01-02,-3.5, Sacramento,94,199.5,Sacramento Kings
+1880,106,2013-01-04,1.5, Charlotte,104,196.5,Charlotte Hornets
+1881,112,2013-01-05,6.0, Houston,104,213.0,Houston Rockets
+1882,118,2013-01-07,8.0, Chicago,92,186.0,Chicago Bulls
+1883,99,2013-01-09,4.0, Atlanta,83,193.5,Atlanta Hawks
+1884,98,2013-01-11,12.5, Denver,91,206.0,Denver Nuggets
+1885,113,2013-01-13,10.0, LA Lakers,93,209.5,Los Angeles Lakers
+1886,124,2013-01-14,6.5, Sacramento,118,205.5,Sacramento Kings
+1887,93,2013-01-16,6.0, Portland,88,197.5,Portland Trail Blazers
+1888,109,2013-01-19,8.5, Utah,98,199.0,Utah Jazz
+1889,95,2013-01-22,5.0, Boston,90,190.5,Boston Celtics
+1890,113,2013-01-25,4.0, Milwaukee,108,202.5,Milwaukee Bucks
+1891,99,2013-01-26,7.0, Toronto,98,200.5,Toronto Raptors
+1892,108,2013-01-29,-3.0, Golden State,95,200.5,Golden State Warriors
+1893,117,2013-02-01,4.5, Detroit,99,199.5,Detroit Pistons
+1894,115,2013-02-02,10.5, Oklahoma City,110,205.5,Oklahoma City Thunder
+1895,122,2013-02-06,-6.0, Charlotte,95,205.0,Charlotte Hornets
+1896,119,2013-02-08,-7.0, Orlando,108,200.0,Orlando Magic
+1897,111,2013-02-09,6.0, Denver,103,215.5,Denver Nuggets
+1898,100,2013-02-11,-7.5, Minnesota,92,205.0,Minnesota Timberwolves
+1899,96,2013-02-13,8.0, San Antonio,95,206.0,San Antonio Spurs
+1900,105,2013-02-20,-3.5, New Orleans,100,196.5,New Orleans Pelicans
+1901,118,2013-02-23,-5.0, Orlando,94,199.5,Orlando Magic
+1902,109,2013-02-24,12.0, Miami,105,205.5,Miami Heat
+1903,101,2013-02-26,8.5, Chicago,98,185.5,Chicago Bulls
+1904,103,2013-02-27,5.0, Toronto,92,196.0,Toronto Raptors
+1905,105,2013-03-01,8.0, LA Clippers,89,200.0,Los Angeles Clippers
+1906,102,2013-03-04,3.0, New York,97,204.0,New York Knicks
+1907,104,2013-03-06,-1.5, Utah,101,201.5,Utah Jazz
+1908,103,2013-03-08,4.5, Memphis,92,186.0,Memphis Grizzlies
+1909,100,2013-03-10,5.5, Toronto,96,200.5,Toronto Raptors
+1910,95,2013-03-12,1.0, Washington,90,190.5,Washington Wizards
+1911,96,2013-03-15,8.5, Dallas,86,203.0,Dallas Mavericks
+1912,119,2013-03-16,15.0, San Antonio,113,200.5,San Antonio Spurs
+1913,111,2013-03-18,7.0, Indiana,90,187.0,Indiana Pacers
+1914,98,2013-03-20,11.5, Miami,95,198.0,Miami Heat
+1915,116,2013-03-22,12.0, Houston,78,212.5,Houston Rockets
+1916,93,2013-03-27,2.5, Boston,92,197.0,Boston Celtics
+1917,97,2013-03-29,1.5, Philadelphia,87,195.0,Philadelphia 76ers
+1918,112,2013-03-31,5.5, New Orleans,92,193.0,New Orleans Pelicans
+1919,102,2013-04-01,11.0, Atlanta,94,201.5,Atlanta Hawks
+1920,113,2013-04-03,4.5, Brooklyn,95,199.5,Brooklyn Nets
+1921,97,2013-04-05,5.0, Boston,91,199.0,Boston Celtics
+1922,91,2013-04-07,-5.5, Orlando,85,202.5,Orlando Magic
+1923,99,2013-04-09,14.0, Indiana,94,189.5,Indiana Pacers
+1924,111,2013-04-10,-2.5, Detroit,104,199.5,Detroit Pistons
+1925,101,2013-04-12,4.0, New York,91,209.0,New York Knicks
+1926,91,2013-04-14,6.0, Philadelphia,77,198.5,Philadelphia 76ers
+1927,96,2013-04-15,-2.0, Miami,95,192.0,Miami Heat
+1928,105,2013-04-17,2.5, Charlotte,98,202.5,Charlotte Hornets
+1929,94,2012-10-30,6.0, Cleveland,84,191.0,Cleveland Cavaliers
+1930,89,2012-11-03,5.5, Boston,86,191.0,Boston Celtics
+1931,100,2012-11-07,9.5, Boston,94,186.0,Boston Celtics
+1932,101,2012-11-09,3.5, Milwaukee,91,192.5,Milwaukee Bucks
+1933,89,2012-11-10,8.0, Indiana,85,186.0,Indiana Pacers
+1934,92,2012-11-13,2.0, Charlotte,76,191.0,Charlotte Hornets
+1935,107,2012-11-14,8.5, Dallas,101,192.0,Dallas Mavericks
+1936,83,2012-11-17,3.5, Utah,76,188.5,Utah Jazz
+1937,96,2012-11-19,3.0, Indiana,89,180.0,Indiana Pacers
+1938,101,2012-11-21,9.5, Atlanta,100,185.5,Atlanta Hawks
+1939,108,2012-11-24,-4.5, Charlotte,106,188.5,Charlotte Hornets
+1940,118,2012-11-26,7.0, San Antonio,92,196.0,San Antonio Spurs
+1941,84,2012-11-28,3.0, Portland,82,193.5,Portland Trail Blazers
+1942,108,2012-11-30,12.0, New York,87,190.0,New York Knicks
+1943,105,2012-12-04,10.0, Miami,101,194.5,Miami Heat
+1944,104,2012-12-07,9.0, Atlanta,95,192.0,Atlanta Hawks
+1945,101,2012-12-08,4.5, Golden State,97,196.5,Golden State Warriors
+1946,77,2012-12-11,5.5, New Orleans,70,188.0,New Orleans Pelicans
+1947,99,2012-12-12,10.5, Houston,93,206.0,Houston Rockets
+1948,102,2012-12-14,6.5, LA Lakers,96,200.0,Los Angeles Lakers
+1949,102,2012-12-15,15.5, Miami,72,196.0,Miami Heat
+1950,100,2012-12-18,7.0, Atlanta,95,186.5,Atlanta Hawks
+1951,90,2012-12-19,7.5, Orlando,83,184.5,Orlando Magic
+1952,100,2012-12-21,6.5, Detroit,68,185.0,Detroit Pistons
+1953,96,2012-12-22,1.0, Detroit,87,183.0,Detroit Pistons
+1954,87,2012-12-26,-1.0, Cleveland,84,189.0,Cleveland Cavaliers
+1955,105,2012-12-28,1.5, Orlando,97,182.5,Orlando Magic
+1956,87,2012-12-29,11.0, Chicago,77,180.5,Chicago Bulls
+1957,103,2013-01-01,4.0, Dallas,94,191.5,Dallas Mavericks
+1958,89,2013-01-02,11.0, Indiana,81,181.0,Indiana Pacers
+1959,115,2013-01-04,6.0, Brooklyn,113,183.5,Brooklyn Nets
+1960,99,2013-01-06,14.0, Miami,71,191.5,Miami Heat
+1961,101,2013-01-07,11.5, Oklahoma City,99,194.5,Oklahoma City Thunder
+1962,93,2013-01-12,3.0, Atlanta,83,189.0,Atlanta Hawks
+1963,120,2013-01-14,-1.5, Orlando,91,191.5,Orlando Magic
+1964,95,2013-01-16,5.0, Sacramento,94,207.5,Sacramento Kings
+1965,112,2013-01-18,10.5, Denver,108,203.5,Denver Nuggets
+1966,94,2013-01-19,13.0, LA Clippers,87,195.0,Los Angeles Clippers
+1967,98,2013-01-21,7.0, Portland,95,195.5,Portland Trail Blazers
+1968,92,2013-01-23,7.0, Utah,88,194.5,Utah Jazz
+1969,114,2013-01-25,-6.5, Minnesota,101,187.5,Minnesota Timberwolves
+1970,86,2013-01-26,1.0, Chicago,73,184.0,Chicago Bulls
+1971,96,2013-01-28,-7.0, Sacramento,94,204.0,Sacramento Kings
+1972,92,2013-01-30,3.5, Philadelphia,84,190.0,Philadelphia 76ers
+1973,85,2013-02-01,6.0, Memphis,76,180.0,Memphis Grizzlies
+1974,96,2013-02-02,12.5, San Antonio,86,193.5,San Antonio Spurs
+1975,98,2013-02-04,3.0, LA Clippers,90,187.5,Los Angeles Clippers
+1976,106,2013-02-06,4.5, New York,96,190.0,New York Knicks
+1977,89,2013-02-08,-1.5, Brooklyn,74,189.0,Brooklyn Nets
+1978,102,2013-02-11,4.0, Milwaukee,90,199.5,Milwaukee Bucks
+1979,96,2013-02-13,2.0, Detroit,85,190.5,Detroit Pistons
+1980,96,2013-02-19,-3.0, Toronto,88,190.5,Toronto Raptors
+1981,119,2013-02-22,3.0, Denver,113,203.5,Denver Nuggets
+1982,105,2013-02-23,1.5, Houston,103,211.0,Houston Rockets
+1983,90,2013-02-25,5.5, Toronto,84,192.0,Toronto Raptors
+1984,96,2013-02-27,-6.5, Detroit,95,191.5,Detroit Pistons
+1985,96,2013-03-01,3.0, New York,88,193.0,New York Knicks
+1986,90,2013-03-03,-6.0, Philadelphia,87,185.5,Philadelphia 76ers
+1987,87,2013-03-06,-2.0, Minnesota,82,188.0,Minnesota Timberwolves
+1988,95,2013-03-08,5.5, Brooklyn,78,182.0,Brooklyn Nets
+1989,104,2013-03-09,-10.5, Charlotte,87,187.5,Charlotte Hornets
+1990,95,2013-03-12,-1.0, Cleveland,90,190.5,Cleveland Cavaliers
+1991,106,2013-03-13,2.0, Milwaukee,93,195.0,Milwaukee Bucks
+1992,96,2013-03-15,-3.5, New Orleans,87,187.0,New Orleans Pelicans
+1993,127,2013-03-16,-7.5, Phoenix,105,189.5,Phoenix Suns
+1994,119,2013-03-18,-6.5, Charlotte,114,188.5,Charlotte Hornets
+1995,88,2013-03-20,-1.0, Phoenix,79,194.0,Phoenix Suns
+1996,103,2013-03-22,9.0, LA Lakers,100,198.5,Los Angeles Lakers
+1997,101,2013-03-23,8.5, Golden State,92,195.0,Golden State Warriors
+1998,107,2013-03-25,5.0, Memphis,94,181.0,Memphis Grizzlies
+1999,103,2013-03-27,15.0, Oklahoma City,80,198.5,Oklahoma City Thunder
+2000,97,2013-03-29,-4.0, Orlando,92,197.5,Orlando Magic
+2001,109,2013-03-31,-3.5, Toronto,92,194.5,Toronto Raptors
+2002,90,2013-04-02,-2.5, Chicago,86,187.5,Chicago Bulls
+2003,88,2013-04-03,4.5, Toronto,78,194.0,Toronto Raptors
+2004,104,2013-04-06,4.0, Indiana,85,184.0,Indiana Pacers
+2005,107,2013-04-07,7.0, Boston,96,188.5,Boston Celtics
+2006,120,2013-04-09,8.5, New York,99,197.5,New York Knicks
+2007,103,2013-04-10,-4.0, Miami,98,188.0,Miami Heat
+2008,97,2013-04-12,-5.5, Philadelphia,86,192.0,Philadelphia 76ers
+2009,106,2013-04-15,4.5, Brooklyn,101,190.0,Brooklyn Nets
+2010,95,2013-04-17,8.5, Chicago,92,186.0,Chicago Bulls
+2011,109,2012-11-02,-5.5, Houston,102,203.0,Houston Rockets
+2012,104,2012-11-04,9.0, Oklahoma City,95,199.0,Oklahoma City Thunder
+2013,89,2012-11-07,-4.0, Indiana,86,191.5,Indiana Pacers
+2014,95,2012-11-09,4.0, Miami,89,197.5,Miami Heat
+2015,89,2012-11-11,6.5, LA Clippers,76,195.0,Los Angeles Clippers
+2016,95,2012-11-12,2.5, Portland,87,193.5,Portland Trail Blazers
+2017,92,2012-11-14,1.0, Golden State,88,192.5,Golden State Warriors
+2018,112,2012-11-16,-2.0, Sacramento,96,188.5,Sacramento Kings
+2019,81,2012-11-19,-10.0, Orlando,72,186.0,Orlando Magic
+2020,101,2012-11-21,-9.5, Washington,100,185.5,Washington Wizards
+2021,101,2012-11-23,-3.5, Charlotte,91,190.5,Charlotte Hornets
+2022,104,2012-11-24,2.0, LA Clippers,93,188.5,Los Angeles Clippers
+2023,94,2012-11-28,-9.5, Charlotte,91,193.0,Charlotte Hornets
+2024,113,2012-11-30,-8.0, Cleveland,111,189.0,Cleveland Cavaliers
+2025,108,2012-12-05,-2.0, Denver,104,199.5,Denver Nuggets
+2026,104,2012-12-07,-9.0, Washington,95,192.0,Washington Wizards
+2027,93,2012-12-08,7.0, Memphis,83,189.0,Memphis Grizzlies
+2028,101,2012-12-10,6.5, Miami,92,198.0,Miami Heat
+2029,86,2012-12-12,-5.0, Orlando,80,189.5,Orlando Magic
+2030,113,2012-12-13,-10.0, Charlotte,90,191.0,Charlotte Hornets
+2031,115,2012-12-15,-6.5, Golden State,93,196.5,Golden State Warriors
+2032,100,2012-12-18,-7.0, Washington,95,186.5,Washington Wizards
+2033,100,2012-12-19,5.5, Oklahoma City,92,200.0,Oklahoma City Thunder
+2034,99,2012-12-21,-2.0, Philadelphia,80,188.0,Philadelphia 76ers
+2035,92,2012-12-22,-4.0, Chicago,75,184.5,Chicago Bulls
+2036,126,2012-12-26,-7.5, Detroit,119,187.0,Detroit Pistons
+2037,102,2012-12-28,-5.0, Cleveland,94,189.5,Cleveland Cavaliers
+2038,109,2012-12-29,-2.5, Indiana,100,182.0,Indiana Pacers
+2039,123,2012-12-31,4.5, Houston,104,206.0,Houston Rockets
+2040,95,2013-01-01,-2.0, New Orleans,86,184.5,New Orleans Pelicans
+2041,85,2013-01-04,-1.5, Detroit,84,190.5,Detroit Pistons
+2042,89,2013-01-05,-5.5, Boston,81,187.0,Boston Celtics
+2043,108,2013-01-08,1.0, Minnesota,103,188.5,Minnesota Timberwolves
+2044,99,2013-01-09,-4.0, Cleveland,83,193.5,Cleveland Cavaliers
+2045,103,2013-01-11,-5.0, Utah,95,193.5,Utah Jazz
+2046,93,2013-01-12,-3.0, Washington,83,189.0,Washington Wizards
+2047,97,2013-01-14,4.5, Chicago,58,183.0,Chicago Bulls
+2048,109,2013-01-16,-3.0, Brooklyn,95,187.5,Brooklyn Nets
+2049,94,2013-01-18,7.0, Brooklyn,89,191.5,Brooklyn Nets
+2050,98,2013-01-19,3.5, San Antonio,93,194.0,San Antonio Spurs
+2051,104,2013-01-21,-8.0, Minnesota,96,184.5,Minnesota Timberwolves
+2052,104,2013-01-23,-2.5, Charlotte,92,191.0,Charlotte Hornets
+2053,123,2013-01-25,-5.5, Boston,111,184.0,Boston Celtics
+2054,106,2013-01-27,5.5, New York,104,194.0,New York Knicks
+2055,93,2013-01-30,-7.0, Toronto,92,196.5,Toronto Raptors
+2056,93,2013-02-02,-7.5, Chicago,76,181.5,Chicago Bulls
+2057,114,2013-02-05,6.0, Indiana,103,184.0,Indiana Pacers
+2058,103,2013-02-06,2.0, Memphis,92,182.5,Memphis Grizzlies
+2059,111,2013-02-08,-5.0, New Orleans,100,192.5,New Orleans Pelicans
+2060,105,2013-02-11,5.5, Dallas,101,204.5,Dallas Mavericks
+2061,108,2013-02-13,-2.5, Orlando,76,200.0,Orlando Magic
+2062,103,2013-02-20,5.5, Miami,90,196.0,Miami Heat
+2063,122,2013-02-22,-8.0, Sacramento,108,205.0,Sacramento Kings
+2064,103,2013-02-23,4.5, Milwaukee,102,204.5,Milwaukee Bucks
+2065,114,2013-02-25,-3.5, Detroit,103,194.0,Detroit Pistons
+2066,102,2013-02-27,3.5, Utah,91,197.0,Utah Jazz
+2067,92,2013-03-01,-4.0, Phoenix,87,194.0,Phoenix Suns
+2068,99,2013-03-03,5.5, LA Lakers,98,206.5,Los Angeles Lakers
+2069,104,2013-03-04,9.5, Denver,88,212.5,Denver Nuggets
+2070,107,2013-03-06,-8.5, Philadelphia,96,189.5,Philadelphia 76ers
+2071,107,2013-03-08,4.5, Boston,102,188.5,Boston Celtics
+2072,93,2013-03-09,-3.5, Brooklyn,80,191.5,Brooklyn Nets
+2073,98,2013-03-12,9.5, Miami,81,197.0,Miami Heat
+2074,96,2013-03-13,3.5, LA Lakers,92,204.0,Los Angeles Lakers
+2075,107,2013-03-15,-9.0, Phoenix,94,193.0,Phoenix Suns
+2076,105,2013-03-17,4.0, Brooklyn,93,189.0,Brooklyn Nets
+2077,127,2013-03-18,-4.0, Dallas,113,203.5,Dallas Mavericks
+2078,98,2013-03-20,-6.0, Milwaukee,90,205.5,Milwaukee Bucks
+2079,104,2013-03-22,-7.5, Portland,93,201.5,Portland Trail Blazers
+2080,104,2013-03-24,2.5, Milwaukee,99,202.5,Milwaukee Bucks
+2081,100,2013-03-25,6.5, Indiana,94,184.0,Indiana Pacers
+2082,107,2013-03-27,-2.5, Toronto,88,194.0,Toronto Raptors
+2083,118,2013-03-29,2.5, Boston,107,193.5,Boston Celtics
+2084,97,2013-03-30,-10.0, Orlando,88,203.0,Orlando Magic
+2085,102,2013-04-01,-11.0, Cleveland,94,201.5,Cleveland Cavaliers
+2086,95,2013-04-03,-1.5, New York,82,195.0,New York Knicks
+2087,101,2013-04-05,-6.0, Philadelphia,90,192.0,Philadelphia 76ers
+2088,99,2013-04-06,10.5, San Antonio,97,192.5,San Antonio Spurs
+2089,124,2013-04-10,-3.5, Philadelphia,101,191.0,Philadelphia 76ers
+2090,109,2013-04-12,-7.5, Milwaukee,104,203.5,Milwaukee Bucks
+2091,113,2013-04-16,-5.0, Toronto,96,196.0,Toronto Raptors
+2092,98,2013-04-17,5.0, New York,92,193.5,New York Knicks
+2093,107,2013-04-21,7.0, Indiana,90,185.5,Indiana Pacers
+2094,113,2013-04-24,7.0, Indiana,98,187.0,Indiana Pacers
+2095,90,2013-04-27,-1.5, Indiana,69,188.0,Indiana Pacers
+2096,102,2013-04-29,-1.5, Indiana,91,187.0,Indiana Pacers
+2097,106,2013-05-01,7.0, Indiana,83,188.0,Indiana Pacers
+2098,81,2013-05-03,-1.0, Indiana,73,186.5,Indiana Pacers
+2099,107,2012-11-03,-5.5, Toronto,100,194.0,Toronto Raptors
+2100,107,2012-11-05,-7.5, Minnesota,96,194.5,Minnesota Timberwolves
+2101,103,2012-11-07,10.0, Miami,73,207.5,Miami Heat
+2102,107,2012-11-09,-3.0, Orlando,68,195.0,Orlando Magic
+2103,82,2012-11-11,-8.5, Orlando,74,188.5,Orlando Magic
+2104,114,2012-11-13,-5.5, Cleveland,101,196.0,Cleveland Cavaliers
+2105,102,2012-11-15,-5.0, Boston,97,190.0,Boston Celtics
+2106,99,2012-11-18,-3.5, Sacramento,90,192.0,Sacramento Kings
+2107,95,2012-11-20,6.5, LA Lakers,90,207.5,Los Angeles Lakers
+2108,102,2012-11-21,2.5, Golden State,93,194.5,Golden State Warriors
+2109,86,2012-11-23,3.0, LA Clippers,76,194.5,Los Angeles Clippers
+2110,98,2012-11-25,-7.5, Portland,85,193.5,Portland Trail Blazers
+2111,96,2012-11-26,1.0, New York,89,192.5,New York Knicks
+2112,95,2012-11-28,4.0, Boston,83,189.5,Boston Celtics
+2113,98,2012-11-30,-5.0, Orlando,86,184.5,Orlando Magic
+2114,102,2012-12-01,8.0, Miami,89,192.5,Miami Heat
+2115,117,2012-12-04,4.5, Oklahoma City,111,195.0,Oklahoma City Thunder
+2116,109,2012-12-07,-6.5, Golden State,102,195.5,Golden State Warriors
+2117,97,2012-12-09,-6.0, Milwaukee,88,194.0,Milwaukee Bucks
+2118,100,2012-12-11,3.5, New York,97,195.5,New York Knicks
+2119,94,2012-12-12,-6.5, Toronto,88,185.0,Toronto Raptors
+2120,107,2012-12-14,-8.0, Detroit,105,190.0,Detroit Pistons
+2121,83,2012-12-15,4.5, Chicago,82,184.0,Chicago Bulls
+2122,92,2012-12-18,-4.5, Utah,90,194.0,Utah Jazz
+2123,100,2012-12-19,5.5, New York,86,193.0,New York Knicks
+2124,95,2012-12-23,-6.0, Philadelphia,92,187.5,Philadelphia 76ers
+2125,93,2012-12-25,-2.5, Boston,76,184.0,Boston Celtics
+2126,108,2012-12-26,5.0, Milwaukee,93,188.0,Milwaukee Bucks
+2127,97,2012-12-28,-9.5, Charlotte,81,196.0,Charlotte Hornets
+2128,103,2012-12-29,-8.5, Cleveland,100,190.0,Cleveland Cavaliers
+2129,104,2012-12-31,9.0, San Antonio,73,198.5,San Antonio Spurs
+2130,110,2013-01-02,10.0, Oklahoma City,93,197.0,Oklahoma City Thunder
+2131,115,2013-01-04,-6.0, Washington,113,183.5,Washington Wizards
+2132,113,2013-01-05,-7.0, Sacramento,93,196.0,Sacramento Kings
+2133,109,2013-01-08,1.5, Philadelphia,89,187.0,Philadelphia 76ers
+2134,99,2013-01-11,-7.5, Phoenix,79,194.5,Phoenix Suns
+2135,97,2013-01-13,-5.0, Indiana,86,181.0,Indiana Pacers
+2136,113,2013-01-15,-7.0, Toronto,106,189.5,Toronto Raptors
+2137,109,2013-01-16,3.0, Atlanta,95,187.5,Atlanta Hawks
+2138,94,2013-01-18,-7.0, Atlanta,89,191.5,Atlanta Hawks
+2139,88,2013-01-21,3.0, New York,85,193.0,New York Knicks
+2140,91,2013-01-23,-5.5, Minnesota,83,185.0,Minnesota Timberwolves
+2141,101,2013-01-25,4.0, Memphis,77,177.5,Memphis Grizzlies
+2142,119,2013-01-26,4.0, Houston,106,200.5,Houston Rockets
+2143,97,2013-01-28,-9.5, Orlando,77,195.5,Orlando Magic
+2144,105,2013-01-30,2.5, Miami,85,191.5,Miami Heat
+2145,93,2013-02-01,-5.0, Chicago,89,180.5,Chicago Bulls
+2146,92,2013-02-05,-3.5, LA Lakers,83,198.5,Los Angeles Lakers
+2147,93,2013-02-06,2.0, Detroit,90,190.0,Detroit Pistons
+2148,89,2013-02-08,1.5, Washington,74,189.0,Washington Wizards
+2149,111,2013-02-10,2.0, San Antonio,86,195.0,San Antonio Spurs
+2150,89,2013-02-11,9.0, Indiana,84,181.0,Indiana Pacers
+2151,119,2013-02-13,-3.0, Denver,108,196.0,Denver Nuggets
+2152,113,2013-02-19,-5.0, Milwaukee,111,193.0,Milwaukee Bucks
+2153,97,2013-02-20,4.5, Milwaukee,94,194.0,Milwaukee Bucks
+2154,106,2013-02-22,1.5, Houston,96,207.0,Houston Rockets
+2155,76,2013-02-24,2.5, Memphis,72,180.5,Memphis Grizzlies
+2156,101,2013-02-26,3.0, New Orleans,97,185.0,New Orleans Pelicans
+2157,98,2013-03-01,-3.0, Dallas,90,194.5,Dallas Mavericks
+2158,96,2013-03-02,4.5, Chicago,85,177.5,Chicago Bulls
+2159,99,2013-03-06,-10.0, Charlotte,78,191.5,Charlotte Hornets
+2160,95,2013-03-08,-5.5, Washington,78,182.0,Washington Wizards
+2161,93,2013-03-09,3.5, Atlanta,80,191.5,Atlanta Hawks
+2162,106,2013-03-11,-6.5, Philadelphia,97,184.5,Philadelphia 76ers
+2163,108,2013-03-12,-6.0, New Orleans,98,184.0,New Orleans Pelicans
+2164,105,2013-03-17,-4.0, Atlanta,93,189.0,Atlanta Hawks
+2165,119,2013-03-18,-4.5, Detroit,82,191.0,Detroit Pistons
+2166,113,2013-03-20,3.5, Dallas,96,196.0,Dallas Mavericks
+2167,101,2013-03-23,8.0, LA Clippers,95,190.5,Los Angeles Clippers
+2168,102,2013-03-24,-6.0, Phoenix,100,189.5,Phoenix Suns
+2169,111,2013-03-27,3.5, Portland,93,196.0,Portland Trail Blazers
+2170,109,2013-03-29,6.5, Denver,87,201.5,Denver Nuggets
+2171,116,2013-03-30,4.0, Utah,107,191.5,Utah Jazz
+2172,113,2013-04-03,-4.5, Cleveland,95,199.5,Cleveland Cavaliers
+2173,92,2013-04-04,-5.5, Chicago,90,188.5,Chicago Bulls
+2174,105,2013-04-06,-15.0, Charlotte,96,196.0,Charlotte Hornets
+2175,104,2013-04-09,-8.5, Philadelphia,83,192.0,Philadelphia 76ers
+2176,101,2013-04-10,3.0, Boston,93,190.5,Boston Celtics
+2177,117,2013-04-12,6.0, Indiana,109,187.0,Indiana Pacers
+2178,93,2013-04-14,-4.0, Toronto,87,194.5,Toronto Raptors
+2179,106,2013-04-15,-4.5, Washington,101,190.0,Washington Wizards
+2180,103,2013-04-17,-5.0, Detroit,99,196.5,Detroit Pistons
+2181,106,2013-04-20,-4.5, Chicago,89,181.5,Chicago Bulls
+2182,90,2013-04-22,-5.5, Chicago,82,183.0,Chicago Bulls
+2183,79,2013-04-25,3.5, Chicago,76,182.0,Chicago Bulls
+2184,142,2013-04-27,2.0, Chicago,134,176.5,Chicago Bulls
+2185,110,2013-04-29,-6.5, Chicago,91,180.5,Chicago Bulls
+2186,95,2013-05-02,1.0, Chicago,92,184.0,Chicago Bulls
+2187,99,2013-05-04,-7.0, Chicago,93,182.5,Chicago Bulls
+2188,99,2012-10-30,8.5, LA Lakers,91,186.0,Los Angeles Lakers
+2189,113,2012-10-31,8.0, Utah,94,194.5,Utah Jazz
+2190,126,2012-11-03,-9.5, Charlotte,99,186.5,Charlotte Hornets
+2191,114,2012-11-05,-4.0, Portland,91,198.5,Portland Trail Blazers
+2192,109,2012-11-07,-7.0, Toronto,104,197.0,Toronto Raptors
+2193,104,2012-11-09,6.5, New York,94,198.5,New York Knicks
+2194,101,2012-11-10,-6.0, Charlotte,97,200.0,Charlotte Hornets
+2195,90,2012-11-12,-7.0, Minnesota,82,191.5,Minnesota Timberwolves
+2196,107,2012-11-14,-8.5, Washington,101,192.0,Washington Wizards
+2197,103,2012-11-16,2.0, Indiana,83,188.0,Indiana Pacers
+2198,103,2012-11-17,2.5, Cleveland,95,199.5,Cleveland Cavaliers
+2199,105,2012-11-19,-5.0, Golden State,101,200.0,Golden State Warriors
+2200,114,2012-11-21,3.5, New York,111,193.5,New York Knicks
+2201,115,2012-11-24,1.0, LA Lakers,89,205.0,Los Angeles Lakers
+2202,100,2012-11-27,3.0, Philadelphia,98,192.0,Philadelphia 76ers
+2203,101,2012-11-28,6.0, Chicago,78,189.5,Chicago Bulls
+2204,92,2012-12-01,-7.0, Detroit,77,195.0,Detroit Pistons
+2205,112,2012-12-05,8.5, LA Clippers,90,200.5,Los Angeles Clippers
+2206,97,2012-12-06,4.0, Phoenix,94,205.0,Phoenix Suns
+2207,116,2012-12-08,6.5, Houston,109,209.0,Houston Rockets
+2208,119,2012-12-10,-6.5, Sacramento,96,200.5,Sacramento Kings
+2209,117,2012-12-12,6.0, Boston,115,197.5,Boston Celtics
+2210,95,2012-12-14,-5.0, Toronto,74,194.5,Toronto Raptors
+2211,114,2012-12-15,4.5, Minnesota,106,195.5,Minnesota Timberwolves
+2212,107,2012-12-18,-6.5, Philadelphia,100,194.0,Philadelphia 76ers
+2213,110,2012-12-20,5.5, Miami,95,202.5,Miami Heat
+2214,92,2012-12-21,10.5, Memphis,82,188.5,Memphis Grizzlies
+2215,129,2012-12-23,11.0, San Antonio,91,207.0,San Antonio Spurs
+2216,111,2012-12-27,10.5, Oklahoma City,105,207.0,Oklahoma City Thunder
+2217,106,2012-12-28,3.0, Denver,85,210.0,Denver Nuggets
+2218,111,2012-12-30,6.0, San Antonio,86,207.5,San Antonio Spurs
+2219,103,2013-01-01,-4.0, Washington,94,191.5,Washington Wizards
+2220,119,2013-01-02,10.5, Miami,109,204.5,Miami Heat
+2221,99,2013-01-05,-6.0, New Orleans,96,193.5,New Orleans Pelicans
+2222,100,2013-01-07,5.0, Utah,94,198.5,Utah Jazz
+2223,99,2013-01-09,10.0, LA Clippers,93,202.0,Los Angeles Clippers
+2224,117,2013-01-10,2.5, Sacramento,112,205.5,Sacramento Kings
+2225,104,2013-01-12,1.0, Memphis,83,187.0,Memphis Grizzlies
+2226,113,2013-01-14,-7.5, Minnesota,98,195.5,Minnesota Timberwolves
+2227,105,2013-01-16,-4.0, Houston,100,213.5,Houston Rockets
+2228,117,2013-01-18,5.5, Oklahoma City,114,206.0,Oklahoma City Thunder
+2229,111,2013-01-20,-3.0, Orlando,105,201.5,Orlando Magic
+2230,113,2013-01-25,-2.0, San Antonio,107,204.5,San Antonio Spurs
+2231,110,2013-01-27,-8.0, Phoenix,95,202.5,Phoenix Suns
+2232,106,2013-01-29,3.0, Portland,104,201.5,Portland Trail Blazers
+2233,100,2013-01-31,4.0, Golden State,97,203.5,Golden State Warriors
+2234,109,2013-02-01,2.5, Phoenix,99,201.0,Phoenix Suns
+2235,112,2013-02-04,8.5, Oklahoma City,91,209.5,Oklahoma City Thunder
+2236,105,2013-02-06,-5.5, Portland,99,201.0,Portland Trail Blazers
+2237,116,2013-02-09,-5.5, Golden State,91,211.5,Golden State Warriors
+2238,105,2013-02-11,-5.5, Atlanta,101,204.5,Atlanta Hawks
+2239,123,2013-02-13,-10.0, Sacramento,100,211.5,Sacramento Kings
+2240,111,2013-02-20,-11.5, Orlando,96,206.0,Orlando Magic
+2241,104,2013-02-22,-1.0, New Orleans,100,199.0,New Orleans Pelicans
+2242,103,2013-02-24,-3.0, LA Lakers,99,212.0,Los Angeles Lakers
+2243,95,2013-02-26,-5.5, Milwaukee,90,212.5,Milwaukee Bucks
+2244,90,2013-02-27,7.5, Memphis,84,188.0,Memphis Grizzlies
+2245,98,2013-03-01,3.0, Brooklyn,90,194.5,Brooklyn Nets
+2246,136,2013-03-03,5.5, Houston,103,219.5,Houston Rockets
+2247,112,2013-03-06,-1.5, Houston,108,221.0,Houston Rockets
+2248,102,2013-03-08,-4.0, Detroit,99,199.0,Detroit Pistons
+2249,100,2013-03-10,-7.0, Minnesota,77,199.0,Minnesota Timberwolves
+2250,115,2013-03-12,2.5, Milwaukee,108,209.5,Milwaukee Bucks
+2251,92,2013-03-14,9.5, San Antonio,91,206.5,San Antonio Spurs
+2252,96,2013-03-15,-8.5, Cleveland,86,203.0,Cleveland Cavaliers
+2253,107,2013-03-17,5.5, Oklahoma City,101,208.0,Oklahoma City Thunder
+2254,127,2013-03-18,4.0, Atlanta,113,203.5,Atlanta Hawks
+2255,113,2013-03-20,-3.5, Brooklyn,96,196.0,Brooklyn Nets
+2256,104,2013-03-22,-4.5, Boston,94,195.0,Boston Celtics
+2257,113,2013-03-24,-6.0, Utah,108,199.0,Utah Jazz
+2258,109,2013-03-26,1.5, LA Clippers,102,202.5,Los Angeles Clippers
+2259,103,2013-03-28,-4.5, Indiana,78,193.0,Indiana Pacers
+2260,100,2013-03-30,-5.5, Chicago,98,192.0,Chicago Bulls
+2261,101,2013-04-02,4.5, LA Lakers,81,209.0,Los Angeles Lakers
+2262,95,2013-04-04,7.0, Denver,94,208.5,Denver Nuggets
+2263,117,2013-04-05,1.5, Sacramento,108,212.0,Sacramento Kings
+2264,96,2013-04-07,-4.0, Portland,91,206.5,Portland Trail Blazers
+2265,102,2013-04-10,-13.5, Phoenix,91,204.0,Phoenix Suns
+2266,108,2013-04-12,3.0, Denver,105,209.0,Denver Nuggets
+2267,107,2013-04-14,-3.0, New Orleans,89,196.0,New Orleans Pelicans
+2268,103,2013-04-15,3.5, Memphis,97,186.5,Memphis Grizzlies
+2269,99,2013-04-17,-8.5, New Orleans,87,197.0,New Orleans Pelicans
+2270,92,2012-11-02,-3.0, Sacramento,80,195.0,Sacramento Kings
+2271,105,2012-11-04,3.5, Toronto,86,189.0,Toronto Raptors
+2272,107,2012-11-05,7.5, Brooklyn,96,194.5,Brooklyn Nets
+2273,90,2012-11-07,-6.0, Orlando,75,194.0,Orlando Magic
+2274,96,2012-11-09,-1.5, Indiana,94,183.5,Indiana Pacers
+2275,87,2012-11-10,8.5, Chicago,80,184.0,Chicago Bulls
+2276,90,2012-11-12,7.0, Dallas,82,191.5,Dallas Mavericks
+2277,89,2012-11-14,-7.0, Charlotte,87,181.5,Charlotte Hornets
+2278,106,2012-11-16,1.0, Golden State,98,186.5,Golden State Warriors
+2279,101,2012-11-21,2.0, Denver,94,192.5,Denver Nuggets
+2280,103,2012-11-23,2.0, Portland,95,197.5,Portland Trail Blazers
+2281,96,2012-11-24,3.0, Golden State,85,197.0,Golden State Warriors
+2282,97,2012-11-27,1.0, Sacramento,89,195.0,Sacramento Kings
+2283,101,2012-11-28,9.0, LA Clippers,95,194.5,Los Angeles Clippers
+2284,95,2012-11-30,-1.5, Milwaukee,85,194.5,Milwaukee Bucks
+2285,105,2012-12-04,3.0, Philadelphia,88,187.5,Philadelphia 76ers
+2286,104,2012-12-05,5.5, Boston,94,193.0,Boston Celtics
+2287,91,2012-12-07,-8.5, Cleveland,73,191.0,Cleveland Cavaliers
+2288,108,2012-12-12,-4.0, Denver,105,199.0,Denver Nuggets
+2289,113,2012-12-14,-4.5, New Orleans,102,184.0,New Orleans Pelicans
+2290,114,2012-12-15,-4.5, Dallas,106,195.5,Dallas Mavericks
+2291,102,2012-12-17,-3.5, Orlando,93,193.0,Orlando Magic
+2292,103,2012-12-18,8.5, Miami,92,200.0,Miami Heat
+2293,99,2012-12-20,2.0, Oklahoma City,93,200.0,Oklahoma City Thunder
+2294,94,2012-12-23,8.0, New York,91,200.5,New York Knicks
+2295,87,2012-12-26,-5.0, Houston,84,211.0,Houston Rockets
+2296,111,2012-12-29,-8.5, Phoenix,107,194.5,Phoenix Suns
+2297,106,2013-01-02,3.0, Utah,84,196.0,Utah Jazz
+2298,101,2013-01-03,8.0, Denver,97,201.0,Denver Nuggets
+2299,102,2013-01-05,-6.5, Portland,97,190.5,Portland Trail Blazers
+2300,108,2013-01-08,-1.0, Atlanta,103,188.5,Atlanta Hawks
+2301,106,2013-01-09,12.5, Oklahoma City,84,202.0,Oklahoma City Thunder
+2302,104,2013-01-11,3.0, New Orleans,92,181.5,New Orleans Pelicans
+2303,106,2013-01-13,12.0, San Antonio,88,199.0,San Antonio Spurs
+2304,113,2013-01-14,7.5, Dallas,98,195.5,Dallas Mavericks
+2305,90,2013-01-17,5.0, LA Clippers,77,193.5,Los Angeles Clippers
+2306,92,2013-01-19,5.5, Houston,79,202.5,Houston Rockets
+2307,104,2013-01-21,8.0, Atlanta,96,184.5,Atlanta Hawks
+2308,91,2013-01-23,5.5, Brooklyn,83,185.0,Brooklyn Nets
+2309,114,2013-01-25,6.5, Washington,101,187.5,Washington Wizards
+2310,102,2013-01-26,3.0, Charlotte,101,193.5,Charlotte Hornets
+2311,96,2013-01-30,4.5, LA Clippers,90,189.0,Los Angeles Clippers
+2312,111,2013-02-01,2.5, LA Lakers,100,200.5,Los Angeles Lakers
+2313,115,2013-02-02,-3.0, New Orleans,86,189.5,New Orleans Pelicans
+2314,100,2013-02-04,-4.0, Portland,98,192.5,Portland Trail Blazers
+2315,104,2013-02-06,4.5, San Antonio,94,198.0,San Antonio Spurs
+2316,100,2013-02-08,6.5, New York,94,195.5,New York Knicks
+2317,105,2013-02-10,8.5, Memphis,88,183.0,Memphis Grizzlies
+2318,100,2013-02-11,7.5, Cleveland,92,205.0,Cleveland Cavaliers
+2319,97,2013-02-13,-2.0, Utah,93,193.0,Utah Jazz
+2320,94,2013-02-20,-4.0, Philadelphia,87,186.0,Philadelphia 76ers
+2321,127,2013-02-22,14.0, Oklahoma City,111,204.5,Oklahoma City Thunder
+2322,100,2013-02-24,2.0, Golden State,99,205.5,Golden State Warriors
+2323,84,2013-02-26,1.5, Phoenix,83,197.5,Phoenix Suns
+2324,116,2013-02-28,10.0, LA Lakers,94,205.5,Los Angeles Lakers
+2325,109,2013-03-02,8.0, Portland,94,197.5,Portland Trail Blazers
+2326,97,2013-03-04,9.5, Miami,81,196.0,Miami Heat
+2327,87,2013-03-06,2.0, Washington,82,188.0,Washington Wizards
+2328,111,2013-03-09,15.5, Denver,88,210.5,Denver Nuggets
+2329,100,2013-03-10,7.0, Dallas,77,199.0,Dallas Mavericks
+2330,107,2013-03-12,8.5, San Antonio,83,196.0,San Antonio Spurs
+2331,107,2013-03-13,15.5, Indiana,91,184.5,Indiana Pacers
+2332,108,2013-03-15,14.5, Houston,100,211.0,Houston Rockets
+2333,97,2013-03-17,-1.5, New Orleans,95,191.0,New Orleans Pelicans
+2334,92,2013-03-18,13.0, Memphis,77,183.0,Memphis Grizzlies
+2335,101,2013-03-21,6.0, Sacramento,98,211.5,Sacramento Kings
+2336,117,2013-03-22,1.5, Phoenix,86,194.0,Phoenix Suns
+2337,104,2013-03-24,-3.0, Chicago,97,186.0,Chicago Bulls
+2338,105,2013-03-26,-2.0, Detroit,82,195.5,Detroit Pistons
+2339,120,2013-03-27,4.5, LA Lakers,117,205.5,Los Angeles Lakers
+2340,101,2013-03-29,8.0, Oklahoma City,93,205.0,Oklahoma City Thunder
+2341,99,2013-03-30,4.0, Memphis,86,184.0,Memphis Grizzlies
+2342,110,2013-04-01,-5.5, Boston,100,192.5,Boston Celtics
+2343,107,2013-04-03,4.5, Milwaukee,98,208.5,Milwaukee Bucks
+2344,95,2013-04-05,-6.0, Toronto,93,198.0,Toronto Raptors
+2345,107,2013-04-06,-6.0, Detroit,101,195.5,Detroit Pistons
+2346,105,2013-04-09,7.0, Golden State,89,204.0,Golden State Warriors
+2347,111,2013-04-10,12.5, LA Clippers,95,198.5,Los Angeles Clippers
+2348,107,2013-04-12,9.5, Utah,100,196.5,Utah Jazz
+2349,105,2013-04-13,-4.5, Phoenix,93,201.5,Phoenix Suns
+2350,96,2013-04-15,4.5, Utah,80,195.5,Utah Jazz
+2351,108,2013-04-17,9.5, San Antonio,95,199.5,San Antonio Spurs
+2352,90,2012-10-31,-1.0, Toronto,88,190.0,Toronto Raptors
+2353,90,2012-11-02,-6.5, Charlotte,89,183.0,Charlotte Hornets
+2354,106,2012-11-03,-7.5, Sacramento,98,189.0,Sacramento Kings
+2355,101,2012-11-05,8.5, San Antonio,79,194.0,San Antonio Spurs
+2356,89,2012-11-07,4.0, Atlanta,86,191.5,Atlanta Hawks
+2357,96,2012-11-09,1.5, Minnesota,94,183.5,Minnesota Timberwolves
+2358,89,2012-11-10,-8.0, Washington,85,186.0,Washington Wizards
+2359,74,2012-11-13,-9.0, Toronto,72,185.5,Toronto Raptors
+2360,99,2012-11-14,4.5, Milwaukee,85,189.5,Milwaukee Bucks
+2361,103,2012-11-16,-2.0, Dallas,83,188.0,Dallas Mavericks
+2362,88,2012-11-18,7.0, New York,76,186.0,New York Knicks
+2363,96,2012-11-19,-3.0, Washington,89,180.0,Washington Wizards
+2364,115,2012-11-21,-7.5, New Orleans,107,181.0,New Orleans Pelicans
+2365,104,2012-11-23,4.5, San Antonio,97,191.0,San Antonio Spurs
+2366,79,2012-11-27,9.0, LA Lakers,77,196.0,Los Angeles Lakers
+2367,97,2012-11-30,-1.5, Sacramento,92,187.5,Sacramento Kings
+2368,103,2012-12-01,5.0, Golden State,92,188.5,Golden State Warriors
+2369,80,2012-12-04,4.0, Chicago,76,180.5,Chicago Bulls
+2370,99,2012-12-05,-4.0, Portland,92,186.5,Portland Trail Blazers
+2371,92,2012-12-07,-2.0, Denver,89,195.5,Denver Nuggets
+2372,104,2012-12-09,10.0, Oklahoma City,93,196.0,Oklahoma City Thunder
+2373,96,2012-12-12,-7.5, Cleveland,81,189.0,Cleveland Cavaliers
+2374,95,2012-12-14,-6.0, Philadelphia,85,179.0,Philadelphia 76ers
+2375,88,2012-12-15,-2.0, Detroit,77,183.0,Detroit Pistons
+2376,98,2012-12-18,2.5, Milwaukee,93,185.0,Milwaukee Bucks
+2377,104,2012-12-19,-3.5, Utah,84,186.0,Utah Jazz
+2378,99,2012-12-21,-4.5, Cleveland,89,187.0,Cleveland Cavaliers
+2379,81,2012-12-22,-3.5, New Orleans,75,178.5,New Orleans Pelicans
+2380,97,2012-12-28,-8.5, Phoenix,91,188.5,Phoenix Suns
+2381,109,2012-12-29,2.5, Atlanta,100,182.0,Atlanta Hawks
+2382,88,2012-12-31,1.5, Memphis,83,176.5,Memphis Grizzlies
+2383,89,2013-01-02,-11.0, Washington,81,181.0,Washington Wizards
+2384,94,2013-01-04,3.0, Boston,75,181.5,Boston Celtics
+2385,95,2013-01-05,-4.5, Milwaukee,80,187.5,Milwaukee Bucks
+2386,87,2013-01-08,1.5, Miami,77,187.0,Miami Heat
+2387,81,2013-01-10,-5.5, New York,76,184.0,New York Knicks
+2388,96,2013-01-12,-11.5, Charlotte,88,185.0,Charlotte Hornets
+2389,97,2013-01-13,5.0, Brooklyn,86,181.0,Brooklyn Nets
+2390,103,2013-01-15,-7.5, Charlotte,76,185.0,Charlotte Hornets
+2391,97,2013-01-16,-2.0, Orlando,86,186.5,Orlando Magic
+2392,105,2013-01-18,-4.5, Houston,95,195.0,Houston Rockets
+2393,82,2013-01-21,6.0, Memphis,81,170.5,Memphis Grizzlies
+2394,100,2013-01-23,1.0, Portland,80,181.5,Portland Trail Blazers
+2395,114,2013-01-26,2.0, Utah,110,183.0,Utah Jazz
+2396,102,2013-01-28,5.5, Denver,101,193.5,Denver Nuggets
+2397,98,2013-01-30,-8.5, Detroit,79,181.0,Detroit Pistons
+2398,102,2013-02-01,2.0, Miami,89,184.5,Miami Heat
+2399,111,2013-02-04,-5.5, Chicago,101,176.5,Chicago Bulls
+2400,114,2013-02-05,-6.0, Atlanta,103,184.0,Atlanta Hawks
+2401,88,2013-02-06,2.0, Philadelphia,69,180.0,Philadelphia 76ers
+2402,100,2013-02-08,-7.0, Toronto,98,190.0,Toronto Raptors
+2403,89,2013-02-11,-9.0, Brooklyn,84,181.0,Brooklyn Nets
+2404,101,2013-02-13,-11.0, Charlotte,77,185.0,Charlotte Hornets
+2405,125,2013-02-20,-4.0, New York,91,185.0,New York Knicks
+2406,114,2013-02-22,-9.5, Detroit,82,190.0,Detroit Pistons
+2407,90,2013-02-23,-5.0, Detroit,72,188.5,Detroit Pistons
+2408,108,2013-02-26,-8.5, Golden State,97,196.5,Golden State Warriors
+2409,99,2013-02-28,-1.5, LA Clippers,91,192.5,Los Angeles Clippers
+2410,93,2013-03-01,-2.0, Toronto,81,185.5,Toronto Raptors
+2411,97,2013-03-03,-7.5, Chicago,92,178.5,Chicago Bulls
+2412,83,2013-03-06,-9.0, Boston,81,184.5,Boston Celtics
+2413,115,2013-03-08,-9.5, Orlando,86,189.5,Orlando Magic
+2414,105,2013-03-10,6.5, Miami,91,187.5,Miami Heat
+2415,107,2013-03-13,-15.5, Minnesota,91,184.5,Minnesota Timberwolves
+2416,99,2013-03-15,-8.5, LA Lakers,93,191.0,Los Angeles Lakers
+2417,98,2013-03-16,-5.5, Philadelphia,91,182.5,Philadelphia 76ers
+2418,111,2013-03-18,-7.0, Cleveland,90,187.0,Cleveland Cavaliers
+2419,95,2013-03-19,-11.0, Orlando,73,195.0,Orlando Magic
+2420,102,2013-03-22,-7.5, Milwaukee,78,190.5,Milwaukee Bucks
+2421,87,2013-03-23,2.0, Chicago,84,179.0,Chicago Bulls
+2422,100,2013-03-25,-6.5, Atlanta,94,184.0,Atlanta Hawks
+2423,100,2013-03-27,6.0, Houston,91,197.5,Houston Rockets
+2424,103,2013-03-28,4.5, Dallas,78,193.0,Dallas Mavericks
+2425,112,2013-03-30,-10.0, Phoenix,104,189.5,Phoenix Suns
+2426,109,2013-04-01,5.5, LA Clippers,106,188.0,Los Angeles Clippers
+2427,97,2013-04-05,-3.0, Oklahoma City,75,191.5,Oklahoma City Thunder
+2428,104,2013-04-06,-4.0, Washington,85,184.0,Washington Wizards
+2429,99,2013-04-09,-14.0, Cleveland,94,189.5,Cleveland Cavaliers
+2430,117,2013-04-12,-6.0, Brooklyn,109,187.0,Brooklyn Nets
+2431,90,2013-04-14,3.0, New York,80,193.0,New York Knicks
+2432,105,2013-04-17,-2.5, Philadelphia,95,186.5,Philadelphia 76ers
+2433,107,2013-04-21,-7.0, Atlanta,90,185.5,Atlanta Hawks
+2434,113,2013-04-24,-7.0, Atlanta,98,187.0,Atlanta Hawks
+2435,90,2013-04-27,1.5, Atlanta,69,188.0,Atlanta Hawks
+2436,102,2013-04-29,1.5, Atlanta,91,187.0,Atlanta Hawks
+2437,106,2013-05-01,-7.0, Atlanta,83,188.0,Atlanta Hawks
+2438,81,2013-05-03,1.0, Atlanta,73,186.5,Atlanta Hawks
+2439,102,2013-05-05,5.5, New York,95,181.5,New York Knicks
+2440,105,2013-05-07,6.0, New York,79,183.5,New York Knicks
+2441,82,2013-05-11,-5.0, New York,71,183.0,New York Knicks
+2442,93,2013-05-14,-5.0, New York,82,180.0,New York Knicks
+2443,85,2013-05-16,5.0, New York,75,181.5,New York Knicks
+2444,106,2013-05-18,-5.5, New York,99,179.5,New York Knicks
+2445,103,2013-05-22,8.5, Miami,102,181.5,Miami Heat
+2446,97,2013-05-24,7.5, Miami,93,182.5,Miami Heat
+2447,114,2013-05-26,2.0, Miami,96,182.0,Miami Heat
+2448,99,2013-05-28,3.0, Miami,92,185.0,Miami Heat
+2449,90,2013-05-30,7.5, Miami,79,185.5,Miami Heat
+2450,91,2013-06-01,3.0, Miami,77,183.5,Miami Heat
+2451,99,2013-06-03,7.0, Miami,76,180.5,Miami Heat
+2452,101,2012-10-31,-4.5, Memphis,92,187.5,Memphis Grizzlies
+2453,105,2012-11-02,-1.5, LA Lakers,95,191.5,Los Angeles Lakers
+2454,114,2012-11-03,-8.5, Golden State,110,197.5,Golden State Warriors
+2455,108,2012-11-05,-10.0, Cleveland,101,199.5,Cleveland Cavaliers
+2456,106,2012-11-07,1.5, San Antonio,84,204.0,San Antonio Spurs
+2457,103,2012-11-08,-1.0, Portland,90,202.0,Portland Trail Blazers
+2458,89,2012-11-11,-6.5, Atlanta,76,195.0,Atlanta Hawks
+2459,107,2012-11-14,1.0, Miami,100,197.0,Miami Heat
+2460,101,2012-11-17,-6.0, Chicago,80,190.5,Chicago Bulls
+2461,92,2012-11-19,4.5, San Antonio,87,199.0,San Antonio Spurs
+2462,117,2012-11-21,3.5, Oklahoma City,111,198.5,Oklahoma City Thunder
+2463,86,2012-11-23,-3.0, Brooklyn,76,194.5,Brooklyn Nets
+2464,104,2012-11-24,-2.0, Atlanta,93,188.5,Atlanta Hawks
+2465,105,2012-11-26,-13.5, New Orleans,98,189.0,New Orleans Pelicans
+2466,101,2012-11-28,-9.0, Minnesota,95,194.5,Minnesota Timberwolves
+2467,116,2012-12-01,-12.5, Sacramento,81,196.5,Sacramento Kings
+2468,105,2012-12-03,-2.0, Utah,104,197.0,Utah Jazz
+2469,112,2012-12-05,-8.5, Dallas,90,200.5,Dallas Mavericks
+2470,117,2012-12-08,-10.5, Phoenix,99,200.5,Phoenix Suns
+2471,102,2012-12-09,-10.0, Toronto,83,201.5,Toronto Raptors
+2472,94,2012-12-11,-4.0, Chicago,89,188.5,Chicago Bulls
+2473,100,2012-12-12,-8.0, Charlotte,94,199.5,Charlotte Hornets
+2474,111,2012-12-15,-5.0, Milwaukee,85,194.5,Milwaukee Bucks
+2475,88,2012-12-17,-6.5, Detroit,76,192.0,Detroit Pistons
+2476,93,2012-12-19,-14.0, New Orleans,77,189.0,New Orleans Pelicans
+2477,97,2012-12-21,-13.5, Sacramento,85,202.5,Sacramento Kings
+2478,103,2012-12-23,-6.5, Phoenix,77,195.5,Phoenix Suns
+2479,112,2012-12-25,-6.5, Denver,100,204.0,Denver Nuggets
+2480,106,2012-12-27,-9.0, Boston,77,189.0,Boston Celtics
+2481,116,2012-12-28,-3.0, Utah,114,191.0,Utah Jazz
+2482,107,2012-12-30,-10.5, Utah,96,198.0,Utah Jazz
+2483,92,2013-01-01,1.0, Denver,78,207.5,Denver Nuggets
+2484,115,2013-01-02,-1.5, Golden State,94,201.5,Golden State Warriors
+2485,107,2013-01-04,-4.5, LA Lakers,102,207.0,Los Angeles Lakers
+2486,115,2013-01-05,-6.5, Golden State,89,202.5,Golden State Warriors
+2487,99,2013-01-09,-10.0, Dallas,93,202.0,Dallas Mavericks
+2488,104,2013-01-12,-12.5, Orlando,101,198.5,Orlando Magic
+2489,99,2013-01-14,4.5, Memphis,73,179.5,Memphis Grizzlies
+2490,117,2013-01-15,3.5, Houston,109,207.0,Houston Rockets
+2491,90,2013-01-17,-5.0, Minnesota,77,193.5,Minnesota Timberwolves
+2492,94,2013-01-19,-13.0, Washington,87,195.0,Washington Wizards
+2493,106,2013-01-21,-4.5, Golden State,99,198.0,Golden State Warriors
+2494,109,2013-01-22,2.5, Oklahoma City,97,200.5,Oklahoma City Thunder
+2495,93,2013-01-24,-6.5, Phoenix,88,191.0,Phoenix Suns
+2496,101,2013-01-26,-1.0, Portland,100,190.5,Portland Trail Blazers
+2497,96,2013-01-27,-10.0, Portland,83,192.5,Portland Trail Blazers
+2498,96,2013-01-30,-4.5, Minnesota,90,189.0,Minnesota Timberwolves
+2499,98,2013-02-01,-4.0, Toronto,73,193.5,Toronto Raptors
+2500,106,2013-02-03,-1.0, Boston,104,183.0,Boston Celtics
+2501,98,2013-02-04,-3.0, Washington,90,187.5,Washington Wizards
+2502,86,2013-02-06,-5.0, Orlando,76,184.0,Orlando Magic
+2503,111,2013-02-08,3.5, Miami,89,193.0,Miami Heat
+2504,102,2013-02-10,3.5, New York,88,192.0,New York Knicks
+2505,107,2013-02-11,-5.0, Philadelphia,90,185.0,Philadelphia 76ers
+2506,106,2013-02-13,-11.0, Houston,96,208.0,Houston Rockets
+2507,125,2013-02-14,-3.5, LA Lakers,101,201.0,Los Angeles Lakers
+2508,116,2013-02-21,-4.0, San Antonio,90,202.0,San Antonio Spurs
+2509,107,2013-02-23,-10.0, Utah,94,198.0,Utah Jazz
+2510,106,2013-02-26,-17.0, Charlotte,84,196.0,Charlotte Hornets
+2511,99,2013-02-28,1.5, Indiana,91,192.5,Indiana Pacers
+2512,105,2013-03-01,-8.0, Cleveland,89,200.0,Cleveland Cavaliers
+2513,108,2013-03-03,-3.0, Oklahoma City,104,206.5,Oklahoma City Thunder
+2514,117,2013-03-06,-10.0, Milwaukee,101,206.0,Milwaukee Bucks
+2515,107,2013-03-07,4.0, Denver,92,214.5,Denver Nuggets
+2516,129,2013-03-10,-13.0, Detroit,97,198.0,Detroit Pistons
+2517,96,2013-03-13,-7.0, Memphis,85,185.0,Memphis Grizzlies
+2518,93,2013-03-17,-13.0, New York,80,193.5,New York Knicks
+2519,116,2013-03-19,-8.5, Sacramento,101,212.5,Sacramento Kings
+2520,101,2013-03-20,-11.0, Philadelphia,72,194.5,Philadelphia 76ers
+2521,101,2013-03-23,-8.0, Brooklyn,95,190.5,Brooklyn Nets
+2522,109,2013-03-26,-1.5, Dallas,102,202.5,Dallas Mavericks
+2523,105,2013-03-27,-5.5, New Orleans,91,188.0,New Orleans Pelicans
+2524,104,2013-03-29,4.0, San Antonio,102,198.0,San Antonio Spurs
+2525,98,2013-03-30,-3.0, Houston,81,204.0,Houston Rockets
+2526,109,2013-04-01,-5.5, Indiana,106,188.0,Indiana Pacers
+2527,126,2013-04-03,-17.0, Phoenix,101,201.0,Phoenix Suns
+2528,109,2013-04-07,-4.5, LA Lakers,95,199.0,Los Angeles Lakers
+2529,111,2013-04-10,-12.5, Minnesota,95,198.5,Minnesota Timberwolves
+2530,96,2013-04-12,-9.0, New Orleans,93,192.0,New Orleans Pelicans
+2531,91,2013-04-13,2.0, Memphis,87,182.0,Memphis Grizzlies
+2532,93,2013-04-16,-16.0, Portland,77,205.0,Portland Trail Blazers
+2533,112,2013-04-17,-7.0, Sacramento,108,206.0,Sacramento Kings
+2534,112,2013-04-20,-5.5, Memphis,91,178.5,Memphis Grizzlies
+2535,93,2013-04-22,-6.0, Memphis,91,180.0,Memphis Grizzlies
+2536,94,2013-04-25,4.5, Memphis,82,178.5,Memphis Grizzlies
+2537,104,2013-04-27,3.0, Memphis,83,177.5,Memphis Grizzlies
+2538,103,2013-04-30,-5.5, Memphis,93,180.5,Memphis Grizzlies
+2539,118,2013-05-03,6.0, Memphis,105,179.5,Memphis Grizzlies
+2540,84,2012-10-31,-2.0, Philadelphia,75,197.5,Philadelphia 76ers
+2541,102,2012-11-02,-6.0, Orlando,89,198.0,Orlando Magic
+2542,119,2012-11-03,8.5, Miami,116,199.5,Miami Heat
+2543,109,2012-11-06,-10.0, Detroit,97,199.5,Detroit Pistons
+2544,93,2012-11-07,2.5, Houston,87,204.5,Houston Rockets
+2545,104,2012-11-09,-5.5, Utah,84,203.0,Utah Jazz
+2546,107,2012-11-10,-2.5, Golden State,101,202.5,Golden State Warriors
+2547,110,2012-11-12,-4.5, Phoenix,100,203.0,Phoenix Suns
+2548,98,2012-11-15,-3.5, Miami,93,202.5,Miami Heat
+2549,126,2012-11-17,6.0, San Antonio,100,202.5,San Antonio Spurs
+2550,97,2012-11-19,7.0, Memphis,92,196.0,Memphis Grizzlies
+2551,101,2012-11-21,-2.0, Minnesota,94,192.5,Minnesota Timberwolves
+2552,102,2012-11-23,-6.5, Golden State,91,201.0,Golden State Warriors
+2553,102,2012-11-25,-10.0, New Orleans,84,194.0,New Orleans Pelicans
+2554,105,2012-11-26,3.0, Utah,103,197.5,Utah Jazz
+2555,106,2012-11-29,-1.5, Golden State,105,199.5,Golden State Warriors
+2556,122,2012-11-30,5.5, LA Lakers,103,206.0,Los Angeles Lakers
+2557,113,2012-12-03,-10.5, Toronto,110,200.5,Toronto Raptors
+2558,108,2012-12-05,2.0, Atlanta,104,199.5,Atlanta Hawks
+2559,92,2012-12-07,2.0, Indiana,89,195.5,Indiana Pacers
+2560,112,2012-12-09,4.0, New York,106,204.0,New York Knicks
+2561,101,2012-12-11,-4.5, Detroit,94,203.5,Detroit Pistons
+2562,108,2012-12-12,4.0, Minnesota,105,199.0,Minnesota Timberwolves
+2563,99,2012-12-14,-1.0, Memphis,94,194.5,Memphis Grizzlies
+2564,122,2012-12-16,-4.5, Sacramento,97,205.0,Sacramento Kings
+2565,112,2012-12-18,-2.5, San Antonio,106,209.5,San Antonio Spurs
+2566,101,2012-12-20,-6.0, Portland,93,200.5,Portland Trail Blazers
+2567,110,2012-12-22,-16.0, Charlotte,88,210.0,Charlotte Hornets
+2568,112,2012-12-25,6.5, LA Clippers,100,204.0,Los Angeles Clippers
+2569,126,2012-12-26,-3.5, LA Lakers,114,212.0,Los Angeles Lakers
+2570,106,2012-12-28,-3.0, Dallas,85,210.0,Dallas Mavericks
+2571,81,2012-12-29,6.0, Memphis,72,195.0,Memphis Grizzlies
+2572,92,2013-01-01,-1.0, LA Clippers,78,207.5,Los Angeles Clippers
+2573,101,2013-01-03,-8.0, Minnesota,97,201.0,Minnesota Timberwolves
+2574,110,2013-01-05,-10.5, Utah,91,201.5,Utah Jazz
+2575,112,2013-01-06,5.5, LA Lakers,105,214.0,Los Angeles Lakers
+2576,108,2013-01-09,-11.5, Orlando,105,204.0,Orlando Magic
+2577,98,2013-01-11,-12.5, Cleveland,91,206.0,Cleveland Cavaliers
+2578,116,2013-01-13,-6.5, Golden State,105,209.0,Golden State Warriors
+2579,115,2013-01-15,-9.0, Portland,111,202.0,Portland Trail Blazers
+2580,117,2013-01-16,9.0, Oklahoma City,97,208.5,Oklahoma City Thunder
+2581,112,2013-01-18,-10.5, Washington,108,203.5,Washington Wizards
+2582,121,2013-01-20,1.0, Oklahoma City,118,208.5,Oklahoma City Thunder
+2583,105,2013-01-23,3.0, Houston,95,218.0,Houston Rockets
+2584,121,2013-01-26,-12.5, Sacramento,93,213.5,Sacramento Kings
+2585,102,2013-01-28,-5.5, Indiana,101,193.5,Indiana Pacers
+2586,118,2013-01-30,-4.0, Houston,110,216.5,Houston Rockets
+2587,113,2013-02-01,-7.5, New Orleans,98,204.5,New Orleans Pelicans
+2588,112,2013-02-05,-7.0, Milwaukee,104,213.0,Milwaukee Bucks
+2589,128,2013-02-07,-6.0, Chicago,96,196.5,Chicago Bulls
+2590,111,2013-02-09,-6.0, Cleveland,103,215.5,Cleveland Cavaliers
+2591,118,2013-02-10,2.0, Boston,114,206.0,Boston Celtics
+2592,109,2013-02-12,1.5, Toronto,108,206.5,Toronto Raptors
+2593,119,2013-02-13,3.0, Brooklyn,108,196.0,Brooklyn Nets
+2594,97,2013-02-19,-9.0, Boston,90,204.0,Boston Celtics
+2595,119,2013-02-22,-3.0, Washington,113,203.5,Washington Wizards
+2596,113,2013-02-23,-10.0, Charlotte,99,209.0,Charlotte Hornets
+2597,119,2013-02-25,-6.5, LA Lakers,108,216.5,Los Angeles Lakers
+2598,111,2013-02-27,-2.5, Portland,109,212.0,Portland Trail Blazers
+2599,105,2013-03-01,1.5, Oklahoma City,103,218.5,Oklahoma City Thunder
+2600,104,2013-03-04,-9.5, Atlanta,88,212.5,Atlanta Hawks
+2601,120,2013-03-05,-5.0, Sacramento,113,224.0,Sacramento Kings
+2602,107,2013-03-07,-4.0, LA Clippers,92,214.5,Los Angeles Clippers
+2603,111,2013-03-09,-15.5, Minnesota,88,210.5,Minnesota Timberwolves
+2604,108,2013-03-11,-9.0, Phoenix,93,212.5,Phoenix Suns
+2605,117,2013-03-13,-8.5, New York,94,207.0,New York Knicks
+2606,87,2013-03-15,-5.5, Memphis,80,195.0,Memphis Grizzlies
+2607,119,2013-03-18,-3.5, Chicago,118,194.5,Chicago Bulls
+2608,114,2013-03-19,9.5, Oklahoma City,104,218.5,Oklahoma City Thunder
+2609,101,2013-03-21,-14.5, Philadelphia,100,203.5,Philadelphia 76ers
+2610,101,2013-03-23,-11.5, Sacramento,95,221.5,Sacramento Kings
+2611,110,2013-03-25,-7.0, New Orleans,86,197.0,New Orleans Pelicans
+2612,100,2013-03-27,6.5, San Antonio,99,209.0,San Antonio Spurs
+2613,109,2013-03-29,-6.5, Brooklyn,87,201.5,Brooklyn Nets
+2614,113,2013-04-03,3.0, Utah,96,205.0,Utah Jazz
+2615,95,2013-04-04,-7.0, Dallas,94,208.5,Dallas Mavericks
+2616,132,2013-04-06,-6.0, Houston,114,210.5,Houston Rockets
+2617,96,2013-04-10,-3.5, San Antonio,86,202.5,San Antonio Spurs
+2618,108,2013-04-12,-3.0, Dallas,105,209.0,Dallas Mavericks
+2619,118,2013-04-14,-15.0, Portland,109,208.5,Portland Trail Blazers
+2620,112,2013-04-15,-5.5, Milwaukee,111,214.5,Milwaukee Bucks
+2621,118,2013-04-17,-13.0, Phoenix,98,211.5,Phoenix Suns
+2622,97,2013-04-20,-7.5, Golden State,95,211.5,Golden State Warriors
+2623,131,2013-04-23,-8.5, Golden State,117,208.0,Golden State Warriors
+2624,110,2013-04-26,-1.5, Golden State,108,210.5,Golden State Warriors
+2625,115,2013-04-28,-2.0, Golden State,101,212.5,Golden State Warriors
+2626,107,2013-04-30,-7.5, Golden State,100,211.0,Golden State Warriors
+2627,92,2013-05-02,2.5, Golden State,88,212.0,Golden State Warriors
